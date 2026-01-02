@@ -13,6 +13,7 @@ export default function Layout({ children, title, description }) {
         <meta name="description" content={metaDescription} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="google-site-verification" content="7o8LfHg4BFJJBSnzR9JmvskSn9JDLo3sDGiMVsr5BvE" />
+        <meta name="impact-site-verification" value="c530e8e9-a2c3-44db-8a7d-4f885c5670a6" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
