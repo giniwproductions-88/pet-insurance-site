@@ -1,75 +1,40 @@
 {
-  "slug": "siberian-husky",
   "name": "Siberian Husky",
-  "riskLevel": "Medium",
-  "riskColor": "yellow",
-  "commonIssues": "Eye problems, hip dysplasia, autoimmune disorders",
-  "description": "Siberian Huskies are beautiful, energetic dogs bred for endurance. They're generally healthy but prone to eye conditions, joint issues, and autoimmune disorders. Their adventurous nature also leads to more accident-related injuries.",
-  "costRange": "$40-70/mo",
-  "lifespan": "12-15 years",
-  "weight": "35-60 lbs",
-  "healthRisks": [
-    {
-      "condition": "Cataracts",
-      "likelihood": "High",
-      "typicalCost": "$2,500-$5,000",
-      "notes": "Hereditary juvenile cataracts common"
-    },
-    {
-      "condition": "Progressive Retinal Atrophy",
-      "likelihood": "Medium-High",
-      "typicalCost": "$1,000-$3,000",
-      "notes": "Can lead to blindness"
-    },
-    {
-      "condition": "Hip Dysplasia",
-      "likelihood": "Medium",
-      "typicalCost": "$3,500-$7,000",
-      "notes": "Less common than some breeds"
-    },
-    {
-      "condition": "Autoimmune Disorders",
-      "likelihood": "Medium",
-      "typicalCost": "$2,000-$8,000",
-      "notes": "Including lupus and skin conditions"
-    },
-    {
-      "condition": "Hypothyroidism",
-      "likelihood": "Medium",
-      "typicalCost": "$300-$600/year",
-      "notes": "Manageable with medication"
-    },
-    {
-      "condition": "Corneal Dystrophy",
-      "likelihood": "Medium",
-      "typicalCost": "$500-$2,000",
-      "notes": "Hereditary eye condition"
-    }
+  "slug": "siberian-husky",
+  "metaDescription": "Siberian Huskies face eye problems, hip dysplasia, and autoimmune disorders. Compare the best pet insurance for Huskies—coverage for cataracts, joints & more.",
+  "intro": "Siberian Huskies are beautiful, energetic dogs bred for endurance. They're generally healthier than many purebreds but prone to eye conditions, joint issues, and autoimmune disorders. Their adventurous nature also leads to more accidents.",
+  "whyInsurance": "While Huskies are relatively healthy, cataract surgery costs $5,000+, and their escape-artist tendencies mean more accident-related injuries. Insurance provides important protection for this active breed.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best eye condition coverage" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
   ],
-  "insuranceConsiderations": {
-    "mustHave": [
-      "Eye condition coverage",
-      "Hereditary condition coverage",
-      "Accident coverage (these dogs are escape artists)",
-      "Orthopedic coverage"
-    ],
-    "niceToHave": [
-      "Coverage for autoimmune conditions",
-      "Prescription medication coverage",
-      "Alternative therapies"
-    ],
-    "watchOutFor": [
-      "Eye condition exclusions",
-      "Hereditary condition exclusions",
-      "Pre-existing condition definitions",
-      "Waiting periods for eye issues"
-    ]
-  },
-  "recommendedProviders": [
+  "healthIssues": [
+    { "name": "Cataracts", "description": "Hereditary eye condition", "cost": "$2,500 - $5,000" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative eye disease", "cost": "$1,000 - $3,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Autoimmune Disorders", "description": "Lupus, skin conditions", "cost": "$2,000 - $8,000" },
+    { "name": "Hypothyroidism", "description": "Thyroid disorder", "cost": "$300 - $600/year" },
+    { "name": "Corneal Dystrophy", "description": "Hereditary eye condition", "cost": "$500 - $2,000" }
+  ],
+  "mustHave": [
+    "Eye condition coverage — Multiple hereditary eye problems",
+    "Hereditary condition coverage — Most Husky issues are genetic",
+    "Accident coverage — These dogs are escape artists",
+    "Orthopedic coverage — Hip dysplasia occurs"
+  ],
+  "redFlags": [
+    "Eye condition exclusions",
+    "Hereditary condition exclusions",
+    "Pre-existing condition traps for eye issues",
+    "Long waiting periods"
+  ],
+  "providers": [
     {
       "name": "Embrace",
-      "rating": 5,
-      "proseSummary": "Best eye condition coverage",
+      "tagline": "Best Eye Condition Coverage",
+      "description": "Embrace covers hereditary eye conditions that are common in Huskies. Their chronic condition coverage also handles autoimmune disorders well.",
+      "cost": "$42-65/mo",
       "pros": [
         "Covers hereditary eye conditions",
         "Good chronic condition coverage",
@@ -80,43 +45,53 @@
         "Annual limits apply",
         "Wellness costs extra"
       ],
-      "estimatedCost": "$42-65/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Healthy Paws",
-      "rating": 4,
-      "proseSummary": "Unlimited coverage",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No limits means your Husky's cataract surgery and any other issues are fully covered. Great for an active breed that might need multiple treatments.",
+      "cost": "$40-60/mo",
       "pros": [
         "No annual or lifetime limits",
         "Covers hereditary conditions",
-        "Fast claims"
+        "Fast claims processing",
+        "Covers accidents fully"
       ],
       "cons": [
         "No wellness coverage",
         "12-month orthopedic wait"
       ],
-      "estimatedCost": "$40-60/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Pets Best",
-      "rating": 4,
-      "proseSummary": "Good value option",
+      "tagline": "Best Value Option",
+      "description": "For Huskies—a relatively healthy breed—Pets Best offers good coverage at competitive prices. Solid option for budget-conscious owners.",
+      "cost": "$35-55/mo",
       "pros": [
         "Competitive pricing",
         "Covers hereditary conditions",
-        "Multiple plan options"
+        "Multiple plan options",
+        "No annual limit options"
       ],
       "cons": [
-        "Customer service mixed",
-        "May have longer processing"
+        "Customer service mixed reviews",
+        "May have longer claim processing"
       ],
-      "estimatedCost": "$35-55/mo"
+      "affiliateLink": "#"
     }
+  ],
+  "costIntro": "Siberian Huskies have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$30 - $50/month" },
+    { "age": "Adult (1-7 years)", "range": "$40 - $70/month" },
+    { "age": "Senior (8+ years)", "range": "$65 - $110+/month" }
   ],
   "faqs": [
     {
       "question": "Why do Huskies have so many eye problems?",
-      "answer": "Huskies are genetically predisposed to several eye conditions including juvenile cataracts, progressive retinal atrophy, and corneal dystrophy. Responsible breeders test for these, but they're still common. Get insurance with eye coverage."
+      "answer": "Huskies are genetically predisposed to several eye conditions including juvenile cataracts, PRA, and corneal dystrophy. Responsible breeders test for these, but they're still common. Get insurance with eye coverage."
     },
     {
       "question": "Is pet insurance worth it for a Husky?",
@@ -128,11 +103,17 @@
     },
     {
       "question": "Should I worry about accidents with a Husky?",
-      "answer": "Yes—Huskies are notorious escape artists and runners. They're more likely than some breeds to be hit by cars, get into fights, or injure themselves exploring. Accident coverage is important."
+      "answer": "Yes—Huskies are notorious escape artists and runners. They're more likely than some breeds to get hit by cars, get into fights, or injure themselves exploring. Accident coverage is important."
     },
     {
       "question": "What autoimmune disorders affect Huskies?",
-      "answer": "Huskies can develop lupus, zinc-responsive dermatosis, and uveodermatologic syndrome. These require ongoing treatment and medication. Look for insurance that covers chronic conditions."
+      "answer": "Huskies can develop lupus, zinc-responsive dermatosis, and uveodermatologic syndrome. These require ongoing treatment. Look for insurance that covers chronic conditions well."
     }
+  ],
+  "finalCta": "Protect your adventurous Husky from unexpected vet bills. Compare insurance quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Alaskan Malamute", "slug": "alaskan-malamute" },
+    { "name": "German Shepherd", "slug": "german-shepherd" },
+    { "name": "Australian Shepherd", "slug": "australian-shepherd" }
   ]
 }

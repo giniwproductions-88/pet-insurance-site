@@ -1,139 +1,119 @@
 {
-  "slug": "english-bulldog",
   "name": "English Bulldog",
-  "alternateName": "Bulldog",
-  "riskLevel": "Very High",
-  "riskColor": "red",
-  "commonIssues": "Breathing, joints, skin, heart",
-  "description": "English Bulldogs are one of the most expensive breeds to insure due to their numerous health issues. Their flat faces cause breathing problems, while their stocky build leads to joint issues. Insurance is essentially mandatory for this breed.",
-  "costRange": "$55-100/mo",
-  "lifespan": "8-10 years",
-  "weight": "40-50 lbs",
-  "healthRisks": [
-    {
-      "condition": "Brachycephalic Syndrome (BOAS)",
-      "likelihood": "Very High",
-      "typicalCost": "$2,000-$5,000",
-      "notes": "Breathing issues requiring surgery in many cases"
-    },
-    {
-      "condition": "Hip Dysplasia",
-      "likelihood": "High",
-      "typicalCost": "$3,500-$7,000",
-      "notes": "Common due to body structure"
-    },
-    {
-      "condition": "Cherry Eye",
-      "likelihood": "High",
-      "typicalCost": "$500-$1,500",
-      "notes": "Prolapsed tear gland requiring surgery"
-    },
-    {
-      "condition": "Skin Fold Dermatitis",
-      "likelihood": "Very High",
-      "typicalCost": "$200-$1,000/year",
-      "notes": "Ongoing skin infections in wrinkles"
-    },
-    {
-      "condition": "Heart Disease",
-      "likelihood": "Medium",
-      "typicalCost": "$5,000-$20,000",
-      "notes": "Pulmonic stenosis common in breed"
-    },
-    {
-      "condition": "Luxating Patella",
-      "likelihood": "Medium",
-      "typicalCost": "$1,500-$3,000",
-      "notes": "Kneecap dislocation"
-    }
+  "slug": "english-bulldog",
+  "metaDescription": "English Bulldogs have more health issues than almost any breed. Compare the best pet insurance for Bulldogs—coverage for BOAS, joints, skin & heart problems.",
+  "intro": "English Bulldogs are lovable, stubborn, and extremely prone to health problems. Their flat faces, stocky build, and wrinkled skin create a perfect storm of medical issues. Insurance isn't optional for this breed—it's essential.",
+  "whyInsurance": "English Bulldogs are one of the most expensive breeds to insure because they're one of the most expensive breeds to treat. Most Bulldogs will need significant veterinary care during their lifetime.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best overall (covers hereditary conditions, shorter ortho wait)" },
+    { "name": "Healthy Paws", "highlight": "Best for unlimited coverage (no caps on claims)" },
+    { "name": "Trupanion", "highlight": "Best for direct vet payment" }
   ],
-  "insuranceConsiderations": {
-    "mustHave": [
-      "Respiratory condition coverage (BOAS surgery)",
-      "Orthopedic coverage with short waiting period",
-      "Skin condition coverage",
-      "No breed-specific exclusions"
-    ],
-    "niceToHave": [
-      "Wellness plan for regular skin care",
-      "Coverage for congenital conditions",
-      "Low deductible option (you'll use it)"
-    ],
-    "watchOutFor": [
-      "Bilateral exclusions on joints",
-      "Long orthopedic waiting periods (12+ months)",
-      "Pre-existing condition definitions",
-      "Annual limits under $15,000"
-    ]
-  },
-  "recommendedProviders": [
+  "healthIssues": [
+    { "name": "BOAS", "description": "Breathing issues from flat face", "cost": "$2,000 - $5,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Cherry Eye", "description": "Prolapsed tear gland", "cost": "$500 - $1,500" },
+    { "name": "Skin Fold Dermatitis", "description": "Infections in wrinkles", "cost": "$200 - $1,000/year" },
+    { "name": "Heart Disease", "description": "Pulmonic stenosis", "cost": "$5,000 - $20,000" },
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,000" }
+  ],
+  "mustHave": [
+    "Respiratory condition coverage — BOAS surgery is common and expensive",
+    "Orthopedic coverage with short waiting period — Hip and joint issues are frequent",
+    "Skin condition coverage — Ongoing infections need treatment",
+    "No breed-specific exclusions — Some insurers limit Bulldog coverage"
+  ],
+  "redFlags": [
+    "Policies that exclude brachycephalic conditions",
+    "12+ month orthopedic waiting periods",
+    "Annual limits under $15,000 (one surgery can exceed $10k)",
+    "Bilateral exclusions that affect both hips"
+  ],
+  "providers": [
     {
       "name": "Embrace",
-      "rating": 5,
-      "proseSummary": "Best overall for Bulldogs",
+      "tagline": "Best Overall for English Bulldogs",
+      "description": "Embrace offers the best combination of coverage and waiting periods for Bulldogs. Their 6-month orthopedic wait (vs 12 months elsewhere) is crucial for a breed this prone to joint issues.",
+      "cost": "$75-100/mo",
       "pros": [
-        "Covers hereditary conditions",
-        "6-month orthopedic wait (not 12)",
-        "Diminishing deductible",
+        "Only 6-month orthopedic waiting period",
+        "Covers hereditary conditions fully",
+        "Diminishing deductible saves money",
         "Covers BOAS treatment"
       ],
       "cons": [
-        "Higher premiums for this breed",
+        "Higher premiums for Bulldogs",
         "Wellness plan costs extra"
       ],
-      "estimatedCost": "$75-100/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Healthy Paws",
-      "rating": 4,
-      "proseSummary": "Great for unlimited coverage",
+      "tagline": "Best for Unlimited Coverage",
+      "description": "If you want no caps on what insurance will pay, Healthy Paws is your best bet. For a breed that can rack up $20k+ in lifetime vet bills, unlimited coverage provides real peace of mind.",
+      "cost": "$70-95/mo",
       "pros": [
         "No annual or lifetime limits",
         "Fast claim processing",
-        "Covers hereditary conditions"
+        "Covers hereditary conditions",
+        "No caps on cancer treatment"
       ],
       "cons": [
         "No wellness coverage option",
         "12-month hip dysplasia wait"
       ],
-      "estimatedCost": "$70-95/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Trupanion",
-      "rating": 4,
-      "proseSummary": "Best for direct vet payment",
+      "tagline": "Best for Direct Vet Payment",
+      "description": "Trupanion can pay your vet directly so you don't have to front thousands of dollars for surgery. For expensive Bulldog procedures, this is a huge benefit.",
+      "cost": "$80-110/mo",
       "pros": [
-        "Pays vet directly",
+        "Pays vet directly at checkout",
         "No payout limits",
-        "Covers congenital conditions"
+        "Covers congenital conditions",
+        "One deductible per condition for life"
       ],
       "cons": [
         "Only 90% reimbursement option",
         "Higher premiums for Bulldogs"
       ],
-      "estimatedCost": "$80-110/mo"
+      "affiliateLink": "#"
     }
+  ],
+  "costIntro": "English Bulldogs are among the most expensive breeds to insure. Here's what to budget:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$55 - $80/month" },
+    { "age": "Adult (1-7 years)", "range": "$70 - $100/month" },
+    { "age": "Senior (8+ years)", "range": "$100 - $175+/month" }
   ],
   "faqs": [
     {
       "question": "Why is English Bulldog insurance so expensive?",
-      "answer": "English Bulldogs have more health issues than almost any other breed. Their flat faces cause breathing problems, their body structure leads to joint issues, and their skin folds cause chronic infections. Insurers know they'll likely pay out claims, so premiums reflect that risk."
+      "answer": "Bulldogs have more health issues than almost any breed. Their flat faces cause breathing problems, their body structure leads to joint issues, and their skin folds cause infections. Insurers price based on expected claims—and Bulldogs file a lot of them."
     },
     {
       "question": "Is pet insurance worth it for an English Bulldog?",
-      "answer": "Absolutely yes. The question isn't if your Bulldog will need expensive care, but when. BOAS surgery alone can cost $5,000+, and most Bulldogs need some medical intervention. Insurance typically pays for itself within 1-2 years."
+      "answer": "Absolutely. The question isn't if your Bulldog will need expensive care, but when. BOAS surgery alone costs $5,000+, and most Bulldogs need some medical intervention. Insurance typically pays for itself within 1-2 years."
     },
     {
       "question": "What's the best age to insure my English Bulldog?",
-      "answer": "As young as possible, ideally 8-12 weeks when you get them. This ensures no pre-existing conditions are documented and waiting periods are finished before issues typically emerge around age 2-4."
+      "answer": "As young as possible—ideally 8-12 weeks. This ensures no pre-existing conditions are documented and waiting periods finish before issues typically emerge around age 2-4."
     },
     {
       "question": "Will insurance cover my Bulldog's breathing surgery?",
       "answer": "Most comprehensive policies cover BOAS surgery as long as it wasn't a pre-existing condition. Get insurance before any vet documents breathing concerns. Embrace, Healthy Paws, and Trupanion all cover this."
     },
     {
-      "question": "Are there any companies that won't insure English Bulldogs?",
-      "answer": "Most major pet insurers will cover Bulldogs, but some may have breed-specific exclusions or waiting periods. Always confirm coverage details before purchasing. Avoid any policy that excludes brachycephalic conditions."
+      "question": "Are there companies that won't insure English Bulldogs?",
+      "answer": "Most major pet insurers cover Bulldogs, but some may have breed-specific exclusions or waiting periods. Always confirm coverage details before purchasing. Avoid any policy that excludes brachycephalic conditions."
     }
+  ],
+  "finalCta": "English Bulldogs need insurance more than almost any breed. Don't wait until health problems start—compare quotes and protect your Bulldog today.",
+  "relatedBreeds": [
+    { "name": "French Bulldog", "slug": "french-bulldog" },
+    { "name": "Pug", "slug": "pug" },
+    { "name": "Boston Terrier", "slug": "boston-terrier" }
   ]
 }

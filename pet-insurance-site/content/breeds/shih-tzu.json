@@ -1,75 +1,40 @@
 {
-  "slug": "shih-tzu",
   "name": "Shih Tzu",
-  "riskLevel": "Medium",
-  "riskColor": "yellow",
-  "commonIssues": "Eye problems, breathing issues, dental disease",
-  "description": "Shih Tzus are affectionate companion dogs with moderate health concerns. Their prominent eyes are prone to injury and disease, while their flat faces can cause breathing issues. Regular grooming needs and dental problems add to their care requirements.",
-  "costRange": "$35-60/mo",
-  "lifespan": "10-16 years",
-  "weight": "9-16 lbs",
-  "healthRisks": [
-    {
-      "condition": "Eye Problems (Proptosis, Ulcers)",
-      "likelihood": "High",
-      "typicalCost": "$500-$3,000",
-      "notes": "Bulging eyes are easily injured"
-    },
-    {
-      "condition": "Brachycephalic Syndrome",
-      "likelihood": "Medium-High",
-      "typicalCost": "$1,500-$4,000",
-      "notes": "Breathing difficulties from flat face"
-    },
-    {
-      "condition": "Dental Disease",
-      "likelihood": "High",
-      "typicalCost": "$500-$2,000",
-      "notes": "Small mouths prone to crowding"
-    },
-    {
-      "condition": "Hip Dysplasia",
-      "likelihood": "Medium",
-      "typicalCost": "$3,000-$6,000",
-      "notes": "Surprisingly common in this breed"
-    },
-    {
-      "condition": "Ear Infections",
-      "likelihood": "High",
-      "typicalCost": "$100-$300/episode",
-      "notes": "Hairy ears trap moisture"
-    },
-    {
-      "condition": "Intervertebral Disc Disease",
-      "likelihood": "Low-Medium",
-      "typicalCost": "$3,000-$8,000",
-      "notes": "Spinal issues can occur"
-    }
+  "slug": "shih-tzu",
+  "metaDescription": "Shih Tzus face eye problems, breathing issues, and dental disease. Compare the best pet insurance for Shih Tzus—coverage for eye injuries, BOAS & more.",
+  "intro": "Shih Tzus are affectionate lap dogs with moderate health concerns. Their bulging eyes are prone to injury, their flat faces can cause breathing issues, and their small mouths lead to dental problems. Good insurance coverage helps manage these risks.",
+  "whyInsurance": "Shih Tzus' prominent eyes are easily injured, sometimes requiring expensive surgery. Breathing issues and dental disease add to their care costs. Insurance provides a safety net for these common problems.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best overall (eye conditions, dental covered)" },
+    { "name": "Pumpkin", "highlight": "Best dental coverage" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" }
   ],
-  "insuranceConsiderations": {
-    "mustHave": [
-      "Eye injury and disease coverage",
-      "Respiratory condition coverage",
-      "Dental illness coverage",
-      "No breed-specific exclusions"
-    ],
-    "niceToHave": [
-      "Wellness coverage for regular eye checks",
-      "Alternative therapy coverage",
-      "Low deductible options"
-    ],
-    "watchOutFor": [
-      "Eye condition exclusions",
-      "Brachycephalic condition exclusions",
-      "Dental exclusions",
-      "Pre-existing condition definitions"
-    ]
-  },
-  "recommendedProviders": [
+  "healthIssues": [
+    { "name": "Eye Problems", "description": "Ulcers, proptosis, dry eye", "cost": "$500 - $3,000" },
+    { "name": "Brachycephalic Syndrome", "description": "Breathing difficulties", "cost": "$1,500 - $4,000" },
+    { "name": "Dental Disease", "description": "Crowding, decay, extractions", "cost": "$500 - $2,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,000 - $6,000" },
+    { "name": "Ear Infections", "description": "Chronic infections", "cost": "$100 - $300/episode" },
+    { "name": "IVDD", "description": "Spinal disc problems", "cost": "$3,000 - $8,000" }
+  ],
+  "mustHave": [
+    "Eye injury and disease coverage — Their bulging eyes are vulnerable",
+    "Respiratory condition coverage — Flat face causes breathing issues",
+    "Dental illness coverage — Small mouths mean dental problems",
+    "No breed-specific exclusions"
+  ],
+  "redFlags": [
+    "Eye condition exclusions",
+    "Brachycephalic condition exclusions",
+    "Dental exclusions",
+    "Pre-existing condition traps for eye issues"
+  ],
+  "providers": [
     {
       "name": "Embrace",
-      "rating": 5,
-      "proseSummary": "Best overall for Shih Tzus",
+      "tagline": "Best Overall for Shih Tzus",
+      "description": "Embrace covers eye conditions, dental illness, and hereditary conditions. For a breed with multiple health concerns, comprehensive coverage is key.",
+      "cost": "$35-55/mo",
       "pros": [
         "Covers eye conditions",
         "Covers dental illness",
@@ -80,38 +45,48 @@
         "Annual limits apply",
         "Wellness costs extra"
       ],
-      "estimatedCost": "$35-55/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Pumpkin",
-      "rating": 4,
-      "proseSummary": "Great dental coverage",
+      "tagline": "Best Dental Coverage",
+      "description": "Pumpkin includes dental illness coverage standard—important for Shih Tzus with their small, crowded mouths prone to decay and gum disease.",
+      "cost": "$32-50/mo",
       "pros": [
         "Dental illness included",
         "90% reimbursement available",
-        "Covers hereditary conditions"
+        "Covers hereditary conditions",
+        "No breed restrictions"
       ],
       "cons": [
         "Newer company",
-        "Annual limits"
+        "Annual limits apply"
       ],
-      "estimatedCost": "$32-50/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Healthy Paws",
-      "rating": 4,
-      "proseSummary": "Unlimited coverage option",
+      "tagline": "Best Unlimited Coverage",
+      "description": "If your Shih Tzu needs multiple surgeries (eyes, breathing, spine), unlimited coverage ensures you never hit a cap.",
+      "cost": "$35-55/mo",
       "pros": [
         "No annual or lifetime limits",
         "Covers eye conditions",
-        "Fast claims"
+        "Fast claims processing",
+        "No per-incident caps"
       ],
       "cons": [
         "No dental illness coverage",
         "No wellness option"
       ],
-      "estimatedCost": "$35-55/mo"
+      "affiliateLink": "#"
     }
+  ],
+  "costIntro": "Shih Tzus have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$25 - $40/month" },
+    { "age": "Adult (1-7 years)", "range": "$32 - $60/month" },
+    { "age": "Senior (8+ years)", "range": "$55 - $95+/month" }
   ],
   "faqs": [
     {
@@ -128,11 +103,17 @@
     },
     {
       "question": "Should I get dental coverage for my Shih Tzu?",
-      "answer": "Yes, dental coverage is valuable for Shih Tzus. Their small mouths lead to crowded teeth and decay. Look for policies that cover dental illness (infections, extractions), not just dental accidents."
+      "answer": "Yes, dental coverage is valuable for Shih Tzus. Their small mouths lead to crowded teeth and decay. Look for policies covering dental illness (infections, extractions), not just accidents."
     },
     {
       "question": "Are Shih Tzus expensive to insure?",
-      "answer": "Shih Tzus have moderate insurance costs, typically $35-60/month. They're less expensive than large breeds or breeds with severe health issues, but still require comprehensive coverage."
+      "answer": "Shih Tzus have moderate insurance costs—typically $35-60/month. They're less expensive than large breeds or breeds with severe health issues, but still need comprehensive coverage."
     }
+  ],
+  "finalCta": "Protect your Shih Tzu's eyes, teeth, and overall health. Compare insurance quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Lhasa Apso", "slug": "lhasa-apso" },
+    { "name": "Pekingese", "slug": "pekingese" },
+    { "name": "Yorkshire Terrier", "slug": "yorkshire-terrier" }
   ]
 }

@@ -1,140 +1,119 @@
 {
-  "slug": "bernese-mountain-dog",
   "name": "Bernese Mountain Dog",
-  "alternateName": "Berner",
-  "riskLevel": "Very High",
-  "riskColor": "red",
-  "commonIssues": "Cancer, hip dysplasia, bloat",
-  "description": "Bernese Mountain Dogs are gentle giants with unfortunately high rates of cancer and a short lifespan. Cancer is the leading cause of death, affecting nearly half of all Berners. Combined with joint issues and bloat risk, pet insurance is essential for this beloved breed.",
-  "costRange": "$55-95/mo",
-  "lifespan": "6-8 years",
-  "weight": "70-115 lbs",
-  "healthRisks": [
-    {
-      "condition": "Histiocytic Sarcoma",
-      "likelihood": "Very High",
-      "typicalCost": "$5,000-$15,000",
-      "notes": "Aggressive cancer common in breed"
-    },
-    {
-      "condition": "Other Cancers",
-      "likelihood": "Very High",
-      "typicalCost": "$5,000-$20,000",
-      "notes": "~50% of Berners die from cancer"
-    },
-    {
-      "condition": "Hip Dysplasia",
-      "likelihood": "High",
-      "typicalCost": "$4,000-$8,000",
-      "notes": "Very common in this large breed"
-    },
-    {
-      "condition": "Elbow Dysplasia",
-      "likelihood": "High",
-      "typicalCost": "$2,000-$4,000",
-      "notes": "Often occurs with hip issues"
-    },
-    {
-      "condition": "Bloat (GDV)",
-      "likelihood": "Medium-High",
-      "typicalCost": "$2,500-$7,500",
-      "notes": "Life-threatening emergency"
-    },
-    {
-      "condition": "Cruciate Ligament Tears",
-      "likelihood": "Medium",
-      "typicalCost": "$3,000-$6,000",
-      "notes": "Per leg; weight puts stress on joints"
-    }
+  "slug": "bernese-mountain-dog",
+  "metaDescription": "Bernese Mountain Dogs have extremely high cancer rates and short lifespans. Compare the best pet insurance for Berners—coverage for cancer, joints, bloat & more.",
+  "intro": "Bernese Mountain Dogs are gentle giants with heartbreakingly high cancer rates and short lifespans. Nearly 50% die from cancer, often before age 8. Combined with joint issues and bloat risk, insurance is absolutely essential.",
+  "whyInsurance": "Berners have one of the highest cancer rates of any breed—nearly half will develop cancer. A single cancer diagnosis can cost $15,000+ to treat. Insurance is mandatory, not optional.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best cancer coverage (no limits)" },
+    { "name": "Trupanion", "highlight": "Best for lifetime conditions" },
+    { "name": "Embrace", "highlight": "Best hereditary coverage" }
   ],
-  "insuranceConsiderations": {
-    "mustHave": [
-      "Comprehensive cancer coverage",
-      "High or unlimited annual limits",
-      "Orthopedic coverage",
-      "Emergency surgery coverage (bloat)"
-    ],
-    "niceToHave": [
-      "No per-condition caps",
-      "Coverage for chemotherapy",
-      "Alternative therapy coverage"
-    ],
-    "watchOutFor": [
-      "Cancer coverage limits or caps",
-      "Low annual limits ($10,000 won't cover cancer + surgery)",
-      "Long orthopedic waiting periods",
-      "Age restrictions for giant breeds"
-    ]
-  },
-  "recommendedProviders": [
+  "healthIssues": [
+    { "name": "Histiocytic Sarcoma", "description": "Aggressive cancer common in breed", "cost": "$5,000 - $15,000" },
+    { "name": "Other Cancers", "description": "~50% of Berners die from cancer", "cost": "$5,000 - $20,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$4,000 - $8,000" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint issues", "cost": "$2,000 - $4,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twisting emergency", "cost": "$2,500 - $7,500" },
+    { "name": "Cruciate Ligament Tears", "description": "Knee ligament injury", "cost": "$3,000 - $6,000" }
+  ],
+  "mustHave": [
+    "Comprehensive cancer coverage — Nearly half of Berners get cancer",
+    "High or unlimited annual limits — Cancer treatment is expensive",
+    "Orthopedic coverage — Hip and elbow dysplasia are common",
+    "Emergency surgery coverage — Bloat is a risk"
+  ],
+  "redFlags": [
+    "Cancer coverage limits or caps",
+    "Low annual limits ($10,000 won't cover cancer + surgery)",
+    "Long orthopedic waiting periods",
+    "Age restrictions for giant breeds"
+  ],
+  "providers": [
     {
       "name": "Healthy Paws",
-      "rating": 5,
-      "proseSummary": "Best cancer coverage",
+      "tagline": "Best Cancer Coverage",
+      "description": "With no annual or lifetime limits and no per-condition caps, Healthy Paws provides the comprehensive cancer coverage Berners desperately need.",
+      "cost": "$65-95/mo",
       "pros": [
         "No annual or lifetime limits",
         "Comprehensive cancer coverage",
         "No per-condition caps",
-        "Fast claims"
+        "Fast claims processing"
       ],
       "cons": [
         "No wellness coverage",
         "12-month orthopedic wait"
       ],
-      "estimatedCost": "$65-95/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Trupanion",
-      "rating": 5,
-      "proseSummary": "Best for lifetime conditions",
+      "tagline": "Best for Lifetime Conditions",
+      "description": "Trupanion's no-limits policy covers ongoing cancer treatment for life. Pay one deductible per condition, then 90% coverage forever.",
+      "cost": "$70-100/mo",
       "pros": [
         "No payout limits ever",
+        "One deductible per condition",
         "Covers all cancers fully",
-        "Direct vet payment",
-        "Great for chronic conditions"
+        "Direct vet payment"
       ],
       "cons": [
         "Only 90% reimbursement",
-        "Higher premiums"
+        "Higher premiums for giants"
       ],
-      "estimatedCost": "$70-100/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Embrace",
-      "rating": 4,
-      "proseSummary": "Good hereditary coverage",
+      "tagline": "Best Hereditary Coverage",
+      "description": "Embrace covers hereditary conditions with a shorter orthopedic wait. Good option if you want comprehensive coverage with wellness options.",
+      "cost": "$60-90/mo",
       "pros": [
         "Covers hereditary conditions",
         "6-month orthopedic wait",
-        "Diminishing deductible"
+        "Diminishing deductible",
+        "Wellness available"
       ],
       "cons": [
         "Annual limits may be insufficient for cancer",
         "Higher premiums for giants"
       ],
-      "estimatedCost": "$60-90/mo"
+      "affiliateLink": "#"
     }
+  ],
+  "costIntro": "Bernese Mountain Dogs are among the most expensive breeds to insure. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$45 - $70/month" },
+    { "age": "Adult (1-6 years)", "range": "$55 - $95/month" },
+    { "age": "Senior (7+ years)", "range": "$90 - $160+/month" }
   ],
   "faqs": [
     {
       "question": "Why do Bernese Mountain Dogs have such a short lifespan?",
-      "answer": "Cancer, particularly histiocytic sarcoma, affects Berners at alarming rates. Nearly 50% die from cancer, often before age 8. This genetic predisposition significantly shortens their lifespan compared to other large breeds."
+      "answer": "Cancer, particularly histiocytic sarcoma, affects Berners at alarming rates. Nearly 50% die from cancer, often before age 8. This genetic predisposition significantly shortens their lifespan."
     },
     {
       "question": "Is pet insurance worth it for a Bernese Mountain Dog?",
-      "answer": "Absolutely essential. With cancer rates near 50% and high orthopedic issues, most Berners will face major medical expenses. A single cancer treatment can exceed $15,000. Insurance is mandatory for this breed."
+      "answer": "Absolutely essential. With cancer rates near 50% and high orthopedic issues, most Berners will face major medical expenses. A single cancer treatment can exceed $15,000. Insurance is mandatory."
     },
     {
       "question": "What annual limit do I need?",
-      "answer": "We recommend unlimited coverage. Cancer treatment plus joint surgery could easily exceed $20,000 in a single year. Policies with $10,000 annual limits are inadequate for this breed."
+      "answer": "We recommend unlimited coverage. Cancer treatment plus joint surgery could easily exceed $20,000 in a single year. Policies with $10,000 limits are inadequate for this breed."
     },
     {
       "question": "When should I insure my Berner?",
-      "answer": "Immediately as a puppy. Joint issues can develop during rapid growth (4-12 months), and cancer can strike at any age. Early insurance ensures maximum coverage for this high-risk breed."
+      "answer": "Immediately as a puppy. Joint issues can develop during rapid growth (4-12 months), and cancer can strike at any age. Early insurance ensures maximum coverage."
     },
     {
-      "question": "Should I consider a prophylactic gastropexy?",
-      "answer": "Yes, strongly consider having your Berner's stomach tacked during spay/neuter surgery. This prevents bloat, which is life-threatening and expensive to treat. Some insurance covers this preventive procedure."
+      "question": "Should I consider preventive gastropexy?",
+      "answer": "Yes, strongly consider stomach tacking during spay/neuter surgery. It prevents life-threatening bloat and costs $200-500 when combined with another procedure. Some insurance covers this."
     }
+  ],
+  "finalCta": "Berners need serious insurance coverage. Don't wait—compare quotes and protect your gentle giant from cancer and other costly conditions.",
+  "relatedBreeds": [
+    { "name": "Great Dane", "slug": "great-dane" },
+    { "name": "Newfoundland", "slug": "newfoundland" },
+    { "name": "Saint Bernard", "slug": "saint-bernard" }
   ]
 }

@@ -1,79 +1,43 @@
 {
-  "slug": "doberman",
   "name": "Doberman Pinscher",
-  "alternateName": "Doberman",
-  "riskLevel": "High",
-  "riskColor": "orange",
-  "commonIssues": "Heart disease, hip dysplasia, von Willebrand's",
-  "description": "Dobermans are athletic, intelligent dogs with a concerning predisposition to heart disease. Dilated Cardiomyopathy affects a significant percentage of the breed. They also face joint issues and a bleeding disorder. Insurance with strong cardiac coverage is essential.",
-  "costRange": "$50-85/mo",
-  "lifespan": "10-13 years",
-  "weight": "60-100 lbs",
-  "healthRisks": [
-    {
-      "condition": "Dilated Cardiomyopathy (DCM)",
-      "likelihood": "Very High",
-      "typicalCost": "$5,000-$20,000",
-      "notes": "Up to 60% of Dobermans affected"
-    },
-    {
-      "condition": "Hip Dysplasia",
-      "likelihood": "Medium-High",
-      "typicalCost": "$3,500-$7,000",
-      "notes": "Common in this athletic breed"
-    },
-    {
-      "condition": "Von Willebrand's Disease",
-      "likelihood": "Medium-High",
-      "typicalCost": "Varies",
-      "notes": "Bleeding disorder affecting surgery risk"
-    },
-    {
-      "condition": "Wobbler Syndrome",
-      "likelihood": "Medium",
-      "typicalCost": "$5,000-$10,000",
-      "notes": "Spinal cord compression"
-    },
-    {
-      "condition": "Bloat (GDV)",
-      "likelihood": "Medium",
-      "typicalCost": "$2,500-$7,500",
-      "notes": "Deep-chested breeds at risk"
-    },
-    {
-      "condition": "Hypothyroidism",
-      "likelihood": "Medium",
-      "typicalCost": "$300-$600/year",
-      "notes": "Manageable with medication"
-    }
+  "slug": "doberman",
+  "metaDescription": "Dobermans have extremely high heart disease rates. Compare the best pet insurance for Dobermans—coverage for DCM, hip dysplasia, bloat & more.",
+  "intro": "Dobermans are athletic, intelligent dogs with a serious health concern: heart disease. Up to 60% of Dobermans develop Dilated Cardiomyopathy (DCM). Combined with joint issues and bloat risk, insurance is essential for this breed.",
+  "whyInsurance": "With over half of Dobermans developing DCM—which requires expensive ongoing treatment—insurance isn't optional. A single year of cardiac care can exceed $10,000.",
+  "topPicks": [
+    { "name": "Trupanion", "highlight": "Best for heart conditions (no limits)" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best chronic condition coverage" }
   ],
-  "insuranceConsiderations": {
-    "mustHave": [
-      "Heart condition coverage (DCM)",
-      "Coverage for ongoing cardiac medications",
-      "Orthopedic coverage",
-      "Emergency surgery coverage"
-    ],
-    "niceToHave": [
-      "Unlimited annual coverage",
-      "No per-condition limits",
-      "Coverage for echocardiograms"
-    ],
-    "watchOutFor": [
-      "Heart condition exclusions or limits",
-      "Breed restrictions (some insurers)",
-      "Waiting periods for cardiac issues",
-      "Low prescription medication caps"
-    ]
-  },
-  "recommendedProviders": [
+  "healthIssues": [
+    { "name": "Dilated Cardiomyopathy", "description": "Heart disease (affects 50-60%)", "cost": "$5,000 - $20,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Von Willebrand's Disease", "description": "Bleeding disorder", "cost": "Varies" },
+    { "name": "Wobbler Syndrome", "description": "Spinal cord compression", "cost": "$5,000 - $10,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twisting emergency", "cost": "$2,500 - $7,500" },
+    { "name": "Hypothyroidism", "description": "Thyroid disorder", "cost": "$300 - $600/year" }
+  ],
+  "mustHave": [
+    "Heart condition coverage — DCM affects the majority of Dobermans",
+    "Ongoing cardiac medication coverage — Treatment is lifelong",
+    "Orthopedic coverage — Hip and joint issues are common",
+    "Emergency surgery coverage — Bloat is a risk"
+  ],
+  "redFlags": [
+    "Heart condition exclusions or limits",
+    "Breed restrictions (some insurers won't cover Dobermans)",
+    "Waiting periods for cardiac issues",
+    "Low prescription medication caps"
+  ],
+  "providers": [
     {
       "name": "Trupanion",
-      "rating": 5,
-      "proseSummary": "Best for heart conditions",
+      "tagline": "Best for Heart Conditions",
+      "description": "Trupanion's no-limits policy and one-deductible-per-condition model is ideal for Dobermans. Pay once for DCM, then 90% coverage for life.",
+      "cost": "$60-90/mo",
       "pros": [
         "No payout limits",
-        "Excellent for chronic conditions",
+        "One deductible per condition for life",
         "Covers ongoing cardiac care",
         "Direct vet payment"
       ],
@@ -81,59 +45,75 @@
         "Only 90% reimbursement",
         "Higher premiums"
       ],
-      "estimatedCost": "$60-90/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Healthy Paws",
-      "rating": 4,
-      "proseSummary": "Unlimited coverage option",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No annual or lifetime limits means your Doberman's heart treatment is always covered. For a breed with 60% DCM rates, unlimited coverage matters.",
+      "cost": "$55-80/mo",
       "pros": [
         "No annual or lifetime limits",
         "Covers hereditary conditions",
-        "Fast claims"
+        "Fast claims processing",
+        "No per-condition caps"
       ],
       "cons": [
         "No wellness coverage",
         "12-month orthopedic wait"
       ],
-      "estimatedCost": "$55-80/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Embrace",
-      "rating": 4,
-      "proseSummary": "Good chronic condition coverage",
+      "tagline": "Best Chronic Condition Coverage",
+      "description": "Embrace excels at covering ongoing conditions like heart disease. Their prescription coverage handles the monthly cardiac medications.",
+      "cost": "$55-85/mo",
       "pros": [
         "Covers hereditary conditions",
         "Good prescription coverage",
-        "6-month orthopedic wait"
+        "6-month orthopedic wait",
+        "Diminishing deductible"
       ],
       "cons": [
         "Annual limits may restrict DCM coverage",
         "Higher premiums for this breed"
       ],
-      "estimatedCost": "$55-85/mo"
+      "affiliateLink": "#"
     }
+  ],
+  "costIntro": "Dobermans have higher premiums due to their heart disease risk. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$40 - $65/month" },
+    { "age": "Adult (1-7 years)", "range": "$50 - $85/month" },
+    { "age": "Senior (8+ years)", "range": "$80 - $140+/month" }
   ],
   "faqs": [
     {
       "question": "Why do Dobermans have such high heart disease rates?",
-      "answer": "Dobermans have a genetic predisposition to Dilated Cardiomyopathy (DCM). Studies suggest 50-60% of Dobermans will develop this condition. Annual cardiac screening and comprehensive insurance are essential."
+      "answer": "Dobermans have a genetic predisposition to Dilated Cardiomyopathy (DCM). Studies suggest 50-60% will develop this condition. Annual cardiac screening and comprehensive insurance are essential."
     },
     {
       "question": "Is pet insurance worth it for a Doberman?",
-      "answer": "Absolutely essential. With over half of Dobermans developing DCM, which requires expensive ongoing treatment, insurance is not optional for this breed. A single year of cardiac treatment can exceed $10,000."
+      "answer": "Absolutely essential. With over half of Dobermans developing DCM—which requires expensive ongoing treatment—insurance is mandatory. A single year of cardiac treatment can exceed $10,000."
     },
     {
       "question": "What is von Willebrand's Disease?",
-      "answer": "A bleeding disorder common in Dobermans that affects blood clotting. While manageable, it complicates any surgery and requires special precautions. Test your Doberman before any procedures."
+      "answer": "A bleeding disorder common in Dobermans that affects blood clotting. While manageable, it complicates surgery and requires special precautions. Test your Doberman before any procedures."
     },
     {
       "question": "Should I get regular heart screenings?",
-      "answer": "Yes, annual echocardiograms are recommended for Dobermans starting at age 2-3. Early detection of DCM allows for treatment that can extend life. Some insurance covers these diagnostic tests."
+      "answer": "Yes, annual echocardiograms are recommended for Dobermans starting at age 2-3. Early detection of DCM allows for treatment that can extend life. Some insurance covers these diagnostics."
     },
     {
       "question": "Do insurance companies restrict Doberman coverage?",
-      "answer": "Most major pet insurers cover Dobermans for health insurance. However, some homeowner's policies have breed restrictions. Check both types of insurance when adding a Doberman to your family."
+      "answer": "Most major pet insurers cover Dobermans for health insurance. However, some homeowner's policies have breed restrictions. Check both types of insurance when adding a Doberman."
     }
+  ],
+  "finalCta": "Protect your Doberman's heart—literally. Compare insurance quotes and find coverage for this high-risk breed.",
+  "relatedBreeds": [
+    { "name": "Rottweiler", "slug": "rottweiler" },
+    { "name": "German Shepherd", "slug": "german-shepherd" },
+    { "name": "Great Dane", "slug": "great-dane" }
   ]
 }

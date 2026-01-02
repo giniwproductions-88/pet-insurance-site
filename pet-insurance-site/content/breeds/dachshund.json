@@ -1,75 +1,40 @@
 {
-  "slug": "dachshund",
   "name": "Dachshund",
-  "riskLevel": "High",
-  "riskColor": "orange",
-  "commonIssues": "IVDD (back problems), obesity, dental",
-  "description": "Dachshunds' distinctive long bodies make them highly prone to back problems, particularly Intervertebral Disc Disease (IVDD). This can require expensive surgery, making insurance especially important for this breed. They also struggle with obesity and dental issues.",
-  "costRange": "$40-70/mo",
-  "lifespan": "12-16 years",
-  "weight": "16-32 lbs (standard), under 11 lbs (mini)",
-  "healthRisks": [
-    {
-      "condition": "Intervertebral Disc Disease (IVDD)",
-      "likelihood": "Very High",
-      "typicalCost": "$4,000-$10,000",
-      "notes": "Up to 25% of Dachshunds affected"
-    },
-    {
-      "condition": "Obesity",
-      "likelihood": "High",
-      "typicalCost": "Varies",
-      "notes": "Worsens back problems significantly"
-    },
-    {
-      "condition": "Dental Disease",
-      "likelihood": "High",
-      "typicalCost": "$500-$2,000",
-      "notes": "Small mouths prone to crowding"
-    },
-    {
-      "condition": "Luxating Patella",
-      "likelihood": "Medium",
-      "typicalCost": "$1,500-$3,500",
-      "notes": "Kneecap dislocation"
-    },
-    {
-      "condition": "Cushing's Disease",
-      "likelihood": "Medium",
-      "typicalCost": "$1,000-$5,000",
-      "notes": "Hormonal disorder requiring ongoing treatment"
-    },
-    {
-      "condition": "Progressive Retinal Atrophy",
-      "likelihood": "Low-Medium",
-      "typicalCost": "$1,000-$3,000",
-      "notes": "Hereditary eye condition"
-    }
+  "slug": "dachshund",
+  "metaDescription": "Dachshunds have extremely high back problem rates. Compare the best pet insurance for Dachshunds—coverage for IVDD, spine surgery, dental issues & more.",
+  "intro": "Dachshunds' adorable long bodies come with a serious downside: back problems. Up to 25% of Dachshunds develop Intervertebral Disc Disease (IVDD), which can require surgery costing $10,000. Insurance is essential for this breed.",
+  "whyInsurance": "Dachshunds have one of the highest rates of back problems of any breed. IVDD surgery is expensive and common. Add in dental issues and obesity-related problems, and insurance becomes a smart investment.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for IVDD (6-month ortho wait, covers rehab)" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage (no caps on surgery)" },
+    { "name": "Petplan", "highlight": "Best for alternative therapy coverage" }
   ],
-  "insuranceConsiderations": {
-    "mustHave": [
-      "IVDD/back surgery coverage",
-      "Short orthopedic waiting period",
-      "No spinal condition exclusions",
-      "Coverage for ongoing physical therapy"
-    ],
-    "niceToHave": [
-      "Dental illness coverage",
-      "Alternative therapy (acupuncture, rehab)",
-      "Prescription medication coverage"
-    ],
-    "watchOutFor": [
-      "Spinal/back condition exclusions",
-      "Bilateral exclusions (affects both sides)",
-      "Long waiting periods for IVDD",
-      "Physical therapy exclusions"
-    ]
-  },
-  "recommendedProviders": [
+  "healthIssues": [
+    { "name": "IVDD", "description": "Back/spine disc disease", "cost": "$4,000 - $10,000" },
+    { "name": "Obesity", "description": "Weight issues worsen back problems", "cost": "Varies" },
+    { "name": "Dental Disease", "description": "Teeth crowding and decay", "cost": "$500 - $2,000" },
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Cushing's Disease", "description": "Hormonal disorder", "cost": "$1,000 - $5,000" },
+    { "name": "PRA", "description": "Progressive eye disease", "cost": "$1,000 - $3,000" }
+  ],
+  "mustHave": [
+    "IVDD/back surgery coverage — This is the #1 concern for Dachshunds",
+    "Short orthopedic waiting period — 6 months beats 12 months",
+    "No spinal condition exclusions — Some policies exclude back issues",
+    "Physical therapy coverage — Rehab is often needed after back surgery"
+  ],
+  "redFlags": [
+    "Spinal/back condition exclusions",
+    "12+ month orthopedic waiting periods",
+    "Bilateral exclusions (if one disc herniates, others may follow)",
+    "Physical therapy exclusions"
+  ],
+  "providers": [
     {
       "name": "Embrace",
-      "rating": 5,
-      "proseSummary": "Best for IVDD coverage",
+      "tagline": "Best for IVDD Coverage",
+      "description": "Embrace has only a 6-month orthopedic waiting period (vs 12 months elsewhere) and covers physical therapy. For a breed where back surgery is likely, this matters.",
+      "cost": "$45-65/mo",
       "pros": [
         "Only 6-month orthopedic wait",
         "Covers physical therapy",
@@ -80,59 +45,75 @@
         "Annual limits apply",
         "Wellness costs extra"
       ],
-      "estimatedCost": "$45-65/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Healthy Paws",
-      "rating": 4,
-      "proseSummary": "Unlimited coverage for surgery",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No limits on what they'll pay means your Dachshund's $10,000 back surgery is fully covered. For a high-risk breed, unlimited coverage provides peace of mind.",
+      "cost": "$40-60/mo",
       "pros": [
         "No annual or lifetime limits",
         "Covers IVDD surgery fully",
-        "Fast claims"
+        "Fast claims processing",
+        "No per-incident caps"
       ],
       "cons": [
-        "12-month wait for hip dysplasia",
+        "12-month orthopedic wait",
         "No physical therapy coverage"
       ],
-      "estimatedCost": "$40-60/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Petplan",
-      "rating": 4,
-      "proseSummary": "Good alternative therapy coverage",
+      "tagline": "Best Alternative Therapy Coverage",
+      "description": "Petplan covers acupuncture and rehabilitation—helpful for Dachshunds recovering from back problems. Also covers dental illness, which is common in the breed.",
+      "cost": "$45-70/mo",
       "pros": [
         "Covers acupuncture and rehab",
         "Dental illness covered",
-        "Hereditary conditions covered"
+        "Hereditary conditions covered",
+        "Good chronic condition coverage"
       ],
       "cons": [
-        "Annual limits",
+        "Annual limits apply",
         "Higher premiums possible"
       ],
-      "estimatedCost": "$45-70/mo"
+      "affiliateLink": "#"
     }
+  ],
+  "costIntro": "Dachshunds have moderate insurance costs despite their back problem risks. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$30 - $50/month" },
+    { "age": "Adult (1-7 years)", "range": "$40 - $70/month" },
+    { "age": "Senior (8+ years)", "range": "$65 - $110+/month" }
   ],
   "faqs": [
     {
       "question": "Why are Dachshunds prone to back problems?",
-      "answer": "Their elongated spine and short legs put tremendous stress on their intervertebral discs. About 1 in 4 Dachshunds will experience some form of IVDD in their lifetime, making back surgery coverage essential."
+      "answer": "Their elongated spine and short legs put tremendous stress on intervertebral discs. About 1 in 4 Dachshunds will experience IVDD in their lifetime, making back surgery coverage essential."
     },
     {
       "question": "Is pet insurance worth it for a Dachshund?",
-      "answer": "Highly recommended. IVDD surgery alone can cost $4,000-$10,000, and many Dachshunds need it. Given the high likelihood of back issues, insurance typically pays for itself quickly with this breed."
+      "answer": "Highly recommended. IVDD surgery costs $4,000-$10,000, and many Dachshunds need it. Given the high likelihood of back issues, insurance typically pays for itself with this breed."
     },
     {
       "question": "Does insurance cover IVDD surgery?",
-      "answer": "Most comprehensive policies cover IVDD surgery as long as it's not pre-existing. Check for orthopedic waiting periods—some insurers require 12 months before covering spinal issues. Embrace only requires 6 months."
+      "answer": "Most comprehensive policies cover IVDD as long as it's not pre-existing. Check orthopedic waiting periods—some insurers require 12 months before covering spinal issues. Embrace only requires 6 months."
     },
     {
       "question": "How can I reduce my Dachshund's back problems?",
-      "answer": "Keep them at a healthy weight (crucial!), use ramps instead of stairs, prevent jumping on/off furniture, and support their back when carrying them. Even with precautions, insurance is still recommended due to genetic factors."
+      "answer": "Keep them at a healthy weight (crucial!), use ramps instead of stairs, prevent jumping on/off furniture, and support their back when carrying them. Even with precautions, insurance is still recommended."
     },
     {
       "question": "Should I get dental coverage for my Dachshund?",
-      "answer": "Dental illness coverage (different from routine cleaning) can be valuable for Dachshunds since their small mouths are prone to crowding and decay. Embrace and Pumpkin include dental illness coverage in their standard plans."
+      "answer": "Dental illness coverage can be valuable for Dachshunds since their small mouths are prone to crowding and decay. Embrace and Pumpkin include dental illness coverage in their standard plans."
     }
+  ],
+  "finalCta": "Protect your Dachshund's back—and your wallet. Compare insurance quotes and find coverage before problems start.",
+  "relatedBreeds": [
+    { "name": "Beagle", "slug": "beagle" },
+    { "name": "French Bulldog", "slug": "french-bulldog" },
+    { "name": "Corgi", "slug": "corgi" }
   ]
 }

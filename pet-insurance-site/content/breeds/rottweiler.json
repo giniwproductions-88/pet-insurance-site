@@ -1,138 +1,119 @@
 {
-  "slug": "rottweiler",
   "name": "Rottweiler",
-  "riskLevel": "High",
-  "riskColor": "orange",
-  "commonIssues": "Cancer, hip dysplasia, heart disease",
-  "description": "Rottweilers are powerful, loyal dogs with a higher than average risk for serious health conditions. Cancer rates are elevated in this breed, and their large size makes joint problems common. Good insurance coverage is important for Rottweiler owners.",
-  "costRange": "$50-90/mo",
-  "lifespan": "8-10 years",
-  "weight": "80-135 lbs",
-  "healthRisks": [
-    {
-      "condition": "Osteosarcoma (Bone Cancer)",
-      "likelihood": "High",
-      "typicalCost": "$5,000-$15,000",
-      "notes": "Rottweilers have elevated bone cancer risk"
-    },
-    {
-      "condition": "Hip Dysplasia",
-      "likelihood": "High",
-      "typicalCost": "$3,500-$7,000",
-      "notes": "Common in large breeds"
-    },
-    {
-      "condition": "Elbow Dysplasia",
-      "likelihood": "Medium-High",
-      "typicalCost": "$2,000-$4,000",
-      "notes": "Often occurs alongside hip issues"
-    },
-    {
-      "condition": "Aortic Stenosis",
-      "likelihood": "Medium",
-      "typicalCost": "$5,000-$20,000",
-      "notes": "Heart condition requiring ongoing care"
-    },
-    {
-      "condition": "Cruciate Ligament Tears",
-      "likelihood": "Medium",
-      "typicalCost": "$3,000-$6,000",
-      "notes": "Per leg; second leg often follows"
-    },
-    {
-      "condition": "Bloat (GDV)",
-      "likelihood": "Medium",
-      "typicalCost": "$2,500-$7,500",
-      "notes": "Life-threatening emergency requiring surgery"
-    }
+  "slug": "rottweiler",
+  "metaDescription": "Rottweilers face high cancer and joint disease rates. Compare the best pet insurance for Rotties—coverage for cancer, hip dysplasia, heart issues & more.",
+  "intro": "Rottweilers are powerful, loyal dogs with a higher than average risk for serious health conditions. Cancer rates are elevated, and their large size makes joint problems common. Good insurance coverage is important for Rottweiler owners.",
+  "whyInsurance": "Rottweilers face significant health risks including cancer, hip dysplasia, and heart disease. A single cancer diagnosis can cost $10,000+ to treat, making insurance a smart investment.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best for cancer coverage (no limits)" },
+    { "name": "Embrace", "highlight": "Best hereditary coverage (6-month ortho wait)" },
+    { "name": "Trupanion", "highlight": "Best for lifetime conditions" }
   ],
-  "insuranceConsiderations": {
-    "mustHave": [
-      "Cancer coverage with high limits",
-      "Orthopedic coverage (hip, elbow, cruciate)",
-      "Emergency surgery coverage for bloat",
-      "No per-incident caps"
-    ],
-    "niceToHave": [
-      "Unlimited annual coverage",
-      "Coverage for alternative therapies",
-      "Prescription food coverage"
-    ],
-    "watchOutFor": [
-      "Breed restrictions (some insurers won't cover Rottweilers)",
-      "Bilateral exclusions affecting both hips/elbows",
-      "Cancer coverage limits",
-      "Long waiting periods for orthopedic issues"
-    ]
-  },
-  "recommendedProviders": [
+  "healthIssues": [
+    { "name": "Osteosarcoma", "description": "Bone cancer", "cost": "$5,000 - $15,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint issues", "cost": "$2,000 - $4,000" },
+    { "name": "Aortic Stenosis", "description": "Heart condition", "cost": "$5,000 - $20,000" },
+    { "name": "Cruciate Ligament Tears", "description": "Knee ligament injury", "cost": "$3,000 - $6,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twisting emergency", "cost": "$2,500 - $7,500" }
+  ],
+  "mustHave": [
+    "Cancer coverage with high limits — Rotties have elevated cancer risk",
+    "Orthopedic coverage — Hip and elbow dysplasia are common",
+    "Emergency surgery coverage — Bloat requires immediate surgery",
+    "No per-incident caps — Cancer treatment adds up quickly"
+  ],
+  "redFlags": [
+    "Breed restrictions (some insurers exclude Rottweilers)",
+    "Cancer coverage limits or caps",
+    "Bilateral exclusions on hips/elbows",
+    "Long waiting periods for orthopedic issues"
+  ],
+  "providers": [
     {
       "name": "Healthy Paws",
-      "rating": 5,
-      "proseSummary": "Best for cancer coverage",
+      "tagline": "Best for Cancer Coverage",
+      "description": "With no annual or lifetime limits, Healthy Paws is ideal for Rottweilers given their cancer risk. You'll never hit a cap during expensive treatment.",
+      "cost": "$65-90/mo",
       "pros": [
         "No annual or lifetime limits",
         "Covers cancer treatment fully",
         "No breed restrictions",
-        "Fast claims"
+        "Fast claims processing"
       ],
       "cons": [
-        "No wellness coverage",
+        "No wellness coverage option",
         "12-month hip dysplasia wait"
       ],
-      "estimatedCost": "$65-90/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Embrace",
-      "rating": 4,
-      "proseSummary": "Great hereditary coverage",
+      "tagline": "Best Hereditary Coverage",
+      "description": "Embrace's 6-month orthopedic waiting period is half what most competitors require. For a breed prone to hip and elbow dysplasia, this shorter wait is valuable.",
+      "cost": "$60-85/mo",
       "pros": [
-        "Covers hereditary conditions",
         "Only 6-month orthopedic wait",
-        "Diminishing deductible"
+        "Covers hereditary conditions",
+        "Diminishing deductible",
+        "Good prescription coverage"
       ],
       "cons": [
         "Annual limits apply",
         "Wellness costs extra"
       ],
-      "estimatedCost": "$60-85/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Trupanion",
-      "rating": 4,
-      "proseSummary": "Best for lifetime conditions",
+      "tagline": "Best for Lifetime Conditions",
+      "description": "Trupanion's one-deductible-per-condition model works well for chronic issues. Pay the deductible once for hip dysplasia, then 90% coverage for life.",
+      "cost": "$70-95/mo",
       "pros": [
         "No payout limits",
+        "One deductible per condition",
         "Covers congenital conditions",
-        "Direct vet payment"
+        "Direct vet payment option"
       ],
       "cons": [
-        "Only 90% reimbursement",
+        "Only 90% reimbursement option",
         "Higher premiums"
       ],
-      "estimatedCost": "$70-95/mo"
+      "affiliateLink": "#"
     }
+  ],
+  "costIntro": "Rottweilers have higher premiums due to their size and health risks. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$45 - $70/month" },
+    { "age": "Adult (1-7 years)", "range": "$55 - $90/month" },
+    { "age": "Senior (8+ years)", "range": "$85 - $150+/month" }
   ],
   "faqs": [
     {
       "question": "Do all insurance companies cover Rottweilers?",
-      "answer": "Most pet insurance companies cover Rottweilers, but some homeowner's insurance policies have breed restrictions that can complicate things. For pet insurance specifically, major providers like Healthy Paws, Embrace, and Trupanion all cover Rottweilers without issue."
+      "answer": "Most pet insurance companies cover Rottweilers for health insurance. However, some homeowner's policies have breed restrictions. For pet insurance specifically, Healthy Paws, Embrace, and Trupanion all cover Rottweilers without issue."
     },
     {
       "question": "Why is cancer coverage important for Rottweilers?",
-      "answer": "Rottweilers have one of the highest cancer rates of any breed, particularly bone cancer (osteosarcoma). Treatment can easily exceed $10,000, making comprehensive cancer coverage essential. Look for policies with no cancer-specific limits."
+      "answer": "Rottweilers have one of the highest cancer rates of any breed, particularly bone cancer (osteosarcoma). Treatment can easily exceed $10,000, making comprehensive cancer coverage essential."
     },
     {
       "question": "What's the best age to insure a Rottweiler?",
-      "answer": "Insure your Rottweiler as a puppy, ideally around 8-12 weeks. Cancer and joint issues often develop in middle age (5-8 years), so having coverage established early ensures these won't be considered pre-existing."
+      "answer": "Insure as a puppy, ideally around 8-12 weeks. Cancer and joint issues often develop in middle age (5-8 years), so having coverage established early ensures these won't be considered pre-existing."
     },
     {
       "question": "Should I get coverage for hip dysplasia?",
-      "answer": "Yes, orthopedic coverage is crucial for Rottweilers. Hip dysplasia surgery can cost $7,000+, and many Rottweilers need it. Be aware of waiting periods—some insurers require 12 months before covering hip issues."
+      "answer": "Yes, orthopedic coverage is crucial for Rottweilers. Hip dysplasia surgery can cost $7,000+. Be aware of waiting periods—some insurers require 12 months before covering hip issues."
     },
     {
       "question": "Is pet insurance worth it for a Rottweiler?",
-      "answer": "Yes. Given their elevated cancer risk and likelihood of orthopedic issues, most Rottweiler owners will face at least one major medical expense. Insurance provides peace of mind and makes expensive treatments financially accessible."
+      "answer": "Yes. Given their elevated cancer risk and likelihood of orthopedic issues, most Rottweiler owners will face at least one major medical expense. Insurance provides peace of mind and makes expensive treatments accessible."
     }
+  ],
+  "finalCta": "Protect your Rottweiler from unexpected health costs. Compare quotes from top providers and find coverage that fits your budget.",
+  "relatedBreeds": [
+    { "name": "Doberman Pinscher", "slug": "doberman" },
+    { "name": "German Shepherd", "slug": "german-shepherd" },
+    { "name": "Boxer", "slug": "boxer" }
   ]
 }

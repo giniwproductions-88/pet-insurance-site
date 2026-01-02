@@ -1,76 +1,40 @@
 {
-  "slug": "australian-shepherd",
   "name": "Australian Shepherd",
-  "alternateName": "Aussie",
-  "riskLevel": "Medium",
-  "riskColor": "yellow",
-  "commonIssues": "Hip dysplasia, eye problems, epilepsy",
-  "description": "Australian Shepherds are intelligent, active herding dogs with moderate health risks. They're prone to eye problems, joint issues, and epilepsy. Their high energy also leads to more sports injuries. A good fit for active families who want a devoted companion.",
-  "costRange": "$40-65/mo",
-  "lifespan": "12-15 years",
-  "weight": "40-65 lbs",
-  "healthRisks": [
-    {
-      "condition": "Hip Dysplasia",
-      "likelihood": "Medium-High",
-      "typicalCost": "$3,500-$7,000",
-      "notes": "Common in active herding breeds"
-    },
-    {
-      "condition": "Cataracts",
-      "likelihood": "Medium-High",
-      "typicalCost": "$2,500-$5,000",
-      "notes": "Hereditary juvenile cataracts"
-    },
-    {
-      "condition": "Collie Eye Anomaly",
-      "likelihood": "Medium",
-      "typicalCost": "$500-$2,000",
-      "notes": "Hereditary eye defect"
-    },
-    {
-      "condition": "Epilepsy",
-      "likelihood": "Medium",
-      "typicalCost": "$200-$500/year ongoing",
-      "notes": "Lifelong medication often needed"
-    },
-    {
-      "condition": "Elbow Dysplasia",
-      "likelihood": "Medium",
-      "typicalCost": "$2,000-$4,000",
-      "notes": "Often accompanies hip issues"
-    },
-    {
-      "condition": "MDR1 Gene Mutation",
-      "likelihood": "Medium-High",
-      "typicalCost": "Varies",
-      "notes": "Drug sensitivity—affects treatment options"
-    }
+  "slug": "australian-shepherd",
+  "metaDescription": "Australian Shepherds face hip dysplasia, eye problems, and epilepsy. Compare the best pet insurance for Aussies—coverage for joints, MDR1 gene issues & more.",
+  "intro": "Australian Shepherds are intelligent, active herding dogs with moderate health risks. They're prone to hip dysplasia, eye problems, and epilepsy. Their high energy also means more sports injuries. Insurance helps active Aussie owners manage these costs.",
+  "whyInsurance": "Aussies face hip dysplasia ($7,000+ for surgery), hereditary eye conditions, and epilepsy requiring lifelong medication. Their active lifestyle also leads to more accident-related injuries.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions (epilepsy)" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
   ],
-  "insuranceConsiderations": {
-    "mustHave": [
-      "Orthopedic coverage (hip/elbow)",
-      "Eye condition coverage",
-      "Chronic condition coverage (epilepsy)",
-      "Accident coverage (active breed)"
-    ],
-    "niceToHave": [
-      "Coverage for sports injuries",
-      "Prescription medication coverage",
-      "Alternative therapy (rehab, acupuncture)"
-    ],
-    "watchOutFor": [
-      "Long orthopedic waiting periods",
-      "Eye condition exclusions",
-      "Epilepsy/seizure exclusions",
-      "Bilateral exclusions"
-    ]
-  },
-  "recommendedProviders": [
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Cataracts", "description": "Hereditary eye condition", "cost": "$2,500 - $5,000" },
+    { "name": "Collie Eye Anomaly", "description": "Hereditary eye defect", "cost": "$500 - $2,000" },
+    { "name": "Epilepsy", "description": "Seizure disorder", "cost": "$200 - $500/year ongoing" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint issues", "cost": "$2,000 - $4,000" },
+    { "name": "MDR1 Gene Mutation", "description": "Drug sensitivity", "cost": "Affects treatment" }
+  ],
+  "mustHave": [
+    "Orthopedic coverage — Hip and elbow dysplasia are common",
+    "Eye condition coverage — Multiple hereditary issues",
+    "Chronic condition coverage — Epilepsy needs lifelong treatment",
+    "Accident coverage — Active breed gets injured"
+  ],
+  "redFlags": [
+    "Long orthopedic waiting periods (12+ months)",
+    "Eye condition exclusions",
+    "Epilepsy/seizure exclusions",
+    "Bilateral exclusions on joints"
+  ],
+  "providers": [
     {
       "name": "Embrace",
-      "rating": 5,
-      "proseSummary": "Best for chronic conditions",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace excels at covering ongoing conditions like epilepsy. Their 6-month orthopedic wait (vs 12 months) is also valuable for a breed prone to joint issues.",
+      "cost": "$42-62/mo",
       "pros": [
         "Great epilepsy coverage",
         "Covers hereditary conditions",
@@ -81,43 +45,53 @@
         "Annual limits apply",
         "Wellness costs extra"
       ],
-      "estimatedCost": "$42-62/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Healthy Paws",
-      "rating": 4,
-      "proseSummary": "Unlimited coverage",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps on claims means your Aussie's hip surgery, eye treatment, and any other issues are fully covered. Great for an active breed.",
+      "cost": "$40-58/mo",
       "pros": [
         "No annual or lifetime limits",
         "Covers hereditary conditions",
-        "Fast claims"
+        "Fast claims processing",
+        "Covers accidents fully"
       ],
       "cons": [
         "No wellness coverage",
         "12-month hip dysplasia wait"
       ],
-      "estimatedCost": "$40-58/mo"
+      "affiliateLink": "#"
     },
     {
       "name": "Pets Best",
-      "rating": 4,
-      "proseSummary": "Good value coverage",
+      "tagline": "Best Value Option",
+      "description": "For budget-conscious Aussie owners, Pets Best offers solid coverage at competitive prices while still covering the important hereditary conditions.",
+      "cost": "$35-55/mo",
       "pros": [
         "Competitive pricing",
         "Multiple plan options",
-        "Covers hereditary conditions"
+        "Covers hereditary conditions",
+        "No annual limit options"
       ],
       "cons": [
         "Mixed customer service reviews",
         "Some claim delays"
       ],
-      "estimatedCost": "$35-55/mo"
+      "affiliateLink": "#"
     }
+  ],
+  "costIntro": "Australian Shepherds have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$30 - $48/month" },
+    { "age": "Adult (1-7 years)", "range": "$40 - $65/month" },
+    { "age": "Senior (8+ years)", "range": "$60 - $105+/month" }
   ],
   "faqs": [
     {
       "question": "What is the MDR1 gene mutation?",
-      "answer": "Many Australian Shepherds carry a gene mutation making them sensitive to certain medications, including some sedatives and anti-parasitic drugs. Test your Aussie and inform your vet—it affects treatment options but not insurance coverage."
+      "answer": "Many Australian Shepherds carry a gene mutation making them sensitive to certain medications, including some sedatives and anti-parasitic drugs. Test your Aussie and inform your vet—it affects treatment options but not insurance."
     },
     {
       "question": "Is pet insurance worth it for an Australian Shepherd?",
@@ -125,7 +99,7 @@
     },
     {
       "question": "Do Australian Shepherds have a lot of health problems?",
-      "answer": "Aussies have moderate health concerns—better than many breeds but not problem-free. Main issues are joint problems, eye conditions, and epilepsy. Responsible breeding and early insurance help manage risks."
+      "answer": "Aussies have moderate health concerns—better than many breeds but not problem-free. Main issues are joint problems, eye conditions, and epilepsy. Responsible breeding helps reduce risks."
     },
     {
       "question": "Should I get wellness coverage for my Aussie?",
@@ -133,7 +107,13 @@
     },
     {
       "question": "Are sports injuries covered by insurance?",
-      "answer": "Yes, most pet insurance covers accidents including sports injuries from agility, frisbee, or herding activities. Aussies are athletic and active, making accident coverage particularly valuable."
+      "answer": "Yes, most pet insurance covers accidents including sports injuries from agility, frisbee, or herding. Aussies are athletic, making accident coverage particularly valuable."
     }
+  ],
+  "finalCta": "Protect your active Aussie from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Border Collie", "slug": "border-collie" },
+    { "name": "Siberian Husky", "slug": "siberian-husky" },
+    { "name": "German Shepherd", "slug": "german-shepherd" }
   ]
 }
