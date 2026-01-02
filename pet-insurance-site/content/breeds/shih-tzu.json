@@ -1,0 +1,138 @@
+{
+  "slug": "shih-tzu",
+  "name": "Shih Tzu",
+  "riskLevel": "Medium",
+  "riskColor": "yellow",
+  "commonIssues": "Eye problems, breathing issues, dental disease",
+  "description": "Shih Tzus are affectionate companion dogs with moderate health concerns. Their prominent eyes are prone to injury and disease, while their flat faces can cause breathing issues. Regular grooming needs and dental problems add to their care requirements.",
+  "costRange": "$35-60/mo",
+  "lifespan": "10-16 years",
+  "weight": "9-16 lbs",
+  "healthRisks": [
+    {
+      "condition": "Eye Problems (Proptosis, Ulcers)",
+      "likelihood": "High",
+      "typicalCost": "$500-$3,000",
+      "notes": "Bulging eyes are easily injured"
+    },
+    {
+      "condition": "Brachycephalic Syndrome",
+      "likelihood": "Medium-High",
+      "typicalCost": "$1,500-$4,000",
+      "notes": "Breathing difficulties from flat face"
+    },
+    {
+      "condition": "Dental Disease",
+      "likelihood": "High",
+      "typicalCost": "$500-$2,000",
+      "notes": "Small mouths prone to crowding"
+    },
+    {
+      "condition": "Hip Dysplasia",
+      "likelihood": "Medium",
+      "typicalCost": "$3,000-$6,000",
+      "notes": "Surprisingly common in this breed"
+    },
+    {
+      "condition": "Ear Infections",
+      "likelihood": "High",
+      "typicalCost": "$100-$300/episode",
+      "notes": "Hairy ears trap moisture"
+    },
+    {
+      "condition": "Intervertebral Disc Disease",
+      "likelihood": "Low-Medium",
+      "typicalCost": "$3,000-$8,000",
+      "notes": "Spinal issues can occur"
+    }
+  ],
+  "insuranceConsiderations": {
+    "mustHave": [
+      "Eye injury and disease coverage",
+      "Respiratory condition coverage",
+      "Dental illness coverage",
+      "No breed-specific exclusions"
+    ],
+    "niceToHave": [
+      "Wellness coverage for regular eye checks",
+      "Alternative therapy coverage",
+      "Low deductible options"
+    ],
+    "watchOutFor": [
+      "Eye condition exclusions",
+      "Brachycephalic condition exclusions",
+      "Dental exclusions",
+      "Pre-existing condition definitions"
+    ]
+  },
+  "recommendedProviders": [
+    {
+      "name": "Embrace",
+      "rating": 5,
+      "proseSummary": "Best overall for Shih Tzus",
+      "pros": [
+        "Covers eye conditions",
+        "Covers dental illness",
+        "Covers hereditary conditions",
+        "Wellness option available"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "estimatedCost": "$35-55/mo"
+    },
+    {
+      "name": "Pumpkin",
+      "rating": 4,
+      "proseSummary": "Great dental coverage",
+      "pros": [
+        "Dental illness included",
+        "90% reimbursement available",
+        "Covers hereditary conditions"
+      ],
+      "cons": [
+        "Newer company",
+        "Annual limits"
+      ],
+      "estimatedCost": "$32-50/mo"
+    },
+    {
+      "name": "Healthy Paws",
+      "rating": 4,
+      "proseSummary": "Unlimited coverage option",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers eye conditions",
+        "Fast claims"
+      ],
+      "cons": [
+        "No dental illness coverage",
+        "No wellness option"
+      ],
+      "estimatedCost": "$35-55/mo"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why do Shih Tzus have so many eye problems?",
+      "answer": "Shih Tzus have shallow eye sockets causing their eyes to bulge, making them vulnerable to scratches, ulcers, and proptosis (eye popping out). Eye injuries are common and often require veterinary care."
+    },
+    {
+      "question": "Is pet insurance worth it for a Shih Tzu?",
+      "answer": "Yes. Between eye issues, potential breathing problems, and dental disease, Shih Tzus often need veterinary care. Insurance helps manage costs for this affectionate but health-prone breed."
+    },
+    {
+      "question": "Do Shih Tzus have breathing problems like Bulldogs?",
+      "answer": "Shih Tzus are brachycephalic (flat-faced) and can have breathing issues, though typically less severe than Bulldogs. Some may need surgery to correct elongated soft palates or narrow nostrils."
+    },
+    {
+      "question": "Should I get dental coverage for my Shih Tzu?",
+      "answer": "Yes, dental coverage is valuable for Shih Tzus. Their small mouths lead to crowded teeth and decay. Look for policies that cover dental illness (infections, extractions), not just dental accidents."
+    },
+    {
+      "question": "Are Shih Tzus expensive to insure?",
+      "answer": "Shih Tzus have moderate insurance costs, typically $35-60/month. They're less expensive than large breeds or breeds with severe health issues, but still require comprehensive coverage."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "beagle",
+  "name": "Beagle",
+  "riskLevel": "Medium",
+  "riskColor": "yellow",
+  "commonIssues": "Epilepsy, hypothyroidism, cherry eye",
+  "description": "Beagles are generally healthy dogs with a moderate risk profile. Their main concerns include epilepsy, eye problems, and thyroid issues. They're also prone to obesity and eating things they shouldn't, which can lead to emergency vet visits.",
+  "costRange": "$35-65/mo",
+  "lifespan": "12-15 years",
+  "weight": "20-30 lbs",
+  "healthRisks": [
+    {
+      "condition": "Epilepsy",
+      "likelihood": "Medium",
+      "typicalCost": "$200-$500/year ongoing",
+      "notes": "Lifelong medication often required"
+    },
+    {
+      "condition": "Hypothyroidism",
+      "likelihood": "Medium",
+      "typicalCost": "$300-$600/year",
+      "notes": "Manageable with daily medication"
+    },
+    {
+      "condition": "Cherry Eye",
+      "likelihood": "Medium",
+      "typicalCost": "$500-$1,500",
+      "notes": "Surgical correction usually needed"
+    },
+    {
+      "condition": "Intervertebral Disc Disease",
+      "likelihood": "Low-Medium",
+      "typicalCost": "$3,000-$8,000",
+      "notes": "Can occur due to their long backs"
+    },
+    {
+      "condition": "Foreign Body Ingestion",
+      "likelihood": "High",
+      "typicalCost": "$1,500-$5,000",
+      "notes": "Beagles eat everything—surgery often needed"
+    },
+    {
+      "condition": "Ear Infections",
+      "likelihood": "High",
+      "typicalCost": "$100-$300/episode",
+      "notes": "Floppy ears trap moisture"
+    }
+  ],
+  "insuranceConsiderations": {
+    "mustHave": [
+      "Emergency surgery coverage (foreign body removal)",
+      "Chronic condition coverage (epilepsy, thyroid)",
+      "Prescription medication coverage",
+      "No per-condition limits"
+    ],
+    "niceToHave": [
+      "Wellness plan for regular ear care",
+      "Coverage for ongoing medications",
+      "Low deductible options"
+    ],
+    "watchOutFor": [
+      "Exclusions for chronic conditions",
+      "Caps on prescription medications",
+      "Pre-existing condition definitions for seizures"
+    ]
+  },
+  "recommendedProviders": [
+    {
+      "name": "Embrace",
+      "rating": 5,
+      "proseSummary": "Best for chronic conditions",
+      "pros": [
+        "Excellent chronic condition coverage",
+        "Covers prescription medications",
+        "Diminishing deductible",
+        "Wellness available"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "estimatedCost": "$40-60/mo"
+    },
+    {
+      "name": "Pumpkin",
+      "rating": 4,
+      "proseSummary": "Great coverage breadth",
+      "pros": [
+        "90% reimbursement available",
+        "Covers prescription food",
+        "Good chronic condition coverage"
+      ],
+      "cons": [
+        "Newer company",
+        "Annual limit options"
+      ],
+      "estimatedCost": "$35-55/mo"
+    },
+    {
+      "name": "Healthy Paws",
+      "rating": 4,
+      "proseSummary": "Unlimited coverage",
+      "pros": [
+        "No annual or lifetime limits",
+        "Fast claims",
+        "Covers emergencies well"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "No prescription food coverage"
+      ],
+      "estimatedCost": "$35-55/mo"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are Beagles expensive to insure?",
+      "answer": "Beagles are moderately priced to insure—typically $35-65/month. They're healthier than many breeds, but their tendency to eat foreign objects means emergency coverage is important."
+    },
+    {
+      "question": "What health problems are Beagles prone to?",
+      "answer": "Beagles commonly face epilepsy, hypothyroidism, cherry eye, ear infections, and disc disease. They're also notorious for eating things they shouldn't, leading to emergency surgeries for foreign body removal."
+    },
+    {
+      "question": "Is pet insurance worth it for a Beagle?",
+      "answer": "Yes, especially because Beagles often eat foreign objects requiring expensive surgery. They can also develop chronic conditions like epilepsy that require lifelong medication. Insurance helps manage these costs."
+    },
+    {
+      "question": "Should I get wellness coverage for my Beagle?",
+      "answer": "Wellness coverage can be worthwhile for Beagles since they need regular ear cleanings and are prone to obesity. However, run the numbers—wellness plans sometimes cost more than they return."
+    },
+    {
+      "question": "Do Beagles have a lot of health issues?",
+      "answer": "Beagles are moderately healthy compared to many purebreds. They don't have the severe issues of flat-faced or giant breeds, but they're not problem-free. Ear infections, eye issues, and seizures are the most common concerns."
+    }
+  ]
+}

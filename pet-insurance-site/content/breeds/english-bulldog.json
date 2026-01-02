@@ -1,0 +1,139 @@
+{
+  "slug": "english-bulldog",
+  "name": "English Bulldog",
+  "alternateName": "Bulldog",
+  "riskLevel": "Very High",
+  "riskColor": "red",
+  "commonIssues": "Breathing, joints, skin, heart",
+  "description": "English Bulldogs are one of the most expensive breeds to insure due to their numerous health issues. Their flat faces cause breathing problems, while their stocky build leads to joint issues. Insurance is essentially mandatory for this breed.",
+  "costRange": "$55-100/mo",
+  "lifespan": "8-10 years",
+  "weight": "40-50 lbs",
+  "healthRisks": [
+    {
+      "condition": "Brachycephalic Syndrome (BOAS)",
+      "likelihood": "Very High",
+      "typicalCost": "$2,000-$5,000",
+      "notes": "Breathing issues requiring surgery in many cases"
+    },
+    {
+      "condition": "Hip Dysplasia",
+      "likelihood": "High",
+      "typicalCost": "$3,500-$7,000",
+      "notes": "Common due to body structure"
+    },
+    {
+      "condition": "Cherry Eye",
+      "likelihood": "High",
+      "typicalCost": "$500-$1,500",
+      "notes": "Prolapsed tear gland requiring surgery"
+    },
+    {
+      "condition": "Skin Fold Dermatitis",
+      "likelihood": "Very High",
+      "typicalCost": "$200-$1,000/year",
+      "notes": "Ongoing skin infections in wrinkles"
+    },
+    {
+      "condition": "Heart Disease",
+      "likelihood": "Medium",
+      "typicalCost": "$5,000-$20,000",
+      "notes": "Pulmonic stenosis common in breed"
+    },
+    {
+      "condition": "Luxating Patella",
+      "likelihood": "Medium",
+      "typicalCost": "$1,500-$3,000",
+      "notes": "Kneecap dislocation"
+    }
+  ],
+  "insuranceConsiderations": {
+    "mustHave": [
+      "Respiratory condition coverage (BOAS surgery)",
+      "Orthopedic coverage with short waiting period",
+      "Skin condition coverage",
+      "No breed-specific exclusions"
+    ],
+    "niceToHave": [
+      "Wellness plan for regular skin care",
+      "Coverage for congenital conditions",
+      "Low deductible option (you'll use it)"
+    ],
+    "watchOutFor": [
+      "Bilateral exclusions on joints",
+      "Long orthopedic waiting periods (12+ months)",
+      "Pre-existing condition definitions",
+      "Annual limits under $15,000"
+    ]
+  },
+  "recommendedProviders": [
+    {
+      "name": "Embrace",
+      "rating": 5,
+      "proseSummary": "Best overall for Bulldogs",
+      "pros": [
+        "Covers hereditary conditions",
+        "6-month orthopedic wait (not 12)",
+        "Diminishing deductible",
+        "Covers BOAS treatment"
+      ],
+      "cons": [
+        "Higher premiums for this breed",
+        "Wellness plan costs extra"
+      ],
+      "estimatedCost": "$75-100/mo"
+    },
+    {
+      "name": "Healthy Paws",
+      "rating": 4,
+      "proseSummary": "Great for unlimited coverage",
+      "pros": [
+        "No annual or lifetime limits",
+        "Fast claim processing",
+        "Covers hereditary conditions"
+      ],
+      "cons": [
+        "No wellness coverage option",
+        "12-month hip dysplasia wait"
+      ],
+      "estimatedCost": "$70-95/mo"
+    },
+    {
+      "name": "Trupanion",
+      "rating": 4,
+      "proseSummary": "Best for direct vet payment",
+      "pros": [
+        "Pays vet directly",
+        "No payout limits",
+        "Covers congenital conditions"
+      ],
+      "cons": [
+        "Only 90% reimbursement option",
+        "Higher premiums for Bulldogs"
+      ],
+      "estimatedCost": "$80-110/mo"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is English Bulldog insurance so expensive?",
+      "answer": "English Bulldogs have more health issues than almost any other breed. Their flat faces cause breathing problems, their body structure leads to joint issues, and their skin folds cause chronic infections. Insurers know they'll likely pay out claims, so premiums reflect that risk."
+    },
+    {
+      "question": "Is pet insurance worth it for an English Bulldog?",
+      "answer": "Absolutely yes. The question isn't if your Bulldog will need expensive care, but when. BOAS surgery alone can cost $5,000+, and most Bulldogs need some medical intervention. Insurance typically pays for itself within 1-2 years."
+    },
+    {
+      "question": "What's the best age to insure my English Bulldog?",
+      "answer": "As young as possible, ideally 8-12 weeks when you get them. This ensures no pre-existing conditions are documented and waiting periods are finished before issues typically emerge around age 2-4."
+    },
+    {
+      "question": "Will insurance cover my Bulldog's breathing surgery?",
+      "answer": "Most comprehensive policies cover BOAS surgery as long as it wasn't a pre-existing condition. Get insurance before any vet documents breathing concerns. Embrace, Healthy Paws, and Trupanion all cover this."
+    },
+    {
+      "question": "Are there any companies that won't insure English Bulldogs?",
+      "answer": "Most major pet insurers will cover Bulldogs, but some may have breed-specific exclusions or waiting periods. Always confirm coverage details before purchasing. Avoid any policy that excludes brachycephalic conditions."
+    }
+  ]
+}

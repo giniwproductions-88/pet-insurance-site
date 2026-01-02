@@ -1,0 +1,139 @@
+{
+  "slug": "poodle",
+  "name": "Poodle",
+  "alternateName": "Standard Poodle",
+  "riskLevel": "Medium",
+  "riskColor": "yellow",
+  "commonIssues": "Bloat, Addison's disease, hip dysplasia",
+  "description": "Standard Poodles are intelligent, athletic dogs with moderate health risks. They're prone to bloat (a life-threatening emergency), Addison's disease, and joint issues. Their hybrid vigor makes them healthier than some breeds, but insurance is still recommended.",
+  "costRange": "$40-70/mo",
+  "lifespan": "12-15 years",
+  "weight": "40-70 lbs (standard), 10-15 lbs (mini), 4-6 lbs (toy)",
+  "healthRisks": [
+    {
+      "condition": "Bloat (GDV)",
+      "likelihood": "High",
+      "typicalCost": "$2,500-$7,500",
+      "notes": "Life-threatening emergency in deep-chested dogs"
+    },
+    {
+      "condition": "Addison's Disease",
+      "likelihood": "Medium-High",
+      "typicalCost": "$1,000-$3,000 initial + $50-200/month",
+      "notes": "Poodles have elevated risk for this hormonal disorder"
+    },
+    {
+      "condition": "Hip Dysplasia",
+      "likelihood": "Medium",
+      "typicalCost": "$3,500-$7,000",
+      "notes": "More common in standard size"
+    },
+    {
+      "condition": "Progressive Retinal Atrophy",
+      "likelihood": "Medium",
+      "typicalCost": "$1,000-$3,000",
+      "notes": "Hereditary eye disease"
+    },
+    {
+      "condition": "Epilepsy",
+      "likelihood": "Low-Medium",
+      "typicalCost": "$200-$500/year ongoing",
+      "notes": "Manageable with medication"
+    },
+    {
+      "condition": "Sebaceous Adenitis",
+      "likelihood": "Low-Medium",
+      "typicalCost": "$500-$2,000/year",
+      "notes": "Skin condition affecting hair follicles"
+    }
+  ],
+  "insuranceConsiderations": {
+    "mustHave": [
+      "Emergency surgery coverage (bloat)",
+      "Chronic condition coverage (Addison's)",
+      "Prescription medication coverage",
+      "Hereditary condition coverage"
+    ],
+    "niceToHave": [
+      "Unlimited annual coverage",
+      "Coverage for ongoing hormone therapy",
+      "Alternative therapy options"
+    ],
+    "watchOutFor": [
+      "Emergency surgery waiting periods",
+      "Caps on prescription medications",
+      "Endocrine disorder exclusions",
+      "Low annual limits"
+    ]
+  },
+  "recommendedProviders": [
+    {
+      "name": "Healthy Paws",
+      "rating": 5,
+      "proseSummary": "Best for unlimited emergency coverage",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers emergency surgery fully",
+        "Fast claim processing",
+        "Covers hereditary conditions"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "No prescription food coverage"
+      ],
+      "estimatedCost": "$45-65/mo"
+    },
+    {
+      "name": "Embrace",
+      "rating": 4,
+      "proseSummary": "Great chronic condition coverage",
+      "pros": [
+        "Excellent for Addison's (ongoing meds)",
+        "Covers hereditary conditions",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "estimatedCost": "$45-65/mo"
+    },
+    {
+      "name": "Trupanion",
+      "rating": 4,
+      "proseSummary": "Best for lifetime conditions",
+      "pros": [
+        "No payout limits",
+        "Great for chronic conditions",
+        "Direct vet payment"
+      ],
+      "cons": [
+        "Only 90% reimbursement",
+        "Higher premiums"
+      ],
+      "estimatedCost": "$50-75/mo"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is bloat and why are Poodles at risk?",
+      "answer": "Bloat (Gastric Dilatation-Volvulus) is when the stomach twists, cutting off blood flow. It's fatal without emergency surgery. Standard Poodles are at high risk due to their deep chests. Surgery costs $2,500-$7,500+."
+    },
+    {
+      "question": "What is Addison's disease?",
+      "answer": "Addison's disease is an adrenal gland disorder where the body doesn't produce enough hormones. Poodles have a genetic predisposition. It requires lifelong medication ($50-200/month) but is manageable with proper treatment."
+    },
+    {
+      "question": "Is pet insurance worth it for a Poodle?",
+      "answer": "Yes. While Poodles are healthier than many purebreds, bloat alone can cost $7,500+ for emergency surgery. Addison's disease adds ongoing medication costs. Insurance provides important financial protection."
+    },
+    {
+      "question": "Do Miniature and Toy Poodles have the same health issues?",
+      "answer": "Smaller Poodles have lower bloat risk but higher risk for dental problems and luxating patella (knee issues). All sizes share risks for Addison's disease and eye problems."
+    },
+    {
+      "question": "When should I insure my Poodle?",
+      "answer": "Insure as a puppy before any conditions develop. Addison's disease typically appears between ages 2-6, so having coverage in place early is important. Most insurers have waiting periods of 2-14 days."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "australian-shepherd",
+  "name": "Australian Shepherd",
+  "alternateName": "Aussie",
+  "riskLevel": "Medium",
+  "riskColor": "yellow",
+  "commonIssues": "Hip dysplasia, eye problems, epilepsy",
+  "description": "Australian Shepherds are intelligent, active herding dogs with moderate health risks. They're prone to eye problems, joint issues, and epilepsy. Their high energy also leads to more sports injuries. A good fit for active families who want a devoted companion.",
+  "costRange": "$40-65/mo",
+  "lifespan": "12-15 years",
+  "weight": "40-65 lbs",
+  "healthRisks": [
+    {
+      "condition": "Hip Dysplasia",
+      "likelihood": "Medium-High",
+      "typicalCost": "$3,500-$7,000",
+      "notes": "Common in active herding breeds"
+    },
+    {
+      "condition": "Cataracts",
+      "likelihood": "Medium-High",
+      "typicalCost": "$2,500-$5,000",
+      "notes": "Hereditary juvenile cataracts"
+    },
+    {
+      "condition": "Collie Eye Anomaly",
+      "likelihood": "Medium",
+      "typicalCost": "$500-$2,000",
+      "notes": "Hereditary eye defect"
+    },
+    {
+      "condition": "Epilepsy",
+      "likelihood": "Medium",
+      "typicalCost": "$200-$500/year ongoing",
+      "notes": "Lifelong medication often needed"
+    },
+    {
+      "condition": "Elbow Dysplasia",
+      "likelihood": "Medium",
+      "typicalCost": "$2,000-$4,000",
+      "notes": "Often accompanies hip issues"
+    },
+    {
+      "condition": "MDR1 Gene Mutation",
+      "likelihood": "Medium-High",
+      "typicalCost": "Varies",
+      "notes": "Drug sensitivity—affects treatment options"
+    }
+  ],
+  "insuranceConsiderations": {
+    "mustHave": [
+      "Orthopedic coverage (hip/elbow)",
+      "Eye condition coverage",
+      "Chronic condition coverage (epilepsy)",
+      "Accident coverage (active breed)"
+    ],
+    "niceToHave": [
+      "Coverage for sports injuries",
+      "Prescription medication coverage",
+      "Alternative therapy (rehab, acupuncture)"
+    ],
+    "watchOutFor": [
+      "Long orthopedic waiting periods",
+      "Eye condition exclusions",
+      "Epilepsy/seizure exclusions",
+      "Bilateral exclusions"
+    ]
+  },
+  "recommendedProviders": [
+    {
+      "name": "Embrace",
+      "rating": 5,
+      "proseSummary": "Best for chronic conditions",
+      "pros": [
+        "Great epilepsy coverage",
+        "Covers hereditary conditions",
+        "6-month orthopedic wait",
+        "Good prescription coverage"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "estimatedCost": "$42-62/mo"
+    },
+    {
+      "name": "Healthy Paws",
+      "rating": 4,
+      "proseSummary": "Unlimited coverage",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip dysplasia wait"
+      ],
+      "estimatedCost": "$40-58/mo"
+    },
+    {
+      "name": "Pets Best",
+      "rating": 4,
+      "proseSummary": "Good value coverage",
+      "pros": [
+        "Competitive pricing",
+        "Multiple plan options",
+        "Covers hereditary conditions"
+      ],
+      "cons": [
+        "Mixed customer service reviews",
+        "Some claim delays"
+      ],
+      "estimatedCost": "$35-55/mo"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the MDR1 gene mutation?",
+      "answer": "Many Australian Shepherds carry a gene mutation making them sensitive to certain medications, including some sedatives and anti-parasitic drugs. Test your Aussie and inform your vet—it affects treatment options but not insurance coverage."
+    },
+    {
+      "question": "Is pet insurance worth it for an Australian Shepherd?",
+      "answer": "Yes. Aussies are prone to hip dysplasia ($7,000+ for surgery), eye problems, and epilepsy. Their active lifestyle also means more accident risk. Insurance helps manage these costs."
+    },
+    {
+      "question": "Do Australian Shepherds have a lot of health problems?",
+      "answer": "Aussies have moderate health concerns—better than many breeds but not problem-free. Main issues are joint problems, eye conditions, and epilepsy. Responsible breeding and early insurance help manage risks."
+    },
+    {
+      "question": "Should I get wellness coverage for my Aussie?",
+      "answer": "Optional. Active Aussies may benefit from wellness plans covering routine care and annual eye exams. However, compare costs—paying out of pocket sometimes saves money."
+    },
+    {
+      "question": "Are sports injuries covered by insurance?",
+      "answer": "Yes, most pet insurance covers accidents including sports injuries from agility, frisbee, or herding activities. Aussies are athletic and active, making accident coverage particularly valuable."
+    }
+  ]
+}

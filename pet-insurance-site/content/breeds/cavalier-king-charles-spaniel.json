@@ -1,0 +1,139 @@
+{
+  "slug": "cavalier-king-charles-spaniel",
+  "name": "Cavalier King Charles Spaniel",
+  "alternateName": "Cavalier",
+  "riskLevel": "Very High",
+  "riskColor": "red",
+  "commonIssues": "Heart disease, syringomyelia, eye problems",
+  "description": "Cavalier King Charles Spaniels are sweet, gentle companions with unfortunately serious health concerns. Heart disease affects a majority of the breed, and syringomyelia (a painful brain condition) is common. Insurance is essential for this breed.",
+  "costRange": "$45-80/mo",
+  "lifespan": "9-14 years",
+  "weight": "12-18 lbs",
+  "healthRisks": [
+    {
+      "condition": "Mitral Valve Disease (MVD)",
+      "likelihood": "Very High",
+      "typicalCost": "$5,000-$20,000",
+      "notes": "Nearly all Cavaliers affected by age 10"
+    },
+    {
+      "condition": "Syringomyelia (SM)",
+      "likelihood": "High",
+      "typicalCost": "$5,000-$10,000",
+      "notes": "Brain/spinal condition causing pain"
+    },
+    {
+      "condition": "Cataracts",
+      "likelihood": "Medium-High",
+      "typicalCost": "$2,500-$5,000",
+      "notes": "Hereditary eye condition"
+    },
+    {
+      "condition": "Luxating Patella",
+      "likelihood": "Medium",
+      "typicalCost": "$1,500-$3,500",
+      "notes": "Common in small breeds"
+    },
+    {
+      "condition": "Hip Dysplasia",
+      "likelihood": "Medium",
+      "typicalCost": "$3,000-$6,000",
+      "notes": "Higher than expected for size"
+    },
+    {
+      "condition": "Ear Infections",
+      "likelihood": "High",
+      "typicalCost": "$100-$300/episode",
+      "notes": "Long ears trap moisture"
+    }
+  ],
+  "insuranceConsiderations": {
+    "mustHave": [
+      "Heart condition coverage (MVD)",
+      "Neurological coverage (syringomyelia)",
+      "Coverage for ongoing cardiac medications",
+      "No breed-specific exclusions"
+    ],
+    "niceToHave": [
+      "Unlimited annual coverage",
+      "Coverage for MRI diagnostics",
+      "Alternative therapy coverage"
+    ],
+    "watchOutFor": [
+      "Heart condition exclusions or caps",
+      "Neurological condition exclusions",
+      "Low annual limits",
+      "Pre-existing condition definitions"
+    ]
+  },
+  "recommendedProviders": [
+    {
+      "name": "Trupanion",
+      "rating": 5,
+      "proseSummary": "Best for chronic heart conditions",
+      "pros": [
+        "No payout limits",
+        "Excellent for lifelong conditions",
+        "Covers cardiac medications",
+        "Direct vet payment"
+      ],
+      "cons": [
+        "Only 90% reimbursement",
+        "Higher premiums"
+      ],
+      "estimatedCost": "$55-85/mo"
+    },
+    {
+      "name": "Healthy Paws",
+      "rating": 4,
+      "proseSummary": "Unlimited coverage",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "May exclude SM if documented early"
+      ],
+      "estimatedCost": "$48-75/mo"
+    },
+    {
+      "name": "Embrace",
+      "rating": 4,
+      "proseSummary": "Good chronic condition coverage",
+      "pros": [
+        "Covers hereditary conditions",
+        "Good prescription coverage",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits may be insufficient",
+        "Higher premiums for Cavaliers"
+      ],
+      "estimatedCost": "$50-80/mo"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why do Cavaliers have so many heart problems?",
+      "answer": "Cavaliers have a genetic predisposition to Mitral Valve Disease (MVD). Studies show virtually all Cavaliers develop heart murmurs by age 10, with many showing signs much earlier. It's the leading cause of death in the breed."
+    },
+    {
+      "question": "What is syringomyelia?",
+      "answer": "Syringomyelia is a condition where the skull is too small for the brain, forcing spinal fluid into the spinal cord. It causes severe pain, scratching at the air, and neurological symptoms. Up to 70% of Cavaliers have it to some degree."
+    },
+    {
+      "question": "Is pet insurance worth it for a Cavalier?",
+      "answer": "Absolutely essential. Cavaliers have the highest rates of serious illness among small breeds. Heart treatment can cost $20,000+, and syringomyelia may require MRI ($2,000) and surgery. Insurance is mandatory for this breed."
+    },
+    {
+      "question": "When should I insure my Cavalier?",
+      "answer": "Immediately as a puppy—this is crucial. Heart murmurs and SM symptoms can appear as early as age 1-2. Once documented, they become pre-existing conditions. Early insurance is essential."
+    },
+    {
+      "question": "What annual limit do I need for a Cavalier?",
+      "answer": "We recommend unlimited coverage or at least $15,000+ annually. Heart disease and syringomyelia are expensive, ongoing conditions. Low limits will be exhausted quickly."
+    }
+  ]
+}

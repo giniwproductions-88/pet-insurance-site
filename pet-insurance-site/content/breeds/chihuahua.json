@@ -1,0 +1,138 @@
+{
+  "slug": "chihuahua",
+  "name": "Chihuahua",
+  "riskLevel": "Medium",
+  "riskColor": "yellow",
+  "commonIssues": "Dental disease, luxating patella, heart disease",
+  "description": "Chihuahuas are the smallest dog breed but can have big health bills. They're prone to dental problems, knee issues, and heart disease. Their tiny size also makes them vulnerable to injuries from falls or being stepped on.",
+  "costRange": "$25-50/mo",
+  "lifespan": "14-18 years",
+  "weight": "3-6 lbs",
+  "healthRisks": [
+    {
+      "condition": "Dental Disease",
+      "likelihood": "Very High",
+      "typicalCost": "$500-$2,500",
+      "notes": "Tiny mouths = severe crowding"
+    },
+    {
+      "condition": "Luxating Patella",
+      "likelihood": "High",
+      "typicalCost": "$1,500-$3,500",
+      "notes": "Very common in toy breeds"
+    },
+    {
+      "condition": "Heart Disease (MVD)",
+      "likelihood": "Medium-High",
+      "typicalCost": "$3,000-$10,000",
+      "notes": "Mitral valve disease common"
+    },
+    {
+      "condition": "Hypoglycemia",
+      "likelihood": "Medium",
+      "typicalCost": "$500-$2,000",
+      "notes": "Low blood sugar, especially puppies"
+    },
+    {
+      "condition": "Collapsed Trachea",
+      "likelihood": "Medium",
+      "typicalCost": "$2,000-$5,000",
+      "notes": "Weak windpipe causing cough"
+    },
+    {
+      "condition": "Hydrocephalus",
+      "likelihood": "Low-Medium",
+      "typicalCost": "$5,000-$10,000",
+      "notes": "Fluid on brain, more common in tiny Chis"
+    }
+  ],
+  "insuranceConsiderations": {
+    "mustHave": [
+      "Orthopedic coverage (luxating patella)",
+      "Heart condition coverage",
+      "Dental illness coverage",
+      "Accident coverage (falls, injuries)"
+    ],
+    "niceToHave": [
+      "Wellness for dental cleanings",
+      "No size-based exclusions",
+      "Low deductible options"
+    ],
+    "watchOutFor": [
+      "Dental exclusions",
+      "Congenital heart condition exclusions",
+      "Bilateral exclusions on knees",
+      "Minimum weight requirements"
+    ]
+  },
+  "recommendedProviders": [
+    {
+      "name": "Embrace",
+      "rating": 5,
+      "proseSummary": "Best small breed coverage",
+      "pros": [
+        "Covers dental illness",
+        "Covers hereditary heart conditions",
+        "6-month orthopedic wait",
+        "Good for chronic conditions"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "estimatedCost": "$28-45/mo"
+    },
+    {
+      "name": "Pumpkin",
+      "rating": 4,
+      "proseSummary": "Great dental coverage",
+      "pros": [
+        "Dental illness included",
+        "90% reimbursement",
+        "Covers hereditary conditions"
+      ],
+      "cons": [
+        "Newer company",
+        "Annual limits"
+      ],
+      "estimatedCost": "$25-42/mo"
+    },
+    {
+      "name": "Pets Best",
+      "rating": 4,
+      "proseSummary": "Affordable option",
+      "pros": [
+        "Lower premiums for small dogs",
+        "Multiple plan options",
+        "Covers congenital conditions"
+      ],
+      "cons": [
+        "Dental coverage varies",
+        "Some customer service complaints"
+      ],
+      "estimatedCost": "$22-40/mo"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are Chihuahuas expensive to insure?",
+      "answer": "No, Chihuahuas are among the cheapest breeds to insure—typically $25-50/month. Their small size means lower surgery costs, though vet bills can still add up with dental and heart issues."
+    },
+    {
+      "question": "Why do Chihuahuas have dental problems?",
+      "answer": "Their tiny jaws can't accommodate all their teeth properly, leading to severe crowding, decay, and gum disease. Many Chihuahuas need teeth extracted. Look for insurance covering dental illness."
+    },
+    {
+      "question": "Is pet insurance worth it for a Chihuahua?",
+      "answer": "Yes. Despite low premiums, Chihuahuas commonly need knee surgery ($3,000+), heart treatment, and extensive dental work. Their long lifespan (14-18 years) means more opportunity for issues."
+    },
+    {
+      "question": "What is luxating patella?",
+      "answer": "A condition where the kneecap slides out of place, causing pain and lameness. It's very common in Chihuahuas and other toy breeds. Surgery costs $1,500-$3,500 per knee."
+    },
+    {
+      "question": "Do Chihuahuas have heart problems?",
+      "answer": "Yes, Chihuahuas are prone to mitral valve disease, a progressive heart condition. It's manageable with medication but can require expensive treatment. Insurance with heart coverage is important."
+    }
+  ]
+}

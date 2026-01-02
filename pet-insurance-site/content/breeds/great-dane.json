@@ -1,0 +1,139 @@
+{
+  "slug": "great-dane",
+  "name": "Great Dane",
+  "riskLevel": "Very High",
+  "riskColor": "red",
+  "commonIssues": "Bloat, heart disease, joint problems",
+  "description": "Great Danes are gentle giants with significant health concerns due to their massive size. Bloat is life-threatening and common in this breed. Their short lifespan and high risk of serious conditions make pet insurance essential for Great Dane owners.",
+  "costRange": "$60-110/mo",
+  "lifespan": "7-10 years",
+  "weight": "110-175 lbs",
+  "healthRisks": [
+    {
+      "condition": "Bloat (GDV)",
+      "likelihood": "Very High",
+      "typicalCost": "$2,500-$7,500",
+      "notes": "Leading cause of death in Great Danes"
+    },
+    {
+      "condition": "Dilated Cardiomyopathy (DCM)",
+      "likelihood": "High",
+      "typicalCost": "$5,000-$20,000",
+      "notes": "Heart disease common in giant breeds"
+    },
+    {
+      "condition": "Hip Dysplasia",
+      "likelihood": "High",
+      "typicalCost": "$4,000-$8,000",
+      "notes": "Common due to rapid growth"
+    },
+    {
+      "condition": "Osteosarcoma (Bone Cancer)",
+      "likelihood": "Medium-High",
+      "typicalCost": "$5,000-$15,000",
+      "notes": "Giant breeds have elevated cancer risk"
+    },
+    {
+      "condition": "Wobbler Syndrome",
+      "likelihood": "Medium",
+      "typicalCost": "$5,000-$10,000",
+      "notes": "Spinal cord compression"
+    },
+    {
+      "condition": "Hypothyroidism",
+      "likelihood": "Medium",
+      "typicalCost": "$300-$600/year",
+      "notes": "Manageable with medication"
+    }
+  ],
+  "insuranceConsiderations": {
+    "mustHave": [
+      "Emergency surgery coverage (bloat)",
+      "Heart condition coverage",
+      "Cancer coverage with high limits",
+      "Orthopedic coverage"
+    ],
+    "niceToHave": [
+      "Unlimited annual coverage (highly recommended)",
+      "No per-incident caps",
+      "Coverage for ongoing medications"
+    ],
+    "watchOutFor": [
+      "Low annual limits (need $20,000+)",
+      "Breed restrictions (some insurers)",
+      "Waiting periods for bloat",
+      "Age restrictions for giant breeds"
+    ]
+  },
+  "recommendedProviders": [
+    {
+      "name": "Healthy Paws",
+      "rating": 5,
+      "proseSummary": "Best unlimited coverage",
+      "pros": [
+        "No annual or lifetime limits",
+        "No per-condition caps",
+        "Covers emergency surgery",
+        "Covers cancer treatment"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month orthopedic wait"
+      ],
+      "estimatedCost": "$70-105/mo"
+    },
+    {
+      "name": "Trupanion",
+      "rating": 5,
+      "proseSummary": "Best for lifetime conditions",
+      "pros": [
+        "No payout limits ever",
+        "Covers congenital conditions",
+        "Direct vet payment",
+        "Great for chronic issues"
+      ],
+      "cons": [
+        "Only 90% reimbursement",
+        "Higher premiums"
+      ],
+      "estimatedCost": "$80-115/mo"
+    },
+    {
+      "name": "Embrace",
+      "rating": 4,
+      "proseSummary": "Good hereditary coverage",
+      "pros": [
+        "Covers hereditary conditions",
+        "6-month orthopedic wait",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits may be too low",
+        "Higher premiums for giants"
+      ],
+      "estimatedCost": "$65-100/mo"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is Great Dane insurance so expensive?",
+      "answer": "Great Danes have extremely high rates of serious conditions—bloat, heart disease, cancer, and joint problems. Their large size also means higher surgery costs. Insurance reflects these elevated risks."
+    },
+    {
+      "question": "What is bloat and why is it dangerous?",
+      "answer": "Bloat (Gastric Dilatation-Volvulus) is when the stomach fills with gas and twists. It's fatal within hours without surgery. Great Danes have the highest bloat rate of any breed—insurance is essential."
+    },
+    {
+      "question": "Is pet insurance worth it for a Great Dane?",
+      "answer": "Absolutely essential. The question isn't if your Great Dane will have major medical expenses, but when. Bloat surgery alone is $7,500+, and most Danes face multiple serious health issues."
+    },
+    {
+      "question": "Should I consider a prophylactic gastropexy?",
+      "answer": "A gastropexy (stomach tacking) can prevent bloat and is often done during spay/neuter. It costs $200-500 when combined with another surgery. Some insurance plans cover this preventive procedure."
+    },
+    {
+      "question": "What annual limit do I need for a Great Dane?",
+      "answer": "We recommend unlimited coverage or at least $20,000+ annually. A single bloat surgery plus heart disease treatment could easily exceed $15,000 in one year."
+    }
+  ]
+}
