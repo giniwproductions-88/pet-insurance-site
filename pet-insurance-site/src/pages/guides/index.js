@@ -47,10 +47,10 @@ export default function GuidesIndex() {
                 className="card hover:shadow-md hover:border-brand-200 transition-all group"
               >
                 <div className="text-4xl mb-4">{guide.icon}</div>
-                <h2 className="text-xl font-semibold mb-2 group-hover:text-brand-600 transition-colors">
+                <h2 className="text-xl font-semibold mb-3 group-hover:text-brand-600 transition-colors">
                   {guide.title}
                 </h2>
-                <p className="text-gray-600 mb-4">{guide.description}</p>
+                <p className="text-gray-600 mb-4 leading-relaxed">{guide.description}</p>
                 <span className="text-sm text-gray-500">{guide.readTime}</span>
               </Link>
             ))}
