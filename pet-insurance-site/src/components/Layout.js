@@ -12,6 +12,7 @@ export default function Layout({ children, title, description }) {
         <title>{fullTitle}</title>
         <meta name="description" content={metaDescription} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="google-site-verification" content="7o8LfHg4BFJJBSnzR9JmvskSn9JDLo3sDGiMVsr5BvE" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
