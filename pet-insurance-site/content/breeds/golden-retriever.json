@@ -1,0 +1,121 @@
+{
+  "name": "Golden Retriever",
+  "slug": "golden-retriever",
+  "metaDescription": "Golden Retrievers face high cancer rates and joint problems. Find the best pet insurance for Goldens—coverage for hip dysplasia, cancer treatment & more.",
+  "intro": "Golden Retrievers are loyal, lovable—and unfortunately prone to serious health issues. With cancer affecting up to 60% of the breed and hip dysplasia common, the right insurance isn't optional. We analyzed top providers to find the best coverage for Golden owners.",
+  "whyInsurance": "Golden Retrievers are America's third most popular breed—and one of the most heartbreaking to lose. Cancer rates in Goldens are alarmingly high, and treatment is expensive.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best for cancer coverage (no annual limits)" },
+    { "name": "Embrace", "highlight": "Best for hip dysplasia (shorter orthopedic waiting period)" },
+    { "name": "Pets Best", "highlight": "Best value (affordable + solid coverage)" }
+  ],
+  "healthIssues": [
+    { "name": "Cancer", "description": "Hemangiosarcoma, Lymphoma, Osteosarcoma (affects ~60%)", "cost": "$5,000 - $15,000+" },
+    { "name": "Hip Dysplasia", "description": "Malformed hip joints", "cost": "$1,500 - $6,000" },
+    { "name": "Elbow Dysplasia", "description": "Malformed elbow joints", "cost": "$1,500 - $4,000" },
+    { "name": "Hypothyroidism", "description": "Underactive thyroid", "cost": "$200 - $1,000/year" },
+    { "name": "Allergies & Hot Spots", "description": "Skin irritation, chronic itching", "cost": "$200 - $800/year" },
+    { "name": "Heart Disease (SAS)", "description": "Subvalvular aortic stenosis", "cost": "$500 - $2,000+" },
+    { "name": "Cataracts", "description": "Clouding of eye lens", "cost": "$2,000 - $4,000" }
+  ],
+  "mustHave": [
+    "Cancer treatment – Chemo, radiation, surgery, medication",
+    "Hereditary & congenital conditions – Hip/elbow dysplasia, heart issues",
+    "No annual or lifetime limits – Cancer treatment blows through low caps",
+    "Chronic condition coverage – Hypothyroidism, allergies are ongoing"
+  ],
+  "redFlags": [
+    "Low annual limits ($5k-10k won't cover cancer)",
+    "Bilateral exclusions (if one hip goes, the other often follows)",
+    "12+ month orthopedic waiting periods"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best for Cancer Coverage",
+      "description": "Healthy Paws offers unlimited annual and lifetime benefits—critical for Golden Retrievers facing cancer treatment. No caps means your coverage doesn't run out when you need it most.",
+      "cost": "$45-80/mo",
+      "pros": [
+        "Unlimited annual and lifetime payouts",
+        "Covers hereditary conditions including hip dysplasia",
+        "Fast claims (average 2 days)",
+        "No caps on cancer treatment"
+      ],
+      "cons": [
+        "No wellness plan option",
+        "15-day illness waiting period",
+        "12-month waiting period for hip dysplasia"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Hip Dysplasia",
+      "description": "Embrace has a 6-month orthopedic waiting period (vs. 12 months at most competitors), plus they cover both hips even if one is already affected—crucial for a bilateral condition.",
+      "cost": "$50-85/mo",
+      "pros": [
+        "6-month orthopedic waiting period",
+        "Covers bilateral conditions fully",
+        "Diminishing deductible rewards healthy years",
+        "Prescription drug and food coverage"
+      ],
+      "cons": [
+        "Annual limits cap at $30k",
+        "Slightly higher premiums"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value",
+      "description": "Pets Best balances affordability with solid coverage. Good option if you want protection without premium prices, though limits are lower than top-tier options.",
+      "cost": "$35-65/mo",
+      "pros": [
+        "Lower premiums than competitors",
+        "Covers hereditary conditions",
+        "24/7 vet helpline included",
+        "Direct vet payment option"
+      ],
+      "cons": [
+        "Annual limits max at $20k",
+        "14-day illness waiting period",
+        "12-month orthopedic waiting period"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Golden Retrievers are medium-to-large dogs with known health risks, so premiums are moderate to high.",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$30 - $55/month" },
+    { "age": "Adult (1-7 years)", "range": "$45 - $85/month" },
+    { "age": "Senior (8+ years)", "range": "$80 - $160+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for Golden Retrievers?",
+      "answer": "Absolutely. With 60% of Goldens developing cancer and hip dysplasia common, major claims are likely—not just possible. A single cancer treatment can cost $10,000+, making insurance essential."
+    },
+    {
+      "question": "Does pet insurance cover cancer in Golden Retrievers?",
+      "answer": "Yes. All major insurers cover cancer treatment including chemotherapy, radiation, surgery, and medications—as long as it develops after enrollment. This is the #1 reason to insure a Golden."
+    },
+    {
+      "question": "Will pet insurance cover hip dysplasia?",
+      "answer": "Yes, but most policies have a 6-12 month waiting period for orthopedic conditions. Enroll early before any symptoms appear to ensure coverage."
+    },
+    {
+      "question": "What's the best age to insure a Golden Retriever?",
+      "answer": "As early as possible—8-12 weeks is ideal. Premiums are lowest, and crucially, no conditions are pre-existing. Hip issues often show up by age 2, and cancer risk increases after age 6."
+    },
+    {
+      "question": "Why do Golden Retrievers get cancer so often?",
+      "answer": "Genetics. The breed's limited gene pool has concentrated cancer-causing mutations. Research through the Golden Retriever Lifetime Study is working to understand and reduce this, but for now, insurance is the best protection."
+    }
+  ],
+  "finalCta": "Don't wait until a diagnosis. Compare quotes from top providers and find coverage that won't let you down when it matters most.",
+  "relatedBreeds": [
+    { "name": "Labrador Retriever", "slug": "labrador-retriever" },
+    { "name": "Flat-Coated Retriever", "slug": "flat-coated-retriever" },
+    { "name": "Irish Setter", "slug": "irish-setter" }
+  ]
+}

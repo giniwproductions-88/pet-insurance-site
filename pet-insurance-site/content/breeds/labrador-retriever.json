@@ -1,0 +1,123 @@
+{
+  "name": "Labrador Retriever",
+  "slug": "labrador-retriever",
+  "metaDescription": "Labs are prone to hip dysplasia, elbow problems, and obesity-related conditions. Find the best pet insurance for Labrador Retrievers—compare top picks.",
+  "intro": "Labrador Retrievers are America's most popular breed for good reason—they're friendly, loyal, and endlessly enthusiastic. But that enthusiasm comes with risks: joint problems, obesity, and a tendency to eat things they shouldn't. Here's how to find the right coverage for your Lab.",
+  "whyInsurance": "Labs are athletic, food-obsessed, and genetically prone to joint problems. They'll also eat rocks, socks, and anything else that fits in their mouth. It's a recipe for vet bills.",
+  "topPicks": [
+    { "name": "Pets Best", "highlight": "Best overall value (solid coverage, affordable)" },
+    { "name": "Embrace", "highlight": "Best for joint issues (short orthopedic wait)" },
+    { "name": "Pumpkin", "highlight": "Best coverage breadth (includes foreign object ingestion)" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Malformed hip joints (affects ~12%)", "cost": "$1,500 - $6,000" },
+    { "name": "Elbow Dysplasia", "description": "Malformed elbow joints", "cost": "$1,500 - $4,000" },
+    { "name": "ACL/CCL Tears", "description": "Knee ligament rupture", "cost": "$2,000 - $5,000" },
+    { "name": "Foreign Object Ingestion", "description": "Eating socks, toys, rocks", "cost": "$1,500 - $5,000" },
+    { "name": "Obesity-Related Issues", "description": "Joint stress, diabetes, heart disease", "cost": "$500 - $3,000+" },
+    { "name": "Ear Infections", "description": "Floppy ears trap moisture", "cost": "$100 - $300/episode" },
+    { "name": "Bloat (GDV)", "description": "Stomach twists—emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Exercise-Induced Collapse", "description": "Genetic muscle weakness", "cost": "$200 - $500" }
+  ],
+  "mustHave": [
+    "Orthopedic conditions – Hip, elbow, and cruciate injuries",
+    "Foreign object ingestion – Sock removal surgery isn't cheap",
+    "Emergency surgery – Bloat, obstructions require immediate care",
+    "Chronic conditions – Obesity-related issues, ear infections"
+  ],
+  "redFlags": [
+    "Foreign body exclusions (some budget plans exclude this)",
+    "Low annual limits for an active, accident-prone breed",
+    "Bilateral exclusions for joint conditions"
+  ],
+  "providers": [
+    {
+      "name": "Pets Best",
+      "tagline": "Best Overall Value",
+      "description": "Pets Best offers affordable premiums with solid coverage—a good fit for Labs who need protection without top-tier prices. They cover hereditary conditions and have a faster claims process than many competitors.",
+      "cost": "$35-65/mo",
+      "pros": [
+        "Affordable premiums for large breeds",
+        "Covers hereditary conditions",
+        "24/7 vet helpline included",
+        "Direct vet payment option available",
+        "Fast claims (average 5 days)"
+      ],
+      "cons": [
+        "14-day illness waiting period",
+        "12-month orthopedic waiting period",
+        "Annual limits max at $20k"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Joint Issues",
+      "description": "Embrace's 6-month orthopedic waiting period is the shortest in the industry. For Labs prone to hip and knee problems, getting coverage faster matters.",
+      "cost": "$45-80/mo",
+      "pros": [
+        "6-month orthopedic waiting period",
+        "Covers bilateral conditions",
+        "Prescription food coverage",
+        "Diminishing deductible over time"
+      ],
+      "cons": [
+        "Higher premiums than budget options",
+        "Annual limits cap at $30k"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pumpkin",
+      "tagline": "Best Coverage Breadth",
+      "description": "Pumpkin covers things other insurers charge extra for—including foreign object ingestion, dental illness, and behavioral conditions. For Labs who eat everything, this matters.",
+      "cost": "$45-80/mo",
+      "pros": [
+        "Foreign object ingestion fully covered",
+        "Dental illness included",
+        "No breed restrictions or age-based coverage reductions",
+        "90% reimbursement standard"
+      ],
+      "cons": [
+        "No accident-only option",
+        "Slightly higher premiums",
+        "6-month orthopedic waiting period"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Labs are large dogs, but their generally good health (compared to breeds like Bulldogs) keeps premiums moderate.",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$25 - $50/month" },
+    { "age": "Adult (1-7 years)", "range": "$40 - $75/month" },
+    { "age": "Senior (8+ years)", "range": "$70 - $140+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for Labrador Retrievers?",
+      "answer": "Yes. Labs are active dogs prone to joint injuries, ACL tears, and swallowing foreign objects. A single knee surgery costs $3,000-5,000. Insurance provides peace of mind for a breed that lives life at full speed."
+    },
+    {
+      "question": "Does pet insurance cover ACL/CCL tears in Labs?",
+      "answer": "Yes. Cruciate ligament tears are covered as injuries or hereditary conditions, depending on the insurer. Note: if one knee tears, the other often follows—make sure your policy covers bilateral conditions."
+    },
+    {
+      "question": "My Lab ate a sock. Will insurance cover surgery?",
+      "answer": "Yes. Foreign object ingestion is covered by most accident-and-illness policies. This is one of the most common claims for Labs—another reason insurance makes sense for the breed."
+    },
+    {
+      "question": "What's the best age to insure a Labrador Retriever?",
+      "answer": "As a puppy, ideally 8-12 weeks. Premiums are lowest, nothing is pre-existing, and you'll clear orthopedic waiting periods before joint issues typically appear (around age 2-4)."
+    },
+    {
+      "question": "Are Labrador Retrievers expensive to insure?",
+      "answer": "Moderate. Labs cost less than high-risk breeds like French Bulldogs or German Shepherds but more than smaller, healthier breeds. Expect $40-75/month for adult coverage."
+    }
+  ],
+  "finalCta": "Labs live life to the fullest—make sure you can afford the vet bills that come with it.",
+  "relatedBreeds": [
+    { "name": "Golden Retriever", "slug": "golden-retriever" },
+    { "name": "Chesapeake Bay Retriever", "slug": "chesapeake-bay-retriever" },
+    { "name": "English Springer Spaniel", "slug": "english-springer-spaniel" }
+  ]
+}

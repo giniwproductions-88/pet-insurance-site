@@ -1,0 +1,118 @@
+{
+  "name": "French Bulldog",
+  "slug": "french-bulldog",
+  "metaDescription": "French Bulldogs face expensive health issues. Compare the best pet insurance for Frenchies—coverage for BOAS, spine problems, allergies & more.",
+  "intro": "French Bulldogs are adorable, expensive, and prone to serious health problems. The right insurance can save you thousands when breathing issues, spinal conditions, or skin allergies hit. We compared top providers to find the best coverage for Frenchie owners.",
+  "whyInsurance": "French Bulldogs are the #1 most popular breed in America—and one of the most expensive to care for. Their flat faces and compact build make them prone to costly health issues.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best overall (covers hereditary conditions from day one)" },
+    { "name": "Pumpkin", "highlight": "Best coverage breadth (dental, behavioral included)" },
+    { "name": "Lemonade", "highlight": "Best budget option" }
+  ],
+  "healthIssues": [
+    { "name": "BOAS", "description": "Breathing difficulties from flat face", "cost": "$2,000 - $5,000+" },
+    { "name": "IVDD", "description": "Spine/back problems", "cost": "$3,000 - $8,000" },
+    { "name": "Allergies & Skin Issues", "description": "Chronic itching, infections", "cost": "$200 - $1,000/year" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$1,500 - $6,000" },
+    { "name": "Cherry Eye", "description": "Prolapsed tear gland", "cost": "$500 - $1,500" },
+    { "name": "Ear Infections", "description": "Recurring infections", "cost": "$100 - $300/episode" }
+  ],
+  "mustHave": [
+    "Hereditary & congenital conditions – BOAS, IVDD, hip dysplasia are genetic",
+    "Chronic condition coverage – Allergies require ongoing treatment",
+    "Surgery & hospitalization – The big expenses",
+    "Diagnostic testing – X-rays, MRIs for spine issues"
+  ],
+  "redFlags": [
+    "Policies that exclude 'breed-specific conditions'",
+    "Low annual limits (under $10k won't cover major surgery)",
+    "Long waiting periods for orthopedic conditions (12+ months)"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best Overall for Frenchies",
+      "description": "Embrace stands out for French Bulldogs because they cover hereditary conditions with no extra waiting period. Their 'Wellness Rewards' program also helps offset allergy treatments and prescription food.",
+      "cost": "$45-75/mo",
+      "pros": [
+        "Covers hereditary conditions immediately",
+        "Diminishing deductible if you don't file claims",
+        "Prescription food coverage included",
+        "90% reimbursement option"
+      ],
+      "cons": [
+        "Slightly higher premiums than budget options",
+        "14-day illness waiting period"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pumpkin",
+      "tagline": "Best Coverage Breadth",
+      "description": "Pumpkin includes things other insurers charge extra for—dental illness, behavioral conditions, and exam fees. For Frenchies who need comprehensive care, it's hard to beat.",
+      "cost": "$50-85/mo",
+      "pros": [
+        "Covers dental illness (rare among insurers)",
+        "No breed restrictions or coverage reductions with age",
+        "90% reimbursement on all plans",
+        "Parasites covered"
+      ],
+      "cons": [
+        "No accident-only option",
+        "Wellness is separate add-on"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "If you want basic coverage without breaking the bank, Lemonade offers low premiums and a dead-simple app. Just know you may need add-ons for full Frenchie coverage.",
+      "cost": "$30-55/mo",
+      "pros": [
+        "Cheapest base premiums",
+        "AI-powered claims paid in minutes",
+        "Easy mobile app"
+      ],
+      "cons": [
+        "Hereditary conditions require add-on",
+        "Physical therapy requires add-on",
+        "Not available in all states"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "French Bulldogs cost more to insure than average due to their health risks. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$35 - $60/month" },
+    { "age": "Adult (1-7 years)", "range": "$45 - $85/month" },
+    { "age": "Senior (8+ years)", "range": "$75 - $150+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for French Bulldogs?",
+      "answer": "Yes. Frenchies are among the most expensive breeds to own due to breathing, spine, and skin issues. A single surgery can cost $3,000-8,000. Insurance typically pays for itself with one major claim."
+    },
+    {
+      "question": "Does pet insurance cover BOAS surgery?",
+      "answer": "Most comprehensive policies cover BOAS surgery as long as symptoms weren't present before enrollment. Embrace, Pumpkin, and Healthy Paws all cover it under hereditary conditions."
+    },
+    {
+      "question": "What's the best age to insure a French Bulldog?",
+      "answer": "As young as possible—ideally 8-12 weeks. Premiums are lowest, and no conditions are 'pre-existing' yet. Many Frenchie health issues show up by age 2-3."
+    },
+    {
+      "question": "Are French Bulldog allergies covered by insurance?",
+      "answer": "Yes, allergies are typically covered as a chronic illness. However, if your Frenchie showed allergy symptoms before enrollment, it may be excluded as pre-existing."
+    },
+    {
+      "question": "Why are French Bulldogs so expensive to insure?",
+      "answer": "Their brachycephalic (flat-faced) structure causes breathing problems, and their compact spine leads to disc issues. Insurers price based on breed health data, and Frenchies file more claims than average."
+    }
+  ],
+  "finalCta": "Don't wait until your Frenchie needs expensive care. Compare quotes from top providers and find the right coverage for your budget.",
+  "relatedBreeds": [
+    { "name": "English Bulldog", "slug": "english-bulldog" },
+    { "name": "Pug", "slug": "pug" },
+    { "name": "Boston Terrier", "slug": "boston-terrier" }
+  ]
+}

@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply text-gray-800 antialiased;
+  }
+  
+  h1 {
+    @apply text-4xl md:text-5xl font-display font-bold leading-tight;
+  }
+  
+  h2 {
+    @apply text-2xl md:text-3xl font-display font-bold;
+  }
+  
+  h3 {
+    @apply text-xl font-semibold;
+  }
+}
+
+@layer components {
+  .container-wide {
+    @apply max-w-6xl mx-auto px-4 sm:px-6;
+  }
+  
+  .container-narrow {
+    @apply max-w-3xl mx-auto px-4 sm:px-6;
+  }
+  
+  .btn-primary {
+    @apply inline-block bg-brand-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-brand-600 transition-colors;
+  }
+  
+  .btn-secondary {
+    @apply inline-block bg-white text-gray-700 px-6 py-3 rounded-lg font-semibold border border-gray-200 hover:border-gray-300 hover:bg-gray-50 transition-colors;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl border border-gray-100 p-6 shadow-sm;
+  }
+  
+  .card-highlight {
+    @apply bg-white rounded-xl border-2 border-brand-200 p-6 shadow-sm ring-1 ring-brand-100;
+  }
+  
+  .tag {
+    @apply inline-block px-2.5 py-1 text-xs font-semibold rounded-full;
+  }
+  
+  .prose-custom {
+    @apply text-gray-600 leading-relaxed;
+  }
+  
+  .prose-custom p {
+    @apply mb-4;
+  }
+  
+  .prose-custom ul {
+    @apply list-disc list-inside mb-4 space-y-1;
+  }
+  
+  .prose-custom li {
+    @apply text-gray-600;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
