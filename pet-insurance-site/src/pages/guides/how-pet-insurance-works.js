@@ -15,292 +15,388 @@ export default function HowPetInsuranceWorks() {
           </Link>
           <h1 className="text-gray-900 mb-6">How Pet Insurance Works</h1>
           <p className="text-xl text-gray-600 leading-relaxed">
-            Pet insurance isn't like human health insurance. Here's everything you need to know before you buy.
+            Pet insurance isn't like human health insurance. Here's what you actually need to know.
           </p>
         </div>
       </section>
 
-      {/* Content */}
-      <article className="py-16">
+      {/* Key Difference */}
+      <section className="py-12 bg-brand-50">
         <div className="container-narrow">
-          
-          {/* Key Difference */}
-          <div className="bg-brand-50 border border-brand-200 rounded-lg p-6 mb-12">
-            <h2 className="text-xl font-bold text-brand-800 mb-3">The Key Difference from Human Insurance</h2>
-            <p className="text-gray-700 leading-relaxed">
-              Pet insurance is <strong>reimbursement-based</strong>. You pay the vet bill first, then submit a claim to get money back. There are no networks, no referrals, and you can use any licensed vet.
-            </p>
+          <div className="flex items-start gap-4">
+            <div className="text-4xl">🔑</div>
+            <div>
+              <h2 className="text-xl font-bold text-brand-800 mb-2">The Key Difference</h2>
+              <p className="text-gray-700 leading-relaxed">
+                Pet insurance is <strong>reimbursement-based</strong>. You pay the vet first, then submit a claim to get money back. No networks, no referrals — use any licensed vet.
+              </p>
+            </div>
           </div>
-
-          {/* The Basics */}
-          <section className="mb-14">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">The Three Numbers That Matter</h2>
-            <p className="text-gray-600 leading-relaxed mb-8">
-              Every pet insurance policy has three key components that determine what you pay and what you get back:
-            </p>
-
-            <div className="space-y-10">
-              <div>
-                <h3 className="text-lg font-semibold text-gray-800 mb-3">1. Annual Deductible</h3>
-                <p className="text-gray-600 leading-relaxed mb-3">
-                  The amount you pay out-of-pocket before insurance kicks in each year. Common options: $100, $250, $500, $1,000.
-                </p>
-                <ul className="space-y-2 text-gray-600 ml-4 mb-4">
-                  <li><strong>Lower deductible</strong> = Higher monthly premium, but insurance kicks in sooner</li>
-                  <li><strong>Higher deductible</strong> = Lower monthly premium, but more out-of-pocket before coverage</li>
-                </ul>
-                <p className="text-gray-600 leading-relaxed">
-                  <strong>Our take:</strong> For most people, $250-$500 is the sweet spot. Anything lower usually isn't worth the premium increase.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="text-lg font-semibold text-gray-800 mb-3">2. Reimbursement Rate</h3>
-                <p className="text-gray-600 leading-relaxed mb-3">
-                  The percentage of covered costs the insurance pays back after your deductible. Common options: 70%, 80%, 90%.
-                </p>
-                <div className="bg-gray-50 rounded-lg p-4 mb-4">
-                  <p className="text-gray-700 mb-2"><strong>Example:</strong> You have a $500 deductible and 80% reimbursement. Your dog needs $3,000 surgery.</p>
-                  <ul className="space-y-1 text-gray-600 ml-4">
-                    <li>You pay: $500 (deductible) + $500 (20% of remaining $2,500) = <strong>$1,000</strong></li>
-                    <li>Insurance pays: <strong>$2,000</strong></li>
-                  </ul>
-                </div>
-                <p className="text-gray-600 leading-relaxed">
-                  <strong>Our take:</strong> 80% is the most popular choice. 90% costs more but is worth it for high-risk breeds.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="text-lg font-semibold text-gray-800 mb-3">3. Annual Limit</h3>
-                <p className="text-gray-600 leading-relaxed mb-3">
-                  The maximum amount insurance will pay per year. Options range from $5,000 to unlimited.
-                </p>
-                <p className="text-gray-600 leading-relaxed">
-                  <strong>Our take:</strong> We recommend at least $15,000 or unlimited. Cancer treatment alone can exceed $10,000, and you don't want to hit your limit mid-treatment.
-                </p>
-              </div>
-            </div>
-          </section>
-
-          {/* What's Covered */}
-          <section className="mb-14">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">What's Typically Covered</h2>
-            
-            <div className="grid md:grid-cols-2 gap-6">
-              <div className="bg-forest-50 border border-forest-200 rounded-lg p-6">
-                <h3 className="text-forest-800 font-semibold text-lg mb-4">✓ Usually Covered</h3>
-                <ul className="space-y-2 text-gray-700">
-                  <li>• Accidents (broken bones, lacerations, poisoning)</li>
-                  <li>• Illnesses (infections, cancer, diabetes)</li>
-                  <li>• Emergency care and surgery</li>
-                  <li>• Hospitalization</li>
-                  <li>• Prescription medications</li>
-                  <li>• Diagnostic tests (X-rays, MRIs, bloodwork)</li>
-                  <li>• Hereditary conditions (most policies)</li>
-                  <li>• Chronic conditions</li>
-                </ul>
-              </div>
-              <div className="bg-red-50 border border-red-200 rounded-lg p-6">
-                <h3 className="text-red-800 font-semibold text-lg mb-4">✗ Usually NOT Covered</h3>
-                <ul className="space-y-2 text-gray-700">
-                  <li>• Pre-existing conditions</li>
-                  <li>• Routine/wellness care (unless added)</li>
-                  <li>• Spay/neuter</li>
-                  <li>• Dental cleanings (unless added)</li>
-                  <li>• Breeding costs</li>
-                  <li>• Cosmetic procedures</li>
-                  <li>• Food and supplements</li>
-                  <li>• Grooming</li>
-                </ul>
-              </div>
-            </div>
-          </section>
-
-          {/* Waiting Periods */}
-          <section className="mb-14">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Waiting Periods: The Fine Print That Matters</h2>
-            <p className="text-gray-600 leading-relaxed mb-6">
-              After you buy a policy, there's a waiting period before coverage begins. This prevents people from buying insurance after their pet is already sick.
-            </p>
-            
-            <div className="overflow-x-auto mb-6">
-              <table className="min-w-full border border-gray-200 rounded-lg">
-                <thead className="bg-gray-50">
-                  <tr>
-                    <th className="text-left py-3 px-4 font-semibold text-gray-700">Coverage Type</th>
-                    <th className="text-left py-3 px-4 font-semibold text-gray-700">Typical Waiting Period</th>
-                  </tr>
-                </thead>
-                <tbody className="divide-y divide-gray-200">
-                  <tr><td className="py-3 px-4">Accidents</td><td className="py-3 px-4">2-14 days</td></tr>
-                  <tr><td className="py-3 px-4">Illnesses</td><td className="py-3 px-4">14-30 days</td></tr>
-                  <tr><td className="py-3 px-4">Orthopedic conditions (hips, knees)</td><td className="py-3 px-4">6-12 months</td></tr>
-                  <tr><td className="py-3 px-4">Cruciate ligament issues</td><td className="py-3 px-4">6-12 months</td></tr>
-                </tbody>
-              </table>
-            </div>
-
-            <p className="text-gray-600 leading-relaxed">
-              <strong>Important:</strong> Orthopedic waiting periods vary significantly by insurer. Embrace has a 6-month wait; others require 12 months. If you have a breed prone to hip dysplasia, this matters a lot.
-            </p>
-          </section>
-
-          {/* Pre-Existing Conditions */}
-          <section className="mb-14">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Pre-Existing Conditions Explained</h2>
-            <p className="text-gray-600 leading-relaxed mb-4">
-              A pre-existing condition is anything that showed symptoms or was diagnosed before coverage started (or during the waiting period). These are never covered.
-            </p>
-            <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>This is why insuring early matters.</strong> If you wait until your dog limps to buy insurance, hip dysplasia becomes pre-existing. But if you insure as a puppy, conditions that develop later are covered.
-            </p>
-            <p className="text-gray-600 leading-relaxed">
-              Some conditions are considered "curable"—like a UTI that fully resolves. After a symptom-free period (usually 12 months), these may no longer be excluded.
-            </p>
-          </section>
-
-          {/* How to File a Claim */}
-          <section className="mb-14">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">How to File a Claim</h2>
-            <div className="space-y-4">
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 w-8 h-8 bg-brand-100 text-brand-700 rounded-full flex items-center justify-center font-semibold">1</span>
-                <div>
-                  <p className="font-semibold text-gray-800">Pay your vet bill</p>
-                  <p className="text-gray-600">You pay upfront, just like normal</p>
-                </div>
-              </div>
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 w-8 h-8 bg-brand-100 text-brand-700 rounded-full flex items-center justify-center font-semibold">2</span>
-                <div>
-                  <p className="font-semibold text-gray-800">Get your records</p>
-                  <p className="text-gray-600">Ask for an itemized invoice and medical records</p>
-                </div>
-              </div>
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 w-8 h-8 bg-brand-100 text-brand-700 rounded-full flex items-center justify-center font-semibold">3</span>
-                <div>
-                  <p className="font-semibold text-gray-800">Submit your claim</p>
-                  <p className="text-gray-600">Most insurers have apps or online portals</p>
-                </div>
-              </div>
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 w-8 h-8 bg-brand-100 text-brand-700 rounded-full flex items-center justify-center font-semibold">4</span>
-                <div>
-                  <p className="font-semibold text-gray-800">Wait for processing</p>
-                  <p className="text-gray-600">Usually 5-14 days</p>
-                </div>
-              </div>
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 w-8 h-8 bg-brand-100 text-brand-700 rounded-full flex items-center justify-center font-semibold">5</span>
-                <div>
-                  <p className="font-semibold text-gray-800">Get reimbursed</p>
-                  <p className="text-gray-600">Direct deposit or check</p>
-                </div>
-              </div>
-            </div>
-            <p className="text-gray-600 leading-relaxed mt-6">
-              <strong>Pro tip:</strong> Some insurers (like Trupanion) can pay the vet directly, so you don't have to front the money. Ask your vet if they support this.
-            </p>
-          </section>
-
-          {/* Choosing the Right Policy */}
-          <section className="mb-14">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">How to Choose the Right Policy</h2>
-            <p className="text-gray-600 leading-relaxed mb-8">
-              The "best" policy depends on your specific situation:
-            </p>
-
-            <div className="space-y-8">
-              <div className="bg-gray-50 rounded-lg p-6">
-                <h3 className="text-lg font-semibold text-gray-800 mb-3">For High-Risk Breeds (Bulldogs, Cavaliers, Berners)</h3>
-                <ul className="space-y-2 text-gray-600 ml-4">
-                  <li>• Choose 90% reimbursement</li>
-                  <li>• Get unlimited annual coverage</li>
-                  <li>• Look for shorter orthopedic waiting periods</li>
-                  <li>• Confirm hereditary conditions are covered</li>
-                </ul>
-              </div>
-
-              <div className="bg-gray-50 rounded-lg p-6">
-                <h3 className="text-lg font-semibold text-gray-800 mb-3">For Healthy, Low-Risk Breeds</h3>
-                <ul className="space-y-2 text-gray-600 ml-4">
-                  <li>• 80% reimbursement is usually fine</li>
-                  <li>• $15,000+ annual limit</li>
-                  <li>• Consider a higher deductible to lower premiums</li>
-                </ul>
-              </div>
-
-              <div className="bg-gray-50 rounded-lg p-6">
-                <h3 className="text-lg font-semibold text-gray-800 mb-3">For Budget-Conscious Pet Owners</h3>
-                <ul className="space-y-2 text-gray-600 ml-4">
-                  <li>• Accident-only coverage is cheaper than comprehensive</li>
-                  <li>• Higher deductible ($500-$1,000) significantly lowers premiums</li>
-                  <li>• Skip wellness add-ons (they rarely pay off)</li>
-                </ul>
-              </div>
-            </div>
-          </section>
-
-          {/* Common Mistakes */}
-          <section className="mb-14">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">Common Mistakes to Avoid</h2>
-            <div className="space-y-4">
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 text-red-500 font-bold">1.</span>
-                <p className="text-gray-600"><strong className="text-gray-800">Waiting too long to insure</strong> — Every vet visit creates potential pre-existing conditions</p>
-              </div>
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 text-red-500 font-bold">2.</span>
-                <p className="text-gray-600"><strong className="text-gray-800">Choosing the cheapest policy</strong> — Low limits and exclusions can leave you exposed</p>
-              </div>
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 text-red-500 font-bold">3.</span>
-                <p className="text-gray-600"><strong className="text-gray-800">Not reading the exclusions</strong> — Some policies exclude breed-specific conditions</p>
-              </div>
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 text-red-500 font-bold">4.</span>
-                <p className="text-gray-600"><strong className="text-gray-800">Adding unnecessary wellness coverage</strong> — Do the math; it often costs more than it returns</p>
-              </div>
-              <div className="flex gap-4">
-                <span className="flex-shrink-0 text-red-500 font-bold">5.</span>
-                <p className="text-gray-600"><strong className="text-gray-800">Ignoring orthopedic waiting periods</strong> — 12 months is a long time if your puppy develops hip issues at 8 months</p>
-              </div>
-            </div>
-          </section>
-
-          {/* Summary Box */}
-          <div className="bg-gray-100 border border-gray-200 rounded-lg p-6 mb-14">
-            <h2 className="text-xl font-bold text-gray-800 mb-4">Quick Summary</h2>
-            <ul className="space-y-2 text-gray-700">
-              <li>• Pet insurance reimburses you after you pay the vet</li>
-              <li>• Choose your deductible ($250-$500 recommended), reimbursement rate (80-90%), and annual limit ($15k+ or unlimited)</li>
-              <li>• Waiting periods apply—insure early before issues develop</li>
-              <li>• Pre-existing conditions are never covered</li>
-              <li>• The right policy depends on your breed's specific risks</li>
-            </ul>
-          </div>
-
-          {/* Next Steps */}
-          <section>
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Find the Right Coverage for Your Breed</h2>
-            <p className="text-gray-600 leading-relaxed mb-8">
-              Now that you understand how insurance works, find the specific recommendations for your breed. We break down what to look for, what to avoid, and which providers are best for each breed's unique health risks.
-            </p>
-
-            <div className="flex flex-col sm:flex-row gap-4">
-              <Link href="/breeds" className="btn-primary text-center">
-                Find Your Breed →
-              </Link>
-              <Link href="/guides/is-pet-insurance-worth-it" className="btn-secondary text-center">
-                Is Insurance Worth It?
-              </Link>
-            </div>
-          </section>
-
         </div>
-      </article>
+      </section>
+
+      {/* Three Numbers */}
+      <section className="py-16">
+        <div className="container-narrow">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 text-center">The Three Numbers That Matter</h2>
+          <p className="text-gray-600 text-center mb-12">Every policy has these three components</p>
+
+          <div className="grid md:grid-cols-3 gap-6">
+            <div className="bg-white border-2 border-brand-200 rounded-xl p-6 text-center">
+              <div className="w-12 h-12 bg-brand-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-brand-700 font-bold">$</span>
+              </div>
+              <h3 className="font-bold text-gray-900 mb-2">Deductible</h3>
+              <p className="text-sm text-gray-600 mb-4">Amount you pay before insurance kicks in</p>
+              <div className="text-2xl font-bold text-brand-600">$250-500</div>
+              <div className="text-xs text-gray-500 mt-1">recommended</div>
+            </div>
+
+            <div className="bg-white border-2 border-forest-200 rounded-xl p-6 text-center">
+              <div className="w-12 h-12 bg-forest-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-forest-700 font-bold">%</span>
+              </div>
+              <h3 className="font-bold text-gray-900 mb-2">Reimbursement</h3>
+              <p className="text-sm text-gray-600 mb-4">Percentage insurance pays back</p>
+              <div className="text-2xl font-bold text-forest-600">80-90%</div>
+              <div className="text-xs text-gray-500 mt-1">most popular</div>
+            </div>
+
+            <div className="bg-white border-2 border-amber-200 rounded-xl p-6 text-center">
+              <div className="w-12 h-12 bg-amber-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-amber-700 font-bold">∞</span>
+              </div>
+              <h3 className="font-bold text-gray-900 mb-2">Annual Limit</h3>
+              <p className="text-sm text-gray-600 mb-4">Max insurance pays per year</p>
+              <div className="text-2xl font-bold text-amber-600">$15k+</div>
+              <div className="text-xs text-gray-500 mt-1">or unlimited</div>
+            </div>
+          </div>
+
+          {/* Example Box */}
+          <div className="mt-12 bg-gray-50 rounded-xl p-6">
+            <h3 className="font-semibold text-gray-800 mb-4 flex items-center gap-2">
+              <span className="text-xl">📝</span> Example Claim
+            </h3>
+            <div className="grid sm:grid-cols-3 gap-4 text-center">
+              <div>
+                <div className="text-sm text-gray-500 mb-1">Surgery Cost</div>
+                <div className="text-xl font-bold text-gray-900">$3,000</div>
+              </div>
+              <div>
+                <div className="text-sm text-gray-500 mb-1">You Pay</div>
+                <div className="text-xl font-bold text-red-600">$1,000</div>
+                <div className="text-xs text-gray-500">$500 deductible + 20%</div>
+              </div>
+              <div>
+                <div className="text-sm text-gray-500 mb-1">Insurance Pays</div>
+                <div className="text-xl font-bold text-forest-600">$2,000</div>
+                <div className="text-xs text-gray-500">80% after deductible</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* What's Covered */}
+      <section className="py-16 bg-gray-50">
+        <div className="container-narrow">
+          <h2 className="text-2xl font-bold text-gray-900 mb-8 text-center">What's Covered?</h2>
+          
+          <div className="grid md:grid-cols-2 gap-6">
+            <div className="bg-white rounded-xl p-6 border border-forest-200">
+              <div className="flex items-center gap-2 mb-4">
+                <span className="text-2xl">✅</span>
+                <h3 className="font-bold text-forest-800">Usually Covered</h3>
+              </div>
+              <div className="grid grid-cols-2 gap-2 text-sm text-gray-600">
+                <div>• Accidents</div>
+                <div>• Illnesses</div>
+                <div>• Surgery</div>
+                <div>• Hospitalization</div>
+                <div>• Prescriptions</div>
+                <div>• X-rays, MRIs</div>
+                <div>• Cancer treatment</div>
+                <div>• Chronic conditions</div>
+              </div>
+            </div>
+
+            <div className="bg-white rounded-xl p-6 border border-red-200">
+              <div className="flex items-center gap-2 mb-4">
+                <span className="text-2xl">❌</span>
+                <h3 className="font-bold text-red-800">Usually NOT Covered</h3>
+              </div>
+              <div className="grid grid-cols-2 gap-2 text-sm text-gray-600">
+                <div>• Pre-existing</div>
+                <div>• Routine care*</div>
+                <div>• Spay/neuter</div>
+                <div>• Dental cleaning*</div>
+                <div>• Breeding</div>
+                <div>• Cosmetic</div>
+                <div>• Food</div>
+                <div>• Grooming</div>
+              </div>
+              <div className="text-xs text-gray-500 mt-3">*Unless you add wellness coverage</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Waiting Periods */}
+      <section className="py-16">
+        <div className="container-narrow">
+          <div className="flex items-center gap-3 mb-8">
+            <span className="text-3xl">⏱️</span>
+            <h2 className="text-2xl font-bold text-gray-900">Waiting Periods</h2>
+          </div>
+          <p className="text-gray-600 mb-8">
+            Coverage doesn't start immediately. This prevents people from buying insurance after their pet is already sick.
+          </p>
+
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div className="bg-forest-50 rounded-xl p-5 text-center">
+              <div className="text-2xl font-bold text-forest-700 mb-1">2-14 days</div>
+              <div className="text-sm text-gray-600">Accidents</div>
+            </div>
+            <div className="bg-brand-50 rounded-xl p-5 text-center">
+              <div className="text-2xl font-bold text-brand-700 mb-1">14-30 days</div>
+              <div className="text-sm text-gray-600">Illnesses</div>
+            </div>
+            <div className="bg-amber-50 rounded-xl p-5 text-center">
+              <div className="text-2xl font-bold text-amber-700 mb-1">6-12 months</div>
+              <div className="text-sm text-gray-600">Orthopedic (hips, knees)</div>
+            </div>
+            <div className="bg-red-50 rounded-xl p-5 text-center">
+              <div className="text-2xl font-bold text-red-700 mb-1">6-12 months</div>
+              <div className="text-sm text-gray-600">Cruciate ligament</div>
+            </div>
+          </div>
+
+          <div className="mt-6 p-4 bg-amber-50 border border-amber-200 rounded-lg">
+            <p className="text-sm text-amber-800">
+              <strong>💡 Tip:</strong> Embrace has a 6-month orthopedic wait vs 12 months at most competitors. Important for breeds prone to hip issues.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Pre-Existing */}
+      <section className="py-16 bg-gray-900 text-white">
+        <div className="container-narrow">
+          <div className="flex items-center gap-3 mb-6">
+            <span className="text-3xl">⚠️</span>
+            <h2 className="text-2xl font-bold">Pre-Existing Conditions</h2>
+          </div>
+          <p className="text-gray-300 text-lg mb-6">
+            Anything diagnosed or showing symptoms before coverage started is <strong className="text-white">never covered</strong>.
+          </p>
+          <div className="bg-gray-800 rounded-xl p-6">
+            <p className="text-gray-300">
+              <strong className="text-white">This is why insuring early matters.</strong> Wait until your dog limps? Hip dysplasia becomes pre-existing. Insure as a puppy? Conditions that develop later are covered.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* How to File */}
+      <section className="py-16">
+        <div className="container-narrow">
+          <h2 className="text-2xl font-bold text-gray-900 mb-8 text-center">How to File a Claim</h2>
+          
+          <div className="flex flex-col md:flex-row gap-4 justify-between">
+            <div className="flex-1 text-center p-6">
+              <div className="w-12 h-12 bg-brand-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-brand-700 font-bold">1</span>
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-1">Pay Vet</h3>
+              <p className="text-sm text-gray-500">You pay upfront</p>
+            </div>
+            <div className="hidden md:flex items-center text-gray-300">→</div>
+            <div className="flex-1 text-center p-6">
+              <div className="w-12 h-12 bg-brand-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-brand-700 font-bold">2</span>
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-1">Get Records</h3>
+              <p className="text-sm text-gray-500">Invoice + medical records</p>
+            </div>
+            <div className="hidden md:flex items-center text-gray-300">→</div>
+            <div className="flex-1 text-center p-6">
+              <div className="w-12 h-12 bg-brand-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-brand-700 font-bold">3</span>
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-1">Submit</h3>
+              <p className="text-sm text-gray-500">App or online portal</p>
+            </div>
+            <div className="hidden md:flex items-center text-gray-300">→</div>
+            <div className="flex-1 text-center p-6">
+              <div className="w-12 h-12 bg-brand-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-brand-700 font-bold">4</span>
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-1">Get Paid</h3>
+              <p className="text-sm text-gray-500">5-14 days typically</p>
+            </div>
+          </div>
+
+          <div className="mt-8 p-4 bg-forest-50 border border-forest-200 rounded-lg text-center">
+            <p className="text-sm text-forest-800">
+              <strong>💡 Pro tip:</strong> Trupanion can pay vets directly so you don't front the money. Ask if your vet supports this.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Choosing Right Policy */}
+      <section className="py-16 bg-gray-50">
+        <div className="container-narrow">
+          <h2 className="text-2xl font-bold text-gray-900 mb-8 text-center">Choose the Right Policy</h2>
+          
+          <div className="grid md:grid-cols-3 gap-6">
+            <div className="bg-white rounded-xl p-6 border-2 border-red-200">
+              <div className="text-center mb-4">
+                <span className="inline-block px-3 py-1 bg-red-100 text-red-700 text-xs font-semibold rounded-full">HIGH-RISK BREEDS</span>
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-4 text-center">Bulldogs, Cavaliers, Berners</h3>
+              <ul className="space-y-2 text-sm text-gray-600">
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> 90% reimbursement
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> Unlimited coverage
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> Short ortho wait
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> Hereditary covered
+                </li>
+              </ul>
+            </div>
+
+            <div className="bg-white rounded-xl p-6 border-2 border-forest-200">
+              <div className="text-center mb-4">
+                <span className="inline-block px-3 py-1 bg-forest-100 text-forest-700 text-xs font-semibold rounded-full">LOW-RISK BREEDS</span>
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-4 text-center">Healthy Mixed Breeds</h3>
+              <ul className="space-y-2 text-sm text-gray-600">
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> 80% reimbursement
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> $15k+ annual limit
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> Higher deductible OK
+                </li>
+              </ul>
+            </div>
+
+            <div className="bg-white rounded-xl p-6 border-2 border-gray-200">
+              <div className="text-center mb-4">
+                <span className="inline-block px-3 py-1 bg-gray-100 text-gray-700 text-xs font-semibold rounded-full">BUDGET-CONSCIOUS</span>
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-4 text-center">Save on Premiums</h3>
+              <ul className="space-y-2 text-sm text-gray-600">
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> Accident-only option
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> $500-1k deductible
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-forest-500">✓</span> Skip wellness add-ons
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Common Mistakes */}
+      <section className="py-16">
+        <div className="container-narrow">
+          <h2 className="text-2xl font-bold text-gray-900 mb-8 text-center">Common Mistakes to Avoid</h2>
+          
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            <div className="flex items-start gap-3 p-4 bg-red-50 rounded-lg">
+              <span className="text-red-500 font-bold">✗</span>
+              <div>
+                <div className="font-semibold text-gray-800 text-sm">Waiting too long</div>
+                <div className="text-xs text-gray-600">Every vet visit creates potential pre-existing conditions</div>
+              </div>
+            </div>
+            <div className="flex items-start gap-3 p-4 bg-red-50 rounded-lg">
+              <span className="text-red-500 font-bold">✗</span>
+              <div>
+                <div className="font-semibold text-gray-800 text-sm">Choosing cheapest policy</div>
+                <div className="text-xs text-gray-600">Low limits and exclusions leave you exposed</div>
+              </div>
+            </div>
+            <div className="flex items-start gap-3 p-4 bg-red-50 rounded-lg">
+              <span className="text-red-500 font-bold">✗</span>
+              <div>
+                <div className="font-semibold text-gray-800 text-sm">Not reading exclusions</div>
+                <div className="text-xs text-gray-600">Some exclude breed-specific conditions</div>
+              </div>
+            </div>
+            <div className="flex items-start gap-3 p-4 bg-red-50 rounded-lg">
+              <span className="text-red-500 font-bold">✗</span>
+              <div>
+                <div className="font-semibold text-gray-800 text-sm">Adding unnecessary wellness</div>
+                <div className="text-xs text-gray-600">Often costs more than it returns</div>
+              </div>
+            </div>
+            <div className="flex items-start gap-3 p-4 bg-red-50 rounded-lg">
+              <span className="text-red-500 font-bold">✗</span>
+              <div>
+                <div className="font-semibold text-gray-800 text-sm">Ignoring ortho waits</div>
+                <div className="text-xs text-gray-600">12 months is long if puppy develops issues at 8 months</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Summary */}
+      <section className="py-12 bg-gray-100">
+        <div className="container-narrow">
+          <h2 className="text-xl font-bold text-gray-900 mb-6 text-center">Quick Summary</h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-4 text-center text-sm">
+            <div className="bg-white rounded-lg p-4">
+              <div className="font-semibold text-gray-800">Pay → Claim → Reimburse</div>
+            </div>
+            <div className="bg-white rounded-lg p-4">
+              <div className="font-semibold text-gray-800">$250-500 deductible</div>
+            </div>
+            <div className="bg-white rounded-lg p-4">
+              <div className="font-semibold text-gray-800">80-90% reimbursement</div>
+            </div>
+            <div className="bg-white rounded-lg p-4">
+              <div className="font-semibold text-gray-800">$15k+ or unlimited</div>
+            </div>
+            <div className="bg-white rounded-lg p-4">
+              <div className="font-semibold text-gray-800">Insure early!</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* CTA */}
+      <section className="py-16">
+        <div className="container-narrow text-center">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">Find the Right Coverage for Your Breed</h2>
+          <p className="text-gray-600 mb-8">
+            Different breeds need different coverage. Get specific recommendations for your pet.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Link href="/breeds" className="btn-primary">
+              Find Your Breed →
+            </Link>
+            <Link href="/guides/is-pet-insurance-worth-it" className="btn-secondary">
+              Is Insurance Worth It?
+            </Link>
+          </div>
+        </div>
+      </section>
     </Layout>
   )
 }
