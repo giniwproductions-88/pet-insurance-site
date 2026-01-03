@@ -4,6 +4,20 @@ import Head from 'next/head'
 import fs from 'fs'
 import path from 'path'
 
+// Breeds that have support pages
+const breedsWithSupportPages = [
+  'french-bulldog',
+  'labrador-retriever',
+  'golden-retriever',
+  'german-shepherd',
+  'poodle',
+  'dachshund',
+  'rottweiler',
+  'beagle',
+  'english-bulldog',
+  'german-shorthaired-pointer',
+]
+
 export async function getStaticPaths() {
   const breedsDirectory = path.join(process.cwd(), 'content/breeds/dogs')
   const filenames = fs.readdirSync(breedsDirectory)
@@ -25,14 +39,19 @@ export async function getStaticProps({ params }) {
   const fileContents = fs.readFileSync(filePath, 'utf8')
   const breed = JSON.parse(fileContents)
   
+  // Check if this breed has support pages
+  const hasSupportPages = breedsWithSupportPages.includes(params.slug)
+  
   return {
     props: {
       breed,
+      slug: params.slug,
+      hasSupportPages,
     },
   }
 }
 
-export default function BreedPage({ breed }) {
+export default function BreedPage({ breed, slug, hasSupportPages }) {
   const currentYear = new Date().getFullYear()
   
   return (
@@ -102,6 +121,36 @@ export default function BreedPage({ breed }) {
           </div>
         </div>
       </section>
+
+      {/* Support Page Links - Only show for breeds with support pages */}
+      {hasSupportPages && (
+        <section className="py-8 bg-gray-50 border-b">
+          <div className="container-wide">
+            <div className="flex flex-wrap gap-4 justify-center">
+              <Link
+                href={`/guides/${slug}-health-issues`}
+                className="inline-flex items-center gap-2 px-5 py-3 bg-white border border-gray-200 rounded-lg hover:border-brand-300 hover:shadow-sm transition-all"
+              >
+                <span className="text-xl">🏥</span>
+                <span>
+                  <span className="block text-sm font-semibold text-gray-900">{breed.name} Health Issues</span>
+                  <span className="block text-xs text-gray-500">Common problems & vet costs</span>
+                </span>
+              </Link>
+              <Link
+                href={`/guides/${slug}-insurance-worth-it`}
+                className="inline-flex items-center gap-2 px-5 py-3 bg-white border border-gray-200 rounded-lg hover:border-brand-300 hover:shadow-sm transition-all"
+              >
+                <span className="text-xl">💰</span>
+                <span>
+                  <span className="block text-sm font-semibold text-gray-900">Is Insurance Worth It?</span>
+                  <span className="block text-xs text-gray-500">Cost breakdown & analysis</span>
+                </span>
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Why Insurance */}
       <section className="py-12">

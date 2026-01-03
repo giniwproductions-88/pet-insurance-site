@@ -90,7 +90,7 @@ export default function Home() {
             <p className="text-sm font-medium text-gray-500 mb-4">I have a...</p>
             <div className="grid grid-cols-2 gap-4">
               <Link
-                href="/breeds"
+                href="/popular-breeds"
                 className="flex flex-col items-center gap-3 p-6 bg-white rounded-xl border-2 border-gray-200 hover:border-brand-500 hover:shadow-md transition-all group"
               >
                 <svg className="w-16 h-16 text-gray-400 group-hover:text-brand-500 transition-colors" viewBox="0 0 64 64" fill="currentColor">
@@ -157,8 +157,8 @@ export default function Home() {
               <h2 className="mb-2">Popular Dog Breeds</h2>
               <p className="text-gray-600">Coverage guides for the most common dogs</p>
             </div>
-            <Link href="/breeds" className="text-brand-600 font-semibold hover:text-brand-700 hidden sm:block">
-              View all dogs →
+            <Link href="/popular-breeds" className="text-brand-600 font-semibold hover:text-brand-700 hidden sm:block">
+              View top 10 breeds →
             </Link>
           </div>
 
@@ -192,8 +192,8 @@ export default function Home() {
           </div>
 
           <div className="text-center mt-8 sm:hidden">
-            <Link href="/breeds" className="text-brand-600 font-semibold hover:text-brand-700">
-              View all dogs →
+            <Link href="/popular-breeds" className="text-brand-600 font-semibold hover:text-brand-700">
+              View top 10 breeds →
             </Link>
           </div>
         </div>
@@ -291,7 +291,7 @@ export default function Home() {
             Find the right coverage for your breed. Our guides break down exactly what you need—no fluff, no sales pitch.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/breeds" className="btn-primary">
+            <Link href="/popular-breeds" className="btn-primary">
               Find Dog Breeds →
             </Link>
             <Link href="/cats" className="btn-secondary bg-transparent border-white text-white hover:bg-white hover:text-gray-900">
