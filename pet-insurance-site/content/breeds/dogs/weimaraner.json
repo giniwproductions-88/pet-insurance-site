@@ -1,0 +1,81 @@
+{
+  "name": "Weimaraner",
+  "slug": "weimaraner",
+  "species": "dog",
+  "metaDescription": "Weimaraners face bloat, hip dysplasia, and skin conditions. Compare the best pet insurance for Weimaraners.",
+  "intro": "Weimaraners are athletic, energetic hunting dogs with distinctive gray coats. They're prone to bloat, hip dysplasia, and skin issues. Their high activity level also means more injury risk. Insurance helps cover both hereditary conditions and accidents.",
+  "whyInsurance": "Weimaraners face bloat (life-threatening emergency), hip dysplasia, and various skin conditions. Their active lifestyle leads to injuries. Insurance protects against major expenses.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for active dogs" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Bloat (GDV)", "description": "Stomach twist emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Mast Cell Tumors", "description": "Skin cancer", "cost": "$1,000 - $6,000" },
+    { "name": "Entropion", "description": "Eyelids rolling inward", "cost": "$1,000 - $2,500" },
+    { "name": "Hypothyroidism", "description": "Underactive thyroid", "cost": "$200 - $600/year" },
+    { "name": "Hypertrophic Osteodystrophy", "description": "Bone growth disorder", "cost": "$500 - $2,000" }
+  ],
+  "mustHave": [
+    "Bloat coverage — Deep-chested breed at high risk",
+    "Orthopedic coverage — Hip dysplasia common",
+    "Cancer coverage — Mast cell tumors occur",
+    "Accident coverage — Active breed gets injured"
+  ],
+  "redFlags": [
+    "Bloat exclusions",
+    "Cancer exclusions",
+    "Long orthopedic waits",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Weimaraner's bloat surgery, cancer treatment, or injury is fully covered.",
+      "cost": "$42-68/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "Strong accident coverage"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Active Dogs",
+      "description": "Embrace offers strong accident coverage plus chronic condition support for active Weimaraners.",
+      "cost": "$38-62/mo",
+      "pros": ["Good accident coverage", "6-month orthopedic wait", "Covers hereditary conditions", "Prescription coverage"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Weimaraner owners.",
+      "cost": "$35-58/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Weimaraners have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$32 - $52/month" },
+    { "age": "Adult (1-8 years)", "range": "$40 - $70/month" },
+    { "age": "Senior (9+ years)", "range": "$65 - $110+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Weimaraner?", "answer": "Yes. Weimaraners are at high risk for bloat and prone to hip dysplasia and skin cancer. Their active nature increases injury risk too." },
+    { "question": "Are Weimaraners prone to bloat?", "answer": "Yes—their deep chest puts them at high risk. Preventive gastropexy is often recommended. Emergency bloat surgery costs $3,000-7,500." },
+    { "question": "Do Weimaraners get skin cancer?", "answer": "Mast cell tumors are relatively common. Early detection and treatment improve outcomes. Insurance helps cover surgery and treatment." },
+    { "question": "Are Weimaraners injury-prone?", "answer": "Their high energy and athleticism can lead to injuries during hunting, running, or play. Good accident coverage is valuable." },
+    { "question": "How long do Weimaraners live?", "answer": "10-13 years typically. Preventing bloat and maintaining healthy weight helps maximize lifespan." }
+  ],
+  "finalCta": "Protect your athletic Weimaraner from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Vizsla", "slug": "vizsla" },
+    { "name": "German Shorthaired Pointer", "slug": "german-shorthaired-pointer" },
+    { "name": "Rhodesian Ridgeback", "slug": "rhodesian-ridgeback" }
+  ]
+}

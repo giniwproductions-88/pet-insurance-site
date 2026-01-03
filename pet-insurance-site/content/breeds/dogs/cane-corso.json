@@ -1,0 +1,81 @@
+{
+  "name": "Cane Corso",
+  "slug": "cane-corso",
+  "species": "dog",
+  "metaDescription": "Cane Corsos face hip dysplasia, bloat, and cherry eye. Compare the best pet insurance for Cane Corsos—coverage for large breed health issues.",
+  "intro": "Cane Corsos are powerful, protective Italian mastiffs. Their large size brings health challenges including hip dysplasia, bloat, and eye problems. Insurance is essential for managing giant breed care costs.",
+  "whyInsurance": "Cane Corsos face hip dysplasia, bloat, cherry eye, and heart conditions. Large breed treatment costs more. Insurance protects against major expenses.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for joint conditions" },
+    { "name": "Spot", "highlight": "Best for large breeds" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twist emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Cherry Eye", "description": "Third eyelid prolapse", "cost": "$500 - $1,500" },
+    { "name": "Entropion", "description": "Eyelids rolling inward", "cost": "$1,000 - $2,500" },
+    { "name": "Dilated Cardiomyopathy", "description": "Heart muscle disease", "cost": "$500 - $2,000/year" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint issues", "cost": "$2,000 - $4,000" }
+  ],
+  "mustHave": [
+    "Orthopedic coverage — Hip and elbow dysplasia common",
+    "Bloat coverage — Deep-chested breed at risk",
+    "Eye condition coverage — Cherry eye and entropion occur",
+    "High annual limits — Large breed care costs more"
+  ],
+  "redFlags": [
+    "Low annual limits",
+    "Bloat exclusions",
+    "Eye condition exclusions",
+    "Long orthopedic waits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Corso's hip surgery, bloat emergency, or eye surgery is fully covered.",
+      "cost": "$50-85/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Joint Conditions",
+      "description": "Embrace's 6-month orthopedic wait is valuable for dysplasia-prone Cane Corsos.",
+      "cost": "$45-75/mo",
+      "pros": ["6-month orthopedic wait", "Covers hereditary conditions", "Good prescription coverage", "Eye conditions covered"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Spot",
+      "tagline": "Best for Large Breeds",
+      "description": "Spot offers competitive rates for large breeds without sacrificing coverage.",
+      "cost": "$42-70/mo",
+      "pros": ["Reasonable large breed rates", "Covers hereditary conditions", "No upper age limit", "Customizable"],
+      "cons": ["14-day illness wait", "Some state variations"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Cane Corsos have higher insurance costs due to size. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$40 - $65/month" },
+    { "age": "Adult (1-7 years)", "range": "$48 - $88/month" },
+    { "age": "Senior (8+ years)", "range": "$78 - $130+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Cane Corso?", "answer": "Yes. Cane Corsos face hip dysplasia, bloat, and eye problems. Large breed treatment is expensive. Insurance is highly recommended." },
+    { "question": "Do Cane Corsos have health problems?", "answer": "They're prone to hip/elbow dysplasia, bloat, and eye issues like cherry eye. Responsible breeding and screening help reduce risk." },
+    { "question": "Why do Cane Corsos get cherry eye?", "answer": "The third eyelid gland prolapses, appearing as a red bulge. It's common in the breed and usually requires surgical correction." },
+    { "question": "How long do Cane Corsos live?", "answer": "9-12 years typically. Keeping them at healthy weight and managing joint health helps maximize lifespan." },
+    { "question": "Are Cane Corsos expensive to insure?", "answer": "Higher than average due to size and health risks. Expect $48-88/month for good coverage. Worth it given potential costs." }
+  ],
+  "finalCta": "Protect your powerful Cane Corso from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Mastiff", "slug": "mastiff" },
+    { "name": "Rottweiler", "slug": "rottweiler" },
+    { "name": "Bullmastiff", "slug": "bullmastiff" }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Boston Terrier",
+  "slug": "boston-terrier",
+  "species": "dog",
+  "metaDescription": "Boston Terriers face eye problems, breathing issues, and spinal problems. Compare the best pet insurance for Boston Terriers.",
+  "intro": "Boston Terriers are friendly, compact companions with distinctive tuxedo markings. Their flat faces and prominent eyes bring health challenges including eye injuries, breathing difficulties, and spinal issues. Insurance helps manage these brachycephalic breed conditions.",
+  "whyInsurance": "Bostons face eye injuries (cherry eye, ulcers), BOAS (breathing problems), and spinal issues. Their eye prominence makes injuries common. Insurance covers both emergencies and chronic conditions.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for eye conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Lemonade", "highlight": "Best budget option" }
+  ],
+  "healthIssues": [
+    { "name": "Cherry Eye", "description": "Third eyelid prolapse", "cost": "$500 - $1,500" },
+    { "name": "Corneal Ulcers", "description": "Eye surface injury", "cost": "$500 - $2,000" },
+    { "name": "Brachycephalic Airway Syndrome", "description": "Breathing difficulties", "cost": "$500 - $3,500" },
+    { "name": "Patellar Luxation", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Hemivertebrae", "description": "Spinal malformation", "cost": "$2,000 - $6,000" },
+    { "name": "Cataracts", "description": "Eye lens clouding", "cost": "$2,500 - $5,000" }
+  ],
+  "mustHave": [
+    "Eye condition coverage — Multiple eye problems common",
+    "Respiratory coverage — BOAS affects many Bostons",
+    "Orthopedic coverage — Knee and spine issues",
+    "Accident coverage — Eye injuries happen frequently"
+  ],
+  "redFlags": [
+    "Eye condition exclusions",
+    "Brachycephalic exclusions",
+    "Spinal exclusions",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Eye Conditions",
+      "description": "Embrace covers eye conditions well—crucial for Boston Terriers with their prominent, vulnerable eyes.",
+      "cost": "$35-55/mo",
+      "pros": ["Good eye coverage", "Covers hereditary conditions", "6-month orthopedic wait", "Prescription coverage"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Boston's eye surgeries, breathing treatment, or spine issues are fully covered.",
+      "cost": "$38-60/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month orthopedic wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Affordable coverage for Boston owners who want protection without high premiums.",
+      "cost": "$25-42/mo",
+      "pros": ["Affordable", "Fast claims", "Covers hereditary conditions", "Easy app"],
+      "cons": ["Newer company", "Add-ons increase cost"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Boston Terriers have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$28 - $45/month" },
+    { "age": "Adult (1-8 years)", "range": "$35 - $62/month" },
+    { "age": "Senior (9+ years)", "range": "$55 - $95+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Boston Terrier?", "answer": "Yes. Bostons commonly face eye injuries, breathing issues, and spinal problems. Their prominent eyes are especially vulnerable. Insurance helps manage frequent eye-related costs." },
+    { "question": "Why do Boston Terriers have eye problems?", "answer": "Their large, prominent eyes are easily injured and prone to dryness, ulcers, and cherry eye. Many Bostons need eye treatment at some point in their lives." },
+    { "question": "Do Boston Terriers have breathing problems?", "answer": "Many do. Their flat faces can cause breathing difficulties, especially in heat or during exercise. Some need surgery to improve airflow." },
+    { "question": "What are hemivertebrae?", "answer": "Malformed spinal bones that can cause pain or paralysis. Common in screw-tailed breeds. Severe cases may need surgery." },
+    { "question": "How long do Boston Terriers live?", "answer": "11-13 years typically. Avoiding overheating and managing eye health helps maximize lifespan." }
+  ],
+  "finalCta": "Protect your Boston Terrier from eye injuries and health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "French Bulldog", "slug": "french-bulldog" },
+    { "name": "Pug", "slug": "pug" },
+    { "name": "English Bulldog", "slug": "english-bulldog" }
+  ]
+}

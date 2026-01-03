@@ -1,0 +1,120 @@
+{
+  "name": "Border Collie",
+  "slug": "border-collie",
+  "species": "dog",
+  "metaDescription": "Border Collies face hip dysplasia, epilepsy, and eye conditions. Compare the best pet insurance for Border Collies—coverage for active herding breeds.",
+  "intro": "Border Collies are incredibly intelligent, high-energy herding dogs. While generally healthy, they're prone to hip dysplasia, epilepsy, and hereditary eye conditions. Their active lifestyle also means more injury risk. Insurance helps cover both genetic conditions and accidents.",
+  "whyInsurance": "Border Collies face hip dysplasia, epilepsy (lifelong medication), and multiple eye conditions including Collie Eye Anomaly. Their intense activity level leads to sports injuries. Insurance protects against both hereditary conditions and accidents.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Epilepsy", "description": "Seizure disorder", "cost": "$200 - $500/year ongoing" },
+    { "name": "Collie Eye Anomaly", "description": "Hereditary eye defect", "cost": "$500 - $2,000" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Trapped Neutrophil Syndrome", "description": "Immune system disorder", "cost": "$1,000 - $3,000" },
+    { "name": "Osteochondritis Dissecans", "description": "Cartilage/bone disorder", "cost": "$2,000 - $4,000" }
+  ],
+  "mustHave": [
+    "Epilepsy/chronic condition coverage — Seizures need lifelong management",
+    "Eye condition coverage — Multiple hereditary eye issues",
+    "Orthopedic coverage — Hip dysplasia and OCD occur",
+    "Accident coverage — Active breed with higher injury risk"
+  ],
+  "redFlags": [
+    "Epilepsy exclusions",
+    "Eye condition exclusions",
+    "Long orthopedic waiting periods",
+    "Low prescription coverage"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace excels at covering ongoing conditions like epilepsy. Their strong prescription coverage is valuable for Border Collies needing long-term seizure medication.",
+      "cost": "$38-60/mo",
+      "pros": [
+        "Excellent epilepsy coverage",
+        "Strong prescription coverage",
+        "6-month orthopedic wait",
+        "Covers hereditary conditions"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Border Collie's hip surgery, ongoing epilepsy treatment, or eye care is fully covered. Great for an active breed.",
+      "cost": "$40-62/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "Strong accident coverage"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip dysplasia wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Solid coverage at competitive prices for Border Collie owners. Covers hereditary conditions while keeping premiums reasonable.",
+      "cost": "$32-52/mo",
+      "pros": [
+        "Competitive pricing",
+        "Covers hereditary conditions",
+        "Multiple plan options",
+        "Good accident coverage"
+      ],
+      "cons": [
+        "Some claim delays reported",
+        "Customer service varies"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Border Collies have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$30 - $48/month" },
+    { "age": "Adult (1-7 years)", "range": "$38 - $65/month" },
+    { "age": "Senior (8+ years)", "range": "$60 - $100+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Border Collie?",
+      "answer": "Yes. Border Collies are prone to epilepsy, hip dysplasia, and eye conditions. Their high activity level also increases injury risk. Insurance helps manage both hereditary conditions and accidents."
+    },
+    {
+      "question": "Do Border Collies have epilepsy?",
+      "answer": "Epilepsy is more common in Border Collies than many breeds. It typically appears between 1-5 years of age and requires lifelong medication. Insurance helps cover ongoing prescription costs."
+    },
+    {
+      "question": "What is Collie Eye Anomaly?",
+      "answer": "CEA is a hereditary eye condition affecting the retina and surrounding structures. Severity varies from mild (no vision impact) to severe (blindness). Genetic testing can identify carriers."
+    },
+    {
+      "question": "Are Border Collies injury-prone?",
+      "answer": "Their intense drive and athleticism can lead to injuries—torn ligaments, sprains, and fractures from agility, frisbee, or herding work. Good accident coverage is valuable."
+    },
+    {
+      "question": "Should I get my Border Collie genetically tested?",
+      "answer": "Yes. Tests exist for CEA, TNS, and other conditions. Reputable breeders test their dogs. Even if you adopt, testing helps you know what to watch for."
+    }
+  ],
+  "finalCta": "Protect your energetic Border Collie from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Australian Shepherd", "slug": "australian-shepherd" },
+    { "name": "Shetland Sheepdog", "slug": "shetland-sheepdog" },
+    { "name": "Collie", "slug": "collie" }
+  ]
+}

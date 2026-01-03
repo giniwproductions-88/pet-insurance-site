@@ -1,0 +1,81 @@
+{
+  "name": "Havanese",
+  "slug": "havanese",
+  "species": "dog",
+  "metaDescription": "Havanese face luxating patella, eye problems, and deafness. Compare the best pet insurance for Havanese dogs.",
+  "intro": "Havanese are cheerful, affectionate toy dogs with silky coats. They're prone to luxating patella, eye conditions, and congenital deafness. Insurance helps manage these hereditary health concerns.",
+  "whyInsurance": "Havanese face knee problems, cataracts, and heart murmurs. Their small size makes them fragile. Insurance covers both genetic conditions and accidents.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for hereditary conditions" },
+    { "name": "Lemonade", "highlight": "Best budget option" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" }
+  ],
+  "healthIssues": [
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Cataracts", "description": "Eye lens clouding", "cost": "$2,500 - $5,000" },
+    { "name": "Heart Murmurs", "description": "Abnormal heart sounds", "cost": "$500 - $2,000/year" },
+    { "name": "Congenital Deafness", "description": "Hereditary hearing loss", "cost": "$300 - $500 (testing)" },
+    { "name": "Chondrodysplasia", "description": "Skeletal abnormality", "cost": "$500 - $3,000" },
+    { "name": "Legg-Calve-Perthes", "description": "Hip joint deterioration", "cost": "$1,500 - $3,000" }
+  ],
+  "mustHave": [
+    "Orthopedic coverage — Knee and hip problems common",
+    "Eye condition coverage — Cataracts are hereditary",
+    "Cardiac coverage — Heart murmurs occur",
+    "Hereditary condition coverage — Multiple genetic issues"
+  ],
+  "redFlags": [
+    "Luxating patella exclusions",
+    "Eye condition exclusions",
+    "Hereditary exclusions",
+    "Toy breed restrictions"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Hereditary Conditions",
+      "description": "Embrace offers comprehensive hereditary coverage for Havanese with multiple genetic health concerns.",
+      "cost": "$26-45/mo",
+      "pros": ["Excellent hereditary coverage", "Good eye coverage", "6-month orthopedic wait", "Prescription coverage"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Affordable coverage for Havanese owners who want solid protection at low cost.",
+      "cost": "$18-35/mo",
+      "pros": ["Very affordable", "Fast claims", "Covers hereditary conditions", "Easy app"],
+      "cons": ["Newer company", "Add-ons increase cost"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Havanese's knee surgery, eye treatment, or any condition is fully covered.",
+      "cost": "$28-48/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month orthopedic wait"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Havanese have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$20 - $35/month" },
+    { "age": "Adult (1-9 years)", "range": "$26 - $48/month" },
+    { "age": "Senior (10+ years)", "range": "$45 - $80+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Havanese?", "answer": "Yes. Havanese face knee problems, cataracts, and heart conditions. Insurance helps manage these hereditary concerns." },
+    { "question": "Are Havanese healthy dogs?", "answer": "Generally healthier than many toy breeds, but still prone to knee, eye, and heart issues. Their 14-16 year lifespan makes insurance a good long-term investment." },
+    { "question": "Do Havanese have knee problems?", "answer": "Luxating patella is common. The kneecap slides out of place, sometimes requiring surgery. Watch for limping or skipping gait." },
+    { "question": "Are Havanese hypoallergenic?", "answer": "They're considered hypoallergenic due to low shedding, but the dogs themselves may have allergies. No dog is truly hypoallergenic." },
+    { "question": "How long do Havanese live?", "answer": "14-16 years typically—longer than most breeds. Their longevity makes managing chronic conditions important." }
+  ],
+  "finalCta": "Protect your cheerful Havanese from hereditary health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Bichon Frise", "slug": "bichon-frise" },
+    { "name": "Maltese", "slug": "maltese" },
+    { "name": "Coton de Tulear", "slug": "coton-de-tulear" }
+  ]
+}

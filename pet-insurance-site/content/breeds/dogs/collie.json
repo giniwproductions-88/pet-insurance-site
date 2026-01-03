@@ -1,0 +1,81 @@
+{
+  "name": "Collie",
+  "slug": "collie",
+  "species": "dog",
+  "metaDescription": "Collies face Collie Eye Anomaly, MDR1 drug sensitivity, and skin conditions. Compare the best pet insurance for Collies.",
+  "intro": "Collies are elegant, intelligent herding dogs famous from Lassie. They face hereditary eye conditions, drug sensitivities, and skin problems. Knowing about MDR1 sensitivity is critical—certain common drugs can be fatal. Insurance helps manage their genetic health concerns.",
+  "whyInsurance": "Collies face Collie Eye Anomaly, dermatomyositis (skin/muscle disease), and the MDR1 mutation that makes common drugs dangerous. Insurance covers testing and treatment for these hereditary conditions.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for hereditary conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Collie Eye Anomaly", "description": "Hereditary eye defect", "cost": "$500 - $2,000" },
+    { "name": "MDR1 Drug Sensitivity", "description": "Dangerous drug reactions", "cost": "$50 - $200 (testing)" },
+    { "name": "Dermatomyositis", "description": "Skin and muscle disease", "cost": "$500 - $2,000/year" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twist emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" }
+  ],
+  "mustHave": [
+    "Hereditary condition coverage — Multiple genetic issues",
+    "Eye condition coverage — CEA and PRA",
+    "Chronic condition coverage — Dermatomyositis ongoing",
+    "Bloat coverage — Deep-chested breed"
+  ],
+  "redFlags": [
+    "Eye condition exclusions",
+    "Hereditary exclusions",
+    "Skin condition exclusions",
+    "Long waiting periods"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Hereditary Conditions",
+      "description": "Embrace offers comprehensive hereditary coverage important for Collies with multiple genetic health concerns.",
+      "cost": "$35-55/mo",
+      "pros": ["Excellent hereditary coverage", "Good eye coverage", "Covers dermatomyositis", "6-month orthopedic wait"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Collie's eye treatment, skin conditions, or any issue is fully covered.",
+      "cost": "$38-60/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Collie owners.",
+      "cost": "$32-52/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Collies have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$28 - $45/month" },
+    { "age": "Adult (1-9 years)", "range": "$35 - $62/month" },
+    { "age": "Senior (10+ years)", "range": "$55 - $95+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Collie?", "answer": "Yes. Collies have multiple hereditary conditions including eye disease, drug sensitivity, and skin problems. Insurance helps manage these genetic health concerns." },
+    { "question": "What is MDR1 drug sensitivity?", "answer": "A genetic mutation making certain drugs (ivermectin, loperamide, others) potentially fatal. Get your Collie tested and inform every vet. This is critical safety information." },
+    { "question": "What is Collie Eye Anomaly?", "answer": "A hereditary defect affecting eye development. Severity ranges from mild to severe vision loss. All Collies should be screened, and breeders should test." },
+    { "question": "What is dermatomyositis?", "answer": "A hereditary skin and muscle disease causing lesions and muscle wasting. It requires ongoing management. Collies and Shelties are predisposed." },
+    { "question": "How long do Collies live?", "answer": "12-14 years typically. Avoiding MDR1-dangerous drugs and managing health conditions helps maximize lifespan." }
+  ],
+  "finalCta": "Protect your elegant Collie from hereditary health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Shetland Sheepdog", "slug": "shetland-sheepdog" },
+    { "name": "Border Collie", "slug": "border-collie" },
+    { "name": "Australian Shepherd", "slug": "australian-shepherd" }
+  ]
+}

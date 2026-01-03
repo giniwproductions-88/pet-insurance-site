@@ -1,0 +1,120 @@
+{
+  "name": "Pomeranian",
+  "slug": "pomeranian",
+  "species": "dog",
+  "metaDescription": "Pomeranians face collapsed trachea, luxating patella, and dental disease. Compare the best pet insurance for Poms—coverage for toy breed health issues.",
+  "intro": "Pomeranians are bold, fluffy toy dogs with big personalities. Their small size brings health challenges including collapsed trachea, luxating patella, and dental disease. Insurance helps manage these common toy breed conditions.",
+  "whyInsurance": "Poms face collapsed trachea (can require surgery), knee problems, severe dental disease, and hair loss disorders. Their tiny size makes them injury-prone. Insurance covers both chronic conditions and accidents.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions" },
+    { "name": "Lemonade", "highlight": "Best budget option" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" }
+  ],
+  "healthIssues": [
+    { "name": "Collapsed Trachea", "description": "Windpipe weakness", "cost": "$500 - $5,000" },
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Dental Disease", "description": "Periodontal problems", "cost": "$500 - $2,500" },
+    { "name": "Alopecia X", "description": "Hair loss disorder", "cost": "$300 - $1,500" },
+    { "name": "Hypoglycemia", "description": "Low blood sugar", "cost": "$200 - $1,000" },
+    { "name": "Patent Ductus Arteriosus", "description": "Heart defect", "cost": "$2,500 - $5,000" }
+  ],
+  "mustHave": [
+    "Tracheal condition coverage — Collapsed trachea is common",
+    "Orthopedic coverage — Luxating patella is prevalent",
+    "Dental coverage — Severe dental issues",
+    "Accident coverage — Fragile breed"
+  ],
+  "redFlags": [
+    "Tracheal exclusions",
+    "Dental disease exclusions",
+    "Luxating patella exclusions",
+    "Toy breed restrictions"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace covers tracheal issues, dental disease, and chronic conditions well. Strong choice for Pomeranians with their multiple health concerns.",
+      "cost": "$28-48/mo",
+      "pros": [
+        "Good tracheal coverage",
+        "Dental illness covered",
+        "Covers hereditary conditions",
+        "Prescription coverage"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Affordable coverage for Pom owners. Good hereditary coverage at competitive prices.",
+      "cost": "$20-38/mo",
+      "pros": [
+        "Very affordable",
+        "Fast claims",
+        "Covers hereditary conditions",
+        "Easy app"
+      ],
+      "cons": [
+        "Dental requires add-on",
+        "Newer company"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Pom's trachea surgery, knee surgery, or any condition is fully covered.",
+      "cost": "$30-50/mo",
+      "pros": [
+        "No annual limits",
+        "Covers hereditary conditions",
+        "Fast claims",
+        "No per-condition caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "Limited dental"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Pomeranians have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$22 - $38/month" },
+    { "age": "Adult (1-9 years)", "range": "$28 - $52/month" },
+    { "age": "Senior (10+ years)", "range": "$48 - $85+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Pomeranian?",
+      "answer": "Yes. Poms commonly face collapsed trachea, knee problems, and dental disease. Their small size also means injury risk. Insurance helps manage these predictable expenses."
+    },
+    {
+      "question": "What is collapsed trachea?",
+      "answer": "The cartilage rings supporting the windpipe weaken and collapse, causing a honking cough. Common in toy breeds. Treatment ranges from medication to surgery costing $3,000-5,000."
+    },
+    {
+      "question": "What is Alopecia X?",
+      "answer": "A hair loss disorder common in Pomeranians causing bald patches. Also called 'black skin disease.' It's cosmetic but can indicate hormonal issues. Treatment varies in effectiveness."
+    },
+    {
+      "question": "Why do Pomeranians have dental problems?",
+      "answer": "Tiny mouths mean crowded teeth. Most Poms need regular dental cleanings and many require extractions. Good dental coverage is valuable."
+    },
+    {
+      "question": "Are Pomeranians fragile?",
+      "answer": "Yes—small bones break easily from falls or rough play. They're also prone to hypoglycemia. Careful handling and good accident coverage are important."
+    }
+  ],
+  "finalCta": "Protect your fluffy Pomeranian from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Yorkshire Terrier", "slug": "yorkshire-terrier" },
+    { "name": "Chihuahua", "slug": "chihuahua" },
+    { "name": "Maltese", "slug": "maltese" }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Australian Cattle Dog",
+  "slug": "australian-cattle-dog",
+  "species": "dog",
+  "metaDescription": "Australian Cattle Dogs face deafness, hip dysplasia, and eye issues. Compare the best pet insurance for Blue Heelers—coverage for herding breed conditions.",
+  "intro": "Australian Cattle Dogs (Blue Heelers) are tough, intelligent working dogs bred for herding cattle. They're generally healthy but prone to hereditary deafness, hip dysplasia, and progressive blindness. Their high energy means more injury risk too.",
+  "whyInsurance": "ACDs face hereditary deafness, hip dysplasia, and progressive retinal atrophy. Their intense work drive leads to injuries. Insurance covers both genetic conditions and the accidents active Heelers get into.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for hereditary conditions" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Hereditary Deafness", "description": "Congenital hearing loss", "cost": "$300 - $1,000 (testing)" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint malformation", "cost": "$2,000 - $4,000" },
+    { "name": "Osteochondritis Dissecans", "description": "Cartilage/bone disorder", "cost": "$2,000 - $4,000" },
+    { "name": "Lens Luxation", "description": "Eye lens displacement", "cost": "$1,500 - $3,000" }
+  ],
+  "mustHave": [
+    "Orthopedic coverage — Hip and elbow dysplasia occur",
+    "Eye condition coverage — PRA and lens luxation are hereditary",
+    "Accident coverage — Active breed with higher injury risk",
+    "Hereditary condition coverage — Multiple genetic issues"
+  ],
+  "redFlags": [
+    "Eye condition exclusions",
+    "Long orthopedic waiting periods",
+    "Hereditary condition exclusions",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Heeler's hip surgery, eye treatment, or injury is fully covered. Great for an active working breed.",
+      "cost": "$38-60/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "Strong accident coverage"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip dysplasia wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Hereditary Conditions",
+      "description": "Embrace offers comprehensive hereditary coverage including eye conditions. Good choice for a breed with multiple genetic health risks.",
+      "cost": "$35-55/mo",
+      "pros": [
+        "Excellent hereditary coverage",
+        "6-month orthopedic wait",
+        "Good prescription coverage",
+        "Eye condition coverage"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Solid coverage at competitive prices for Australian Cattle Dog owners. Good balance of coverage and affordability.",
+      "cost": "$32-52/mo",
+      "pros": [
+        "Competitive pricing",
+        "Covers hereditary conditions",
+        "Multiple plan options",
+        "Good accident coverage"
+      ],
+      "cons": [
+        "Some claim delays reported",
+        "Customer service varies"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Australian Cattle Dogs have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$28 - $45/month" },
+    { "age": "Adult (1-8 years)", "range": "$35 - $60/month" },
+    { "age": "Senior (9+ years)", "range": "$55 - $95+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for an Australian Cattle Dog?",
+      "answer": "Yes. ACDs are prone to hip dysplasia, hereditary eye conditions, and deafness. Their active nature also increases injury risk. Insurance helps cover both genetic conditions and accidents."
+    },
+    {
+      "question": "Are Australian Cattle Dogs prone to deafness?",
+      "answer": "Yes—hereditary deafness linked to their coat color genetics affects some ACDs. BAER testing can identify deaf or partially deaf puppies. It doesn't require treatment but affects training approach."
+    },
+    {
+      "question": "What eye problems do Heelers get?",
+      "answer": "Progressive Retinal Atrophy (causes gradual blindness) and lens luxation (eye emergency) both occur in the breed. Regular eye exams and genetic testing help identify at-risk dogs."
+    },
+    {
+      "question": "Do Australian Cattle Dogs get injured often?",
+      "answer": "Their intense drive and fearlessness can lead to injuries during work or play. They'll push through pain, so owners may not notice problems immediately. Good accident coverage is valuable."
+    },
+    {
+      "question": "How long do Australian Cattle Dogs live?",
+      "answer": "12-16 years typically—one of the longer-lived breeds. The famous Bluey lived to 29! Their longevity makes insurance a good long-term investment."
+    }
+  ],
+  "finalCta": "Protect your hard-working Heeler from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Australian Shepherd", "slug": "australian-shepherd" },
+    { "name": "Border Collie", "slug": "border-collie" },
+    { "name": "Blue Lacy", "slug": "blue-lacy" }
+  ]
+}

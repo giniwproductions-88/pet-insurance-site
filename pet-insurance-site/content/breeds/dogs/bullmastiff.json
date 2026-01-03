@@ -1,0 +1,81 @@
+{
+  "name": "Bullmastiff",
+  "slug": "bullmastiff",
+  "species": "dog",
+  "metaDescription": "Bullmastiffs face hip dysplasia, bloat, and cancer. Compare the best pet insurance for Bullmastiffs—coverage for giant breed health issues.",
+  "intro": "Bullmastiffs are powerful, loyal guardians with calm temperaments. Their large size brings significant health challenges including hip dysplasia, bloat, and cancer. Insurance is essential for managing giant breed care costs.",
+  "whyInsurance": "Bullmastiffs face hip/elbow dysplasia, bloat, lymphoma, and heart disease. Giant breed treatment is expensive. A single bloat surgery or cancer treatment can cost $7,000+. Insurance is critical.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for joint conditions" },
+    { "name": "Spot", "highlight": "Best for giant breeds" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twist emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Lymphoma", "description": "Blood cancer", "cost": "$5,000 - $15,000+" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint issues", "cost": "$2,000 - $4,000" },
+    { "name": "Entropion", "description": "Eyelids rolling inward", "cost": "$1,000 - $2,500" },
+    { "name": "Hypothyroidism", "description": "Underactive thyroid", "cost": "$200 - $600/year" }
+  ],
+  "mustHave": [
+    "Bloat coverage — Deep-chested breed at high risk",
+    "Cancer coverage — Lymphoma is common",
+    "Orthopedic coverage — Hip and elbow dysplasia",
+    "Unlimited or high limits — Giant breed costs"
+  ],
+  "redFlags": [
+    "Bloat exclusions",
+    "Cancer exclusions or caps",
+    "Low annual limits",
+    "Long orthopedic waits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps are essential for Bullmastiffs. Hip surgery, bloat emergency, cancer treatment—all fully covered without limits.",
+      "cost": "$55-95/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "No cancer caps", "Fast claims"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Joint Conditions",
+      "description": "Embrace's 6-month orthopedic wait is valuable for dysplasia-prone Bullmastiffs. Strong coverage overall.",
+      "cost": "$50-85/mo",
+      "pros": ["6-month orthopedic wait", "Covers hereditary conditions", "Good prescription coverage", "Eye conditions covered"],
+      "cons": ["Annual limits apply", "Higher premiums"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Spot",
+      "tagline": "Best for Giant Breeds",
+      "description": "Spot offers competitive rates for giant breeds while maintaining comprehensive coverage.",
+      "cost": "$48-80/mo",
+      "pros": ["Competitive giant breed rates", "Covers hereditary conditions", "No upper age limit", "Customizable"],
+      "cons": ["14-day illness wait", "Some state variations"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Bullmastiffs have higher insurance costs due to size and health risks. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$45 - $75/month" },
+    { "age": "Adult (1-6 years)", "range": "$55 - $98/month" },
+    { "age": "Senior (7+ years)", "range": "$88 - $145+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Bullmastiff?", "answer": "Absolutely essential. Bullmastiffs face bloat, cancer, and joint problems. Giant breed treatment is expensive. Insurance is non-negotiable." },
+    { "question": "Are Bullmastiffs prone to cancer?", "answer": "Yes—lymphoma and other cancers occur at higher rates. Treatment can cost $10,000+. Unlimited coverage is valuable." },
+    { "question": "Do Bullmastiffs get bloat?", "answer": "Yes—their deep chest puts them at high risk. Know the symptoms, have an emergency plan, and consider preventive gastropexy." },
+    { "question": "How long do Bullmastiffs live?", "answer": "7-9 years typically—shorter than smaller breeds. Maximizing quality of life during those years is important." },
+    { "question": "Why is Bullmastiff insurance expensive?", "answer": "Giant breeds cost more to treat, and Bullmastiffs have significant health risks. Premiums reflect the reality of their care costs." }
+  ],
+  "finalCta": "Protect your powerful Bullmastiff from serious health risks. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Mastiff", "slug": "mastiff" },
+    { "name": "Cane Corso", "slug": "cane-corso" },
+    { "name": "Rottweiler", "slug": "rottweiler" }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Newfoundland",
+  "slug": "newfoundland",
+  "species": "dog",
+  "metaDescription": "Newfoundlands face heart disease, hip dysplasia, and bloat. Compare the best pet insurance for Newfies—coverage for giant breed conditions & more.",
+  "intro": "Newfoundlands are sweet, patient giants famous for their water rescue abilities and gentle nature. Their massive size brings serious health concerns including heart disease, hip dysplasia, and bloat. Insurance is essential for managing the high cost of giant breed care.",
+  "whyInsurance": "Newfies face subaortic stenosis (heart defect), hip and elbow dysplasia, and bloat. Their size means everything costs more—anesthesia, medications, surgery. A single cardiac diagnosis can mean thousands in ongoing care.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for heart conditions" },
+    { "name": "Spot", "highlight": "Best for giant breeds" }
+  ],
+  "healthIssues": [
+    { "name": "Subaortic Stenosis (SAS)", "description": "Heart defect causing obstruction", "cost": "$500 - $2,500/year ongoing" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint malformation", "cost": "$2,000 - $4,000" },
+    { "name": "Bloat (GDV)", "description": "Life-threatening stomach twist", "cost": "$3,000 - $7,500" },
+    { "name": "Cruciate Ligament Tears", "description": "Knee ligament injury", "cost": "$3,000 - $6,000" },
+    { "name": "Cystinuria", "description": "Bladder stones", "cost": "$2,000 - $5,000" }
+  ],
+  "mustHave": [
+    "Cardiac coverage — Heart disease is very common in Newfies",
+    "Orthopedic coverage — Hip, elbow, and cruciate issues",
+    "Bloat coverage — Deep-chested breed at high risk",
+    "High or unlimited limits — Giant breed care is expensive"
+  ],
+  "redFlags": [
+    "Heart condition exclusions",
+    "Low annual limits",
+    "Long orthopedic waiting periods",
+    "Per-condition caps"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps on claims means your Newfie's heart treatment, hip surgery, or emergency bloat surgery is fully covered. Essential for a breed with multiple expensive health risks.",
+      "cost": "$55-95/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions including SAS",
+        "Fast claims processing",
+        "No per-incident caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip dysplasia wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Heart Conditions",
+      "description": "Embrace offers strong cardiac coverage with excellent prescription benefits—important for Newfies who may need heart medication long-term.",
+      "cost": "$50-85/mo",
+      "pros": [
+        "Excellent cardiac coverage",
+        "Good prescription coverage",
+        "6-month orthopedic wait",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Higher premiums for giants"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Spot",
+      "tagline": "Best for Giant Breeds",
+      "description": "Spot offers competitive rates for giant breeds without sacrificing coverage. Good option for Newfie owners watching their budget.",
+      "cost": "$48-80/mo",
+      "pros": [
+        "Reasonable giant breed rates",
+        "Covers hereditary conditions",
+        "No upper age limit",
+        "Customizable plans"
+      ],
+      "cons": [
+        "14-day illness wait",
+        "Some exclusions vary by state"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Newfoundlands have higher insurance costs due to their size and health risks. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$45 - $75/month" },
+    { "age": "Adult (1-6 years)", "range": "$55 - $100/month" },
+    { "age": "Senior (7+ years)", "range": "$90 - $150+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Newfoundland?",
+      "answer": "Yes, it's essential. Newfies are prone to heart disease (SAS), hip dysplasia, and bloat—all expensive conditions. Their giant size means higher costs for everything. Insurance protects you from major financial surprises."
+    },
+    {
+      "question": "What is subaortic stenosis (SAS)?",
+      "answer": "SAS is a heart defect where tissue below the aortic valve obstructs blood flow. It's hereditary and common in Newfoundlands. Mild cases may need monitoring; severe cases require medication or surgery. Screening is recommended."
+    },
+    {
+      "question": "Why are Newfoundlands expensive to insure?",
+      "answer": "Giant breeds cost more because treatment costs more—larger drug doses, bigger equipment, more anesthesia. Combined with their predisposition to expensive conditions, insurance companies price accordingly."
+    },
+    {
+      "question": "Should I screen my Newfoundland for heart disease?",
+      "answer": "Absolutely. Cardiac screening (echocardiogram) is recommended for all Newfoundlands, especially before breeding. Early detection allows for management before symptoms appear. Reputable breeders screen their dogs."
+    },
+    {
+      "question": "How long do Newfoundlands live?",
+      "answer": "Typically 8-10 years. Their shorter lifespan makes quality of life during those years even more important. Insurance helps ensure you can afford the best care without financial constraints."
+    }
+  ],
+  "finalCta": "Protect your gentle Newfie from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "St. Bernard", "slug": "st-bernard" },
+    { "name": "Great Dane", "slug": "great-dane" },
+    { "name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog" }
+  ]
+}

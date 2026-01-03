@@ -1,0 +1,120 @@
+{
+  "name": "Akita",
+  "slug": "akita",
+  "species": "dog",
+  "metaDescription": "Akitas face hip dysplasia, autoimmune disorders, and bloat. Compare the best pet insurance for Akitas—coverage for large breed health issues.",
+  "intro": "Akitas are dignified, courageous dogs with striking appearances. They're prone to hip dysplasia, autoimmune disorders, and bloat. Their large size means higher treatment costs. Insurance helps manage these significant health risks.",
+  "whyInsurance": "Akitas face autoimmune diseases (ongoing treatment), hip dysplasia, bloat, and thyroid issues. These conditions require expensive care. Insurance protects against major expenses.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for autoimmune conditions" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Autoimmune Disorders", "description": "Immune system attacks body", "cost": "$500 - $3,000/year" },
+    { "name": "Bloat (GDV)", "description": "Stomach twist emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Hypothyroidism", "description": "Underactive thyroid", "cost": "$200 - $600/year" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Sebaceous Adenitis", "description": "Skin gland disorder", "cost": "$500 - $2,000/year" }
+  ],
+  "mustHave": [
+    "Autoimmune coverage — Multiple conditions affect Akitas",
+    "Orthopedic coverage — Hip dysplasia common",
+    "Bloat coverage — Deep-chested breed at risk",
+    "Chronic condition coverage — Many issues are ongoing"
+  ],
+  "redFlags": [
+    "Autoimmune exclusions",
+    "Bloat exclusions",
+    "Long orthopedic waits",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Akita's autoimmune treatment, hip surgery, or bloat emergency is fully covered.",
+      "cost": "$50-85/mo",
+      "pros": [
+        "No annual limits",
+        "Covers hereditary conditions",
+        "Fast claims",
+        "No per-condition caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Autoimmune Conditions",
+      "description": "Embrace excels at covering chronic autoimmune conditions. Their prescription coverage helps with ongoing medications.",
+      "cost": "$45-75/mo",
+      "pros": [
+        "Good autoimmune coverage",
+        "Strong prescription benefits",
+        "6-month orthopedic wait",
+        "Covers hereditary conditions"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Solid coverage at competitive prices for Akita owners seeking good protection without premium prices.",
+      "cost": "$40-68/mo",
+      "pros": [
+        "Competitive pricing",
+        "Covers hereditary conditions",
+        "Multiple plan options",
+        "Unlimited available"
+      ],
+      "cons": [
+        "Some claim delays",
+        "Service varies"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Akitas have moderate to high insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$40 - $65/month" },
+    { "age": "Adult (1-7 years)", "range": "$48 - $85/month" },
+    { "age": "Senior (8+ years)", "range": "$75 - $130+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for an Akita?",
+      "answer": "Yes. Akitas face autoimmune disorders, hip dysplasia, and bloat—all expensive to treat. Their larger size means higher costs. Insurance provides important protection."
+    },
+    {
+      "question": "What autoimmune disorders do Akitas get?",
+      "answer": "Akitas are prone to autoimmune thyroiditis, sebaceous adenitis (skin), and VKH-like syndrome (eyes/skin). These require lifelong management and medication."
+    },
+    {
+      "question": "Are Akitas prone to bloat?",
+      "answer": "Yes—their deep chest puts them at risk. Emergency surgery costs $3,000-7,500. Some owners opt for preventive gastropexy during spay/neuter."
+    },
+    {
+      "question": "How long do Akitas live?",
+      "answer": "Typically 10-14 years. Managing their health conditions properly helps maximize lifespan and quality of life."
+    },
+    {
+      "question": "Are American and Japanese Akitas different?",
+      "answer": "They're separate breeds with similar health concerns. Japanese Akitas are slightly smaller. Both face hip dysplasia, autoimmune issues, and bloat."
+    }
+  ],
+  "finalCta": "Protect your noble Akita from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Shiba Inu", "slug": "shiba-inu" },
+    { "name": "Siberian Husky", "slug": "siberian-husky" },
+    { "name": "Alaskan Malamute", "slug": "alaskan-malamute" }
+  ]
+}

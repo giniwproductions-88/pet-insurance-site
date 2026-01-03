@@ -1,0 +1,120 @@
+{
+  "name": "Miniature Schnauzer",
+  "slug": "miniature-schnauzer",
+  "species": "dog",
+  "metaDescription": "Miniature Schnauzers face pancreatitis, diabetes, and bladder stones. Compare the best pet insurance for Mini Schnauzers—coverage for digestive issues & more.",
+  "intro": "Miniature Schnauzers are spirited, friendly companions known for their distinctive beards and eyebrows. They're prone to pancreatitis, diabetes, and bladder stones—conditions requiring ongoing management. Insurance helps cover these chronic health issues.",
+  "whyInsurance": "Mini Schnauzers face pancreatitis (emergency and ongoing care), diabetes, and urinary stones. These conditions often require lifelong management and dietary changes. Insurance helps cover both emergencies and chronic care.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pumpkin", "highlight": "Best preventive options" }
+  ],
+  "healthIssues": [
+    { "name": "Pancreatitis", "description": "Pancreatic inflammation", "cost": "$1,000 - $5,000" },
+    { "name": "Diabetes", "description": "Blood sugar disorder", "cost": "$500 - $2,000/year" },
+    { "name": "Bladder Stones", "description": "Urinary crystals/stones", "cost": "$1,500 - $4,000" },
+    { "name": "Hyperlipidemia", "description": "High blood fat levels", "cost": "$200 - $800/year" },
+    { "name": "Cataracts", "description": "Eye lens clouding", "cost": "$2,500 - $5,000" },
+    { "name": "Liver Shunts", "description": "Abnormal blood vessel", "cost": "$2,000 - $6,000" }
+  ],
+  "mustHave": [
+    "Chronic condition coverage — Diabetes needs lifelong care",
+    "Emergency coverage — Pancreatitis requires urgent treatment",
+    "Prescription coverage — Ongoing medications likely",
+    "Urinary condition coverage — Bladder stones are common"
+  ],
+  "redFlags": [
+    "Diabetes exclusions",
+    "Pancreatitis exclusions",
+    "Low prescription coverage",
+    "Per-condition limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace excels at covering ongoing conditions like diabetes. Their strong prescription coverage is valuable for Mini Schnauzers needing long-term medication.",
+      "cost": "$30-50/mo",
+      "pros": [
+        "Excellent chronic coverage",
+        "Strong prescription benefits",
+        "Covers hereditary conditions",
+        "Prescription food coverage"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Mini Schnauzer's pancreatitis treatment, diabetes management, or surgery is fully covered. Simple protection.",
+      "cost": "$32-52/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "No per-condition caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "No prescription food coverage"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pumpkin",
+      "tagline": "Best Preventive Options",
+      "description": "Pumpkin's preventive care options help with regular monitoring important for diabetes-prone breeds. Solid core coverage too.",
+      "cost": "$28-48/mo",
+      "pros": [
+        "Good preventive options",
+        "Covers hereditary conditions",
+        "90% reimbursement available",
+        "Prescription food covered"
+      ],
+      "cons": [
+        "Preventive costs extra",
+        "14-day illness wait"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Miniature Schnauzers have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$25 - $40/month" },
+    { "age": "Adult (1-9 years)", "range": "$30 - $55/month" },
+    { "age": "Senior (10+ years)", "range": "$50 - $90+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Miniature Schnauzer?",
+      "answer": "Yes. Mini Schnauzers are prone to pancreatitis, diabetes, and bladder stones—all requiring ongoing care. Insurance helps manage both emergency costs and chronic condition expenses."
+    },
+    {
+      "question": "Why do Mini Schnauzers get pancreatitis?",
+      "answer": "They're genetically prone to high blood fat (hyperlipidemia), which increases pancreatitis risk. A low-fat diet helps prevent episodes, but some dogs still develop it. Treatment can be expensive."
+    },
+    {
+      "question": "Are Miniature Schnauzers prone to diabetes?",
+      "answer": "Yes—more than most breeds. It typically appears in middle age and requires lifelong insulin injections and monitoring. Insurance helps cover ongoing costs."
+    },
+    {
+      "question": "What causes bladder stones in Mini Schnauzers?",
+      "answer": "They're prone to certain stone types due to genetic factors. Special diets can help prevent recurrence, but some dogs need surgical removal. Insurance covers both surgery and prescription food (with some plans)."
+    },
+    {
+      "question": "Should I feed my Mini Schnauzer a special diet?",
+      "answer": "A low-fat diet is recommended to reduce pancreatitis risk. If your dog develops stones, your vet may prescribe a therapeutic diet. Some insurance plans cover prescription food."
+    }
+  ],
+  "finalCta": "Protect your Mini Schnauzer from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Standard Schnauzer", "slug": "standard-schnauzer" },
+    { "name": "Scottish Terrier", "slug": "scottish-terrier" },
+    { "name": "West Highland Terrier", "slug": "west-highland-white-terrier" }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Maltese",
+  "slug": "maltese",
+  "species": "dog",
+  "metaDescription": "Maltese face dental disease, luxating patella, and liver shunts. Compare the best pet insurance for Maltese—coverage for toy breed health issues.",
+  "intro": "Maltese are elegant, affectionate toy dogs with stunning white coats. Their small size brings health challenges including dental disease, luxating patella, and liver problems. Insurance helps manage these common toy breed conditions.",
+  "whyInsurance": "Maltese face severe dental disease (extractions common), luxating patella, and portosystemic shunts. Their tiny size makes them fragile. Insurance covers both chronic conditions and accidents.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best dental coverage" },
+    { "name": "Lemonade", "highlight": "Best budget option" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" }
+  ],
+  "healthIssues": [
+    { "name": "Dental Disease", "description": "Severe periodontal problems", "cost": "$500 - $2,500" },
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Portosystemic Shunt", "description": "Liver blood vessel defect", "cost": "$2,000 - $6,000" },
+    { "name": "White Dog Shaker Syndrome", "description": "Tremor disorder", "cost": "$500 - $2,000" },
+    { "name": "Collapsed Trachea", "description": "Windpipe weakness", "cost": "$500 - $5,000" },
+    { "name": "Hypoglycemia", "description": "Low blood sugar", "cost": "$200 - $1,000" }
+  ],
+  "mustHave": [
+    "Dental illness coverage — Maltese have severe dental issues",
+    "Orthopedic coverage — Luxating patella is common",
+    "Liver condition coverage — Shunts require surgery",
+    "Accident coverage — Tiny dogs get injured easily"
+  ],
+  "redFlags": [
+    "Dental disease exclusions",
+    "Luxating patella exclusions",
+    "Liver shunt exclusions",
+    "Toy breed restrictions"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best Dental Coverage",
+      "description": "Embrace covers dental illness—crucial for Maltese who almost always need dental work. Strong coverage for toy breed conditions.",
+      "cost": "$26-45/mo",
+      "pros": [
+        "Dental illness coverage",
+        "Covers hereditary conditions",
+        "Good prescription coverage",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Affordable coverage for Maltese owners. Add dental for comprehensive protection at a reasonable price.",
+      "cost": "$18-35/mo",
+      "pros": [
+        "Very affordable",
+        "Fast claims",
+        "Covers hereditary conditions",
+        "Optional dental add-on"
+      ],
+      "cons": [
+        "Dental requires add-on",
+        "Newer company"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Maltese's knee surgery, liver treatment, or any condition is fully covered.",
+      "cost": "$28-48/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims",
+        "No per-condition caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "Limited dental coverage"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Maltese have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$20 - $35/month" },
+    { "age": "Adult (1-9 years)", "range": "$26 - $50/month" },
+    { "age": "Senior (10+ years)", "range": "$45 - $80+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Maltese?",
+      "answer": "Yes. Maltese commonly need dental extractions, knee surgery, and some have liver shunts. Their fragile size also means injury risk. Insurance helps manage these predictable expenses."
+    },
+    {
+      "question": "Why do Maltese have such bad teeth?",
+      "answer": "Tiny mouths mean crowded teeth that trap bacteria. Most Maltese need professional dental cleanings annually and many require extractions. Dental insurance coverage is valuable."
+    },
+    {
+      "question": "What is a portosystemic shunt?",
+      "answer": "An abnormal blood vessel bypasses the liver, allowing toxins to circulate. Symptoms include stunted growth, seizures, and behavioral issues. Surgery can correct it but costs $2,000-6,000+."
+    },
+    {
+      "question": "What is White Dog Shaker Syndrome?",
+      "answer": "A tremor disorder affecting small white dogs including Maltese. Dogs shake uncontrollably, especially when stressed. It's treatable with medication but not curable."
+    },
+    {
+      "question": "Are Maltese fragile?",
+      "answer": "Yes—their tiny bones break easily from falls or rough handling. They're also prone to hypoglycemia (low blood sugar). Good accident coverage is important."
+    }
+  ],
+  "finalCta": "Protect your elegant Maltese from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Yorkshire Terrier", "slug": "yorkshire-terrier" },
+    { "name": "Bichon Frise", "slug": "bichon-frise" },
+    { "name": "Havanese", "slug": "havanese" }
+  ]
+}

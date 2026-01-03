@@ -1,0 +1,120 @@
+{
+  "name": "Mastiff",
+  "slug": "mastiff",
+  "species": "dog",
+  "metaDescription": "Mastiffs face hip dysplasia, bloat, and heart disease. Compare the best pet insurance for Mastiffs—coverage for giant breed health issues.",
+  "intro": "Mastiffs are gentle, loyal giants with calm temperaments. Their massive size brings significant health challenges including hip dysplasia, bloat, and heart disease. Insurance is essential for managing giant breed care costs.",
+  "whyInsurance": "Mastiffs face bloat (emergency surgery), hip and elbow dysplasia, and cardiomyopathy. Everything costs more for giant breeds—bigger doses, bigger equipment. Insurance is critical.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for joint conditions" },
+    { "name": "Spot", "highlight": "Best for giant breeds" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twist emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint issues", "cost": "$2,000 - $4,000" },
+    { "name": "Dilated Cardiomyopathy", "description": "Heart muscle disease", "cost": "$500 - $2,000/year" },
+    { "name": "Osteosarcoma", "description": "Bone cancer", "cost": "$5,000 - $10,000+" },
+    { "name": "Cruciate Ligament Tears", "description": "Knee ligament injury", "cost": "$3,500 - $6,500" }
+  ],
+  "mustHave": [
+    "Bloat/GDV coverage — Emergency surgery is expensive",
+    "Orthopedic coverage — Multiple joint issues",
+    "Cardiac coverage — Heart disease risk",
+    "High/unlimited limits — Giant breed care costs more"
+  ],
+  "redFlags": [
+    "Low annual limits (under $15,000)",
+    "Bloat exclusions",
+    "Long orthopedic waits",
+    "Per-condition caps"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Mastiff's hip surgery, bloat emergency, or cancer treatment is fully covered. Essential for giant breeds.",
+      "cost": "$60-100/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims",
+        "No per-condition caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Joint Conditions",
+      "description": "Embrace's 6-month orthopedic wait is valuable for joint-prone Mastiffs. Strong coverage for chronic conditions.",
+      "cost": "$55-90/mo",
+      "pros": [
+        "6-month orthopedic wait",
+        "Covers hereditary conditions",
+        "Good prescription coverage",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Higher premiums"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Spot",
+      "tagline": "Best for Giant Breeds",
+      "description": "Spot offers reasonable rates for giant breeds without skimping on coverage. Good option for budget-conscious Mastiff owners.",
+      "cost": "$50-85/mo",
+      "pros": [
+        "Competitive giant breed rates",
+        "Covers hereditary conditions",
+        "No upper age limit",
+        "Customizable"
+      ],
+      "cons": [
+        "14-day illness wait",
+        "Some state variations"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Mastiffs have high insurance costs due to their size. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$50 - $80/month" },
+    { "age": "Adult (1-6 years)", "range": "$60 - $105/month" },
+    { "age": "Senior (7+ years)", "range": "$95 - $160+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Mastiff?",
+      "answer": "Absolutely essential. Giant breeds face expensive conditions like bloat, hip dysplasia, and cancer. A single bloat surgery can cost $7,000+. Insurance is non-negotiable."
+    },
+    {
+      "question": "Why is Mastiff insurance expensive?",
+      "answer": "Giant breeds cost more to treat—larger drug doses, bigger surgical equipment, more anesthesia. Combined with high-risk conditions, premiums reflect the reality of giant breed care."
+    },
+    {
+      "question": "How long do Mastiffs live?",
+      "answer": "Typically 6-10 years, shorter than smaller breeds. This makes quality of life during those years critical. Insurance helps ensure you can afford the best care."
+    },
+    {
+      "question": "Should I get a preventive gastropexy?",
+      "answer": "Many vets recommend gastropexy (stomach tacking) during spay/neuter to prevent bloat. It costs $200-400 when done with another surgery and can be lifesaving."
+    },
+    {
+      "question": "Are Mastiffs prone to cancer?",
+      "answer": "Yes—osteosarcoma (bone cancer) is more common in giant breeds. It's aggressive and expensive to treat. Unlimited coverage is valuable for potential cancer treatment."
+    }
+  ],
+  "finalCta": "Protect your gentle giant from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Bullmastiff", "slug": "bullmastiff" },
+    { "name": "Great Dane", "slug": "great-dane" },
+    { "name": "Cane Corso", "slug": "cane-corso" }
+  ]
+}

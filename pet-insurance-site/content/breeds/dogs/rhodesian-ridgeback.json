@@ -1,0 +1,81 @@
+{
+  "name": "Rhodesian Ridgeback",
+  "slug": "rhodesian-ridgeback",
+  "species": "dog",
+  "metaDescription": "Rhodesian Ridgebacks face hip dysplasia, dermoid sinus, and bloat. Compare the best pet insurance for Ridgebacks.",
+  "intro": "Rhodesian Ridgebacks are athletic, dignified hounds originally bred for lion hunting. They're prone to hip dysplasia, dermoid sinus (a breed-specific spinal defect), and bloat. Insurance helps manage these significant health risks.",
+  "whyInsurance": "Ridgebacks face hip dysplasia, dermoid sinus (requires surgery), and bloat. Their large size means higher treatment costs. Insurance protects against major expenses.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for hereditary conditions" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Dermoid Sinus", "description": "Spinal tube defect", "cost": "$1,500 - $5,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twist emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint issues", "cost": "$2,000 - $4,000" },
+    { "name": "Hypothyroidism", "description": "Underactive thyroid", "cost": "$200 - $600/year" },
+    { "name": "Degenerative Myelopathy", "description": "Spinal cord disease", "cost": "$500 - $2,000" }
+  ],
+  "mustHave": [
+    "Dermoid sinus coverage — Breed-specific condition",
+    "Orthopedic coverage — Hip dysplasia common",
+    "Bloat coverage — Deep-chested breed",
+    "High annual limits — Large breed costs"
+  ],
+  "redFlags": [
+    "Dermoid sinus exclusions",
+    "Bloat exclusions",
+    "Long orthopedic waits",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Ridgeback's dermoid surgery, hip treatment, or bloat emergency is fully covered.",
+      "cost": "$45-75/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Hereditary Conditions",
+      "description": "Embrace covers dermoid sinus and other hereditary conditions important for Ridgebacks.",
+      "cost": "$42-68/mo",
+      "pros": ["Good hereditary coverage", "6-month orthopedic wait", "Covers dermoid sinus", "Prescription coverage"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Ridgeback owners.",
+      "cost": "$38-62/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Rhodesian Ridgebacks have moderate to high insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$35 - $55/month" },
+    { "age": "Adult (1-8 years)", "range": "$42 - $78/month" },
+    { "age": "Senior (9+ years)", "range": "$68 - $115+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Rhodesian Ridgeback?", "answer": "Yes. Ridgebacks face dermoid sinus, hip dysplasia, and bloat. Insurance helps cover both breed-specific conditions and common large breed issues." },
+    { "question": "What is dermoid sinus?", "answer": "A tube-like defect along the spine that the ridge is formed from. It's hereditary and can become infected if not surgically removed. Reputable breeders screen puppies." },
+    { "question": "Are Ridgebacks prone to bloat?", "answer": "Yes—their deep chest puts them at risk. Preventive gastropexy is often recommended. Know the symptoms and have an emergency plan." },
+    { "question": "What causes the ridge?", "answer": "A genetic mutation causing hair to grow in the opposite direction. The same genetics unfortunately can cause dermoid sinus." },
+    { "question": "How long do Rhodesian Ridgebacks live?", "answer": "10-12 years typically. Proper screening and health management helps maximize lifespan." }
+  ],
+  "finalCta": "Protect your noble Ridgeback from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Weimaraner", "slug": "weimaraner" },
+    { "name": "Vizsla", "slug": "vizsla" },
+    { "name": "Great Dane", "slug": "great-dane" }
+  ]
+}

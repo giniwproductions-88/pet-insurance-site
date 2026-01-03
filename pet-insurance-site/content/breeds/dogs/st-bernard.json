@@ -1,0 +1,120 @@
+{
+  "name": "St. Bernard",
+  "slug": "st-bernard",
+  "species": "dog",
+  "metaDescription": "St. Bernards face hip dysplasia, bloat, and heart problems. Compare the best pet insurance for St. Bernards—coverage for giant breed health issues & more.",
+  "intro": "St. Bernards are gentle giants known for their calm temperament and massive size. Unfortunately, that size brings significant health challenges including hip dysplasia, bloat, and heart disease. Their shorter lifespan (8-10 years) and expensive medical care make insurance essential.",
+  "whyInsurance": "St. Bernards face bloat (emergency surgery costs $5,000+), hip and elbow dysplasia, and heart conditions. Their giant size means higher drug doses, bigger surgical equipment, and overall more expensive care. Insurance is critical for this breed.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for joint conditions" },
+    { "name": "Spot", "highlight": "Best for giant breeds" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Bloat (GDV)", "description": "Life-threatening stomach twist", "cost": "$3,000 - $7,500" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint malformation", "cost": "$2,000 - $4,000" },
+    { "name": "Dilated Cardiomyopathy", "description": "Enlarged heart", "cost": "$500 - $2,000/year" },
+    { "name": "Entropion", "description": "Eyelids rolling inward", "cost": "$1,000 - $2,500" },
+    { "name": "Osteosarcoma", "description": "Bone cancer", "cost": "$5,000 - $10,000+" }
+  ],
+  "mustHave": [
+    "Bloat/GDV coverage — Emergency surgery is expensive",
+    "Orthopedic coverage — Hip and elbow dysplasia are common",
+    "Cardiac coverage — Heart disease affects giant breeds",
+    "High annual limits — Giant breed care costs more"
+  ],
+  "redFlags": [
+    "Low annual limits (under $15,000)",
+    "Long orthopedic waiting periods",
+    "Bloat exclusions",
+    "Per-incident caps"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps on claims is essential for a giant breed like St. Bernards where everything costs more. Hip surgery, bloat emergency, cancer treatment—all fully covered.",
+      "cost": "$55-95/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "No per-incident caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip dysplasia wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Joint Conditions",
+      "description": "Embrace's 6-month orthopedic waiting period (vs 12 months) is valuable for a breed prone to hip and elbow problems. Strong coverage for chronic conditions.",
+      "cost": "$50-85/mo",
+      "pros": [
+        "6-month orthopedic wait",
+        "Covers hereditary conditions",
+        "Good prescription coverage",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Higher premiums for giants"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Spot",
+      "tagline": "Best for Giant Breeds",
+      "description": "Spot doesn't penalize giant breeds as heavily as some insurers. Good coverage options with reasonable premiums for St. Bernards.",
+      "cost": "$48-80/mo",
+      "pros": [
+        "Reasonable giant breed rates",
+        "Covers hereditary conditions",
+        "No upper age limit",
+        "Customizable plans"
+      ],
+      "cons": [
+        "14-day illness wait",
+        "Some exclusions vary by state"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "St. Bernards have higher insurance costs due to their size and health risks. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$45 - $75/month" },
+    { "age": "Adult (1-6 years)", "range": "$55 - $100/month" },
+    { "age": "Senior (7+ years)", "range": "$90 - $150+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a St. Bernard?",
+      "answer": "Absolutely. St. Bernards are expensive to care for—larger drug doses, bigger equipment, and high rates of hip dysplasia, bloat, and heart disease. A single bloat surgery can cost $7,000+. Insurance is essential for this breed."
+    },
+    {
+      "question": "Why is St. Bernard insurance so expensive?",
+      "answer": "Giant breeds cost more to insure because everything costs more to treat. More anesthesia, larger implants, higher drug doses. Add their predisposition to expensive conditions like bloat and hip dysplasia, and premiums reflect the risk."
+    },
+    {
+      "question": "What is bloat and why is it dangerous?",
+      "answer": "Bloat (GDV) occurs when the stomach fills with gas and twists. It's a life-threatening emergency requiring immediate surgery. Deep-chested breeds like St. Bernards are at high risk. Surgery costs $3,000-7,500+."
+    },
+    {
+      "question": "How long do St. Bernards live?",
+      "answer": "Typically 8-10 years, shorter than smaller breeds. This makes insurance valuable for the years you have—you want to maximize quality of life without financial stress."
+    },
+    {
+      "question": "Should I get preventive care coverage for my St. Bernard?",
+      "answer": "Consider it. Regular joint supplements, cardiac screening, and weight management are important for this breed. Some wellness plans help offset these routine costs."
+    }
+  ],
+  "finalCta": "Protect your gentle giant from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Newfoundland", "slug": "newfoundland" },
+    { "name": "Great Dane", "slug": "great-dane" },
+    { "name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog" }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Shetland Sheepdog",
+  "slug": "shetland-sheepdog",
+  "species": "dog",
+  "metaDescription": "Shelties face Collie Eye Anomaly, hip dysplasia, and thyroid issues. Compare the best pet insurance for Shetland Sheepdogs.",
+  "intro": "Shetland Sheepdogs are intelligent, eager-to-please herding dogs with beautiful coats. They're prone to eye conditions, hip dysplasia, and thyroid problems. Insurance helps manage these hereditary conditions.",
+  "whyInsurance": "Shelties face Collie Eye Anomaly, dermatomyositis (skin/muscle disease), and hip dysplasia. Multiple hereditary conditions make insurance valuable for this breed.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for hereditary conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Collie Eye Anomaly", "description": "Hereditary eye defect", "cost": "$500 - $2,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Dermatomyositis", "description": "Skin and muscle disease", "cost": "$500 - $2,000/year" },
+    { "name": "Hypothyroidism", "description": "Underactive thyroid", "cost": "$200 - $600/year" },
+    { "name": "Von Willebrand Disease", "description": "Blood clotting disorder", "cost": "$500 - $3,000" },
+    { "name": "Patent Ductus Arteriosus", "description": "Heart defect", "cost": "$2,500 - $5,000" }
+  ],
+  "mustHave": [
+    "Eye condition coverage — CEA is hereditary",
+    "Orthopedic coverage — Hip dysplasia occurs",
+    "Chronic condition coverage — Skin/thyroid issues ongoing",
+    "Hereditary condition coverage — Multiple genetic risks"
+  ],
+  "redFlags": [
+    "Eye condition exclusions",
+    "Hereditary exclusions",
+    "Long orthopedic waits",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Hereditary Conditions",
+      "description": "Embrace offers comprehensive hereditary coverage important for Shelties with multiple genetic health risks.",
+      "cost": "$32-52/mo",
+      "pros": ["Excellent hereditary coverage", "6-month orthopedic wait", "Good prescription coverage", "Eye conditions covered"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Sheltie's eye treatment, hip surgery, or any condition is fully covered.",
+      "cost": "$35-55/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Sheltie owners.",
+      "cost": "$28-48/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Shetland Sheepdogs have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$26 - $42/month" },
+    { "age": "Adult (1-9 years)", "range": "$32 - $58/month" },
+    { "age": "Senior (10+ years)", "range": "$52 - $90+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Sheltie?", "answer": "Yes. Shelties have multiple hereditary conditions including eye disease, hip dysplasia, and skin disorders. Insurance helps manage these genetic health risks." },
+    { "question": "What is Collie Eye Anomaly?", "answer": "CEA is a hereditary condition affecting eye development. Severity varies from mild to severe vision impairment. Genetic testing identifies carriers." },
+    { "question": "What is dermatomyositis?", "answer": "A hereditary skin and muscle disease causing lesions and muscle wasting. It requires ongoing management. Shelties and Collies are predisposed." },
+    { "question": "How long do Shelties live?", "answer": "12-14 years typically. Their longevity makes insurance a good long-term investment." },
+    { "question": "Should I get my Sheltie genetically tested?", "answer": "Yes—tests exist for CEA, vWD, and MDR1 drug sensitivity. Reputable breeders test their dogs." }
+  ],
+  "finalCta": "Protect your Sheltie from hereditary health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Collie", "slug": "collie" },
+    { "name": "Border Collie", "slug": "border-collie" },
+    { "name": "Australian Shepherd", "slug": "australian-shepherd" }
+  ]
+}

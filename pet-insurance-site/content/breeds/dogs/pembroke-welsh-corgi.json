@@ -1,0 +1,120 @@
+{
+  "name": "Pembroke Welsh Corgi",
+  "slug": "pembroke-welsh-corgi",
+  "species": "dog",
+  "metaDescription": "Corgis face IVDD, hip dysplasia, and eye problems. Compare the best pet insurance for Pembroke Welsh Corgis—coverage for back issues & more.",
+  "intro": "Pembroke Welsh Corgis are charming, intelligent herding dogs with a distinctive long body and short legs. That build puts them at high risk for intervertebral disc disease (IVDD) and back problems. Insurance is important for managing these spinal issues.",
+  "whyInsurance": "Corgis face IVDD (back surgery can cost $5,000+), hip dysplasia, and degenerative myelopathy. Their long backs and short legs make them vulnerable to spinal injuries. Insurance helps cover these significant expenses.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for spinal conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Intervertebral Disc Disease", "description": "Spinal disc problems", "cost": "$3,000 - $8,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Degenerative Myelopathy", "description": "Progressive spinal cord disease", "cost": "$500 - $2,000" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Von Willebrand Disease", "description": "Blood clotting disorder", "cost": "$500 - $3,000" },
+    { "name": "Obesity", "description": "Weight-related complications", "cost": "$200 - $500/year" }
+  ],
+  "mustHave": [
+    "IVDD/spinal coverage — Back problems are very common",
+    "Orthopedic coverage — Hip dysplasia occurs in Corgis",
+    "Hereditary condition coverage — Multiple genetic conditions",
+    "High annual limits — Back surgery is expensive"
+  ],
+  "redFlags": [
+    "IVDD or spinal exclusions",
+    "Long orthopedic waiting periods",
+    "Bilateral exclusions",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Spinal Conditions",
+      "description": "Embrace offers strong coverage for IVDD and other spinal conditions. Their 6-month orthopedic wait is shorter than competitors—valuable for a breed prone to back issues.",
+      "cost": "$35-55/mo",
+      "pros": [
+        "Good IVDD coverage",
+        "6-month orthopedic wait",
+        "Covers hereditary conditions",
+        "Prescription coverage"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Corgi's back surgery, hip treatment, or any other condition is fully covered. Important for expensive spinal procedures.",
+      "cost": "$38-58/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "No per-incident caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month orthopedic wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Corgi owners. Covers hereditary conditions while keeping premiums affordable.",
+      "cost": "$30-50/mo",
+      "pros": [
+        "Competitive pricing",
+        "Covers hereditary conditions",
+        "Multiple plan options",
+        "Unlimited options available"
+      ],
+      "cons": [
+        "Some claim delays reported",
+        "Customer service varies"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Pembroke Welsh Corgis have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$28 - $45/month" },
+    { "age": "Adult (1-8 years)", "range": "$35 - $60/month" },
+    { "age": "Senior (9+ years)", "range": "$55 - $95+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Corgi?",
+      "answer": "Yes. Corgis are prone to IVDD (back surgery costs $5,000-8,000) and hip dysplasia. Their long-backed build makes spinal issues likely. Insurance helps manage these significant costs."
+    },
+    {
+      "question": "What is IVDD in Corgis?",
+      "answer": "Intervertebral Disc Disease occurs when spinal discs degenerate or herniate, causing pain, weakness, or paralysis. Corgis are at high risk due to their body shape. Treatment ranges from rest to emergency surgery."
+    },
+    {
+      "question": "Should I limit my Corgi's jumping?",
+      "answer": "Yes. Jumping on/off furniture stresses their spine and can trigger IVDD. Use ramps, keep them at healthy weight, and avoid activities that strain their back. This helps but doesn't eliminate risk."
+    },
+    {
+      "question": "What is degenerative myelopathy?",
+      "answer": "DM is a progressive disease affecting the spinal cord, causing hind leg weakness and eventual paralysis. There's no cure, but physical therapy helps maintain quality of life. Genetic testing can identify carriers."
+    },
+    {
+      "question": "Do Corgis have weight problems?",
+      "answer": "Yes—they love food and gain weight easily. Extra weight stresses their back and joints, increasing IVDD and dysplasia risk. Keeping your Corgi lean is one of the best things you can do for their health."
+    }
+  ],
+  "finalCta": "Protect your Corgi from unexpected back problems and health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Dachshund", "slug": "dachshund" },
+    { "name": "Cardigan Welsh Corgi", "slug": "cardigan-welsh-corgi" },
+    { "name": "Basset Hound", "slug": "basset-hound" }
+  ]
+}

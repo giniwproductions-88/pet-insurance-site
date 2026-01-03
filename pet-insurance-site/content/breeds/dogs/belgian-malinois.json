@@ -1,0 +1,81 @@
+{
+  "name": "Belgian Malinois",
+  "slug": "belgian-malinois",
+  "species": "dog",
+  "metaDescription": "Belgian Malinois face hip dysplasia, eye problems, and sports injuries. Compare the best pet insurance for Malinois.",
+  "intro": "Belgian Malinois are intense, driven working dogs used by military and police worldwide. Their extreme athleticism brings injury risk, and they're prone to hip dysplasia and eye conditions. Insurance covers both accidents and hereditary issues.",
+  "whyInsurance": "Malinois face hip/elbow dysplasia, progressive retinal atrophy, and frequent injuries from their intense activity. Working dogs need robust coverage for both accidents and conditions.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for active dogs" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint issues", "cost": "$2,000 - $4,000" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Pannus", "description": "Eye inflammation", "cost": "$300 - $1,000/year" },
+    { "name": "Sports Injuries", "description": "Ligament tears, fractures", "cost": "$2,000 - $6,000" },
+    { "name": "Epilepsy", "description": "Seizure disorder", "cost": "$200 - $500/year" }
+  ],
+  "mustHave": [
+    "Accident coverage — High-intensity breed gets injured",
+    "Orthopedic coverage — Hip and elbow dysplasia",
+    "Eye condition coverage — PRA and pannus",
+    "No activity exclusions — Many work or do sports"
+  ],
+  "redFlags": [
+    "Working dog exclusions",
+    "Sports injury exclusions",
+    "Long orthopedic waits",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Malinois's injuries, hip surgery, or any condition is fully covered.",
+      "cost": "$40-65/mo",
+      "pros": ["No annual limits", "Strong accident coverage", "Covers hereditary conditions", "Fast claims"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Active Dogs",
+      "description": "Embrace offers excellent accident and injury coverage for intense, active Malinois.",
+      "cost": "$38-60/mo",
+      "pros": ["Good accident coverage", "6-month orthopedic wait", "Covers hereditary conditions", "Prescription coverage"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Solid coverage at competitive prices for Malinois owners.",
+      "cost": "$35-55/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Belgian Malinois have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$32 - $50/month" },
+    { "age": "Adult (1-8 years)", "range": "$38 - $68/month" },
+    { "age": "Senior (9+ years)", "range": "$62 - $105+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Belgian Malinois?", "answer": "Yes. Malinois face hip dysplasia, eye conditions, and frequent injuries from their intense activity. Insurance helps cover both genetic issues and accidents." },
+    { "question": "Do Belgian Malinois get injured often?", "answer": "Their drive and athleticism lead to more injuries than calmer breeds. Torn ligaments, muscle strains, and impact injuries are common. Good accident coverage is essential." },
+    { "question": "Are working dogs covered by insurance?", "answer": "Most pet insurance covers working dogs for health issues, but verify there are no activity exclusions. Some policies exclude injuries during certain work." },
+    { "question": "What eye problems do Malinois get?", "answer": "Progressive Retinal Atrophy (blindness) and pannus (eye inflammation requiring lifelong treatment) both occur in the breed." },
+    { "question": "How long do Belgian Malinois live?", "answer": "14-16 years typically—longer than many breeds their size. Their longevity makes insurance a good long-term investment." }
+  ],
+  "finalCta": "Protect your driven Belgian Malinois from injuries and health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "German Shepherd", "slug": "german-shepherd" },
+    { "name": "Dutch Shepherd", "slug": "dutch-shepherd" },
+    { "name": "Belgian Tervuren", "slug": "belgian-tervuren" }
+  ]
+}

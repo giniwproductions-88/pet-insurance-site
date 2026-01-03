@@ -1,0 +1,120 @@
+{
+  "name": "Bichon Frise",
+  "slug": "bichon-frise",
+  "species": "dog",
+  "metaDescription": "Bichon Frises face allergies, bladder stones, and dental disease. Compare the best pet insurance for Bichons—coverage for skin and urinary issues.",
+  "intro": "Bichon Frises are cheerful, playful companions with fluffy white coats. They're prone to allergies, bladder stones, and dental disease. Insurance helps manage these chronic conditions that often require ongoing treatment.",
+  "whyInsurance": "Bichons face skin allergies (lifelong management), bladder stones (surgery), and severe dental disease. These chronic conditions add up over time. Insurance helps cover both ongoing care and procedures.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for allergies" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Lemonade", "highlight": "Best budget option" }
+  ],
+  "healthIssues": [
+    { "name": "Skin Allergies", "description": "Atopic dermatitis", "cost": "$500 - $2,000/year" },
+    { "name": "Bladder Stones", "description": "Urinary crystals", "cost": "$1,500 - $4,000" },
+    { "name": "Dental Disease", "description": "Periodontal problems", "cost": "$500 - $2,500" },
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Cataracts", "description": "Eye lens clouding", "cost": "$2,500 - $5,000" },
+    { "name": "Cushings Disease", "description": "Hormonal disorder", "cost": "$500 - $2,000/year" }
+  ],
+  "mustHave": [
+    "Allergy/skin coverage — Chronic issue in Bichons",
+    "Urinary condition coverage — Bladder stones common",
+    "Dental coverage — Severe dental issues",
+    "Prescription coverage — Allergies need ongoing meds"
+  ],
+  "redFlags": [
+    "Allergy exclusions",
+    "Bladder stone exclusions",
+    "Dental disease exclusions",
+    "Low prescription limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Allergies",
+      "description": "Embrace excels at covering chronic skin conditions and allergies. Their prescription coverage helps with ongoing allergy medications.",
+      "cost": "$28-48/mo",
+      "pros": [
+        "Excellent allergy coverage",
+        "Dental illness covered",
+        "Good prescription coverage",
+        "Covers hereditary conditions"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Bichon's allergy treatment, bladder surgery, or dental work is fully covered.",
+      "cost": "$30-50/mo",
+      "pros": [
+        "No annual limits",
+        "Covers hereditary conditions",
+        "Fast claims",
+        "No per-condition caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "Limited dental"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Affordable coverage for Bichon owners. Covers hereditary conditions at competitive prices.",
+      "cost": "$20-38/mo",
+      "pros": [
+        "Very affordable",
+        "Fast claims",
+        "Covers hereditary conditions",
+        "Easy app"
+      ],
+      "cons": [
+        "Limited allergy coverage",
+        "Newer company"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Bichon Frises have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$22 - $38/month" },
+    { "age": "Adult (1-9 years)", "range": "$28 - $52/month" },
+    { "age": "Senior (10+ years)", "range": "$48 - $85+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Bichon Frise?",
+      "answer": "Yes. Bichons commonly face allergies, bladder stones, and dental disease—all chronic or recurring conditions. Insurance helps manage ongoing costs."
+    },
+    {
+      "question": "Do Bichon Frises have allergy problems?",
+      "answer": "Yes—skin allergies are very common. Symptoms include itching, licking, and skin infections. Treatment often involves lifelong medication and special diets."
+    },
+    {
+      "question": "Why do Bichons get bladder stones?",
+      "answer": "They're genetically prone to certain stone types. Symptoms include frequent urination and blood in urine. Surgery may be needed, followed by special diet to prevent recurrence."
+    },
+    {
+      "question": "Are Bichon Frises hypoallergenic?",
+      "answer": "They're considered hypoallergenic for humans because they shed less, but ironically, the dogs themselves often have allergies. Their curly coats can trap allergens."
+    },
+    {
+      "question": "How long do Bichon Frises live?",
+      "answer": "14-15 years typically—longer than many breeds. Their longevity makes insurance a good long-term investment for managing chronic conditions."
+    }
+  ],
+  "finalCta": "Protect your cheerful Bichon from chronic health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Maltese", "slug": "maltese" },
+    { "name": "Havanese", "slug": "havanese" },
+    { "name": "Coton de Tulear", "slug": "coton-de-tulear" }
+  ]
+}

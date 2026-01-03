@@ -1,0 +1,81 @@
+{
+  "name": "Vizsla",
+  "slug": "vizsla",
+  "species": "dog",
+  "metaDescription": "Vizslas face hip dysplasia, epilepsy, and allergies. Compare the best pet insurance for Vizslas—coverage for active sporting dogs.",
+  "intro": "Vizslas are affectionate, energetic Hungarian pointers known as 'velcro dogs' for their attachment to owners. They're prone to hip dysplasia, epilepsy, and allergies. Their high activity level increases injury risk. Insurance covers both genetic conditions and accidents.",
+  "whyInsurance": "Vizslas face hip dysplasia, epilepsy (lifelong medication), and various cancers. Their athleticism leads to injuries. Insurance protects against multiple health risks.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Epilepsy", "description": "Seizure disorder", "cost": "$200 - $500/year" },
+    { "name": "Allergies", "description": "Skin and food sensitivities", "cost": "$500 - $2,000/year" },
+    { "name": "Hemangiosarcoma", "description": "Blood vessel cancer", "cost": "$5,000 - $10,000+" },
+    { "name": "Hypothyroidism", "description": "Underactive thyroid", "cost": "$200 - $600/year" },
+    { "name": "Sebaceous Adenitis", "description": "Skin gland disorder", "cost": "$500 - $2,000/year" }
+  ],
+  "mustHave": [
+    "Chronic condition coverage — Epilepsy needs lifelong care",
+    "Orthopedic coverage — Hip dysplasia occurs",
+    "Cancer coverage — Higher cancer risk",
+    "Accident coverage — Athletic dogs get injured"
+  ],
+  "redFlags": [
+    "Epilepsy exclusions",
+    "Cancer exclusions",
+    "Long orthopedic waits",
+    "Low prescription coverage"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace excels at covering epilepsy and chronic allergies. Strong prescription coverage for ongoing medication needs.",
+      "cost": "$35-55/mo",
+      "pros": ["Excellent chronic coverage", "Good prescription benefits", "6-month orthopedic wait", "Allergy coverage"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Vizsla's cancer treatment, hip surgery, or any condition is fully covered.",
+      "cost": "$38-60/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "Strong accident coverage"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Vizsla owners.",
+      "cost": "$32-52/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Vizslas have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$28 - $45/month" },
+    { "age": "Adult (1-9 years)", "range": "$35 - $62/month" },
+    { "age": "Senior (10+ years)", "range": "$55 - $95+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Vizsla?", "answer": "Yes. Vizslas face epilepsy, hip dysplasia, and higher cancer risk. Their athletic nature also means more injury potential. Insurance is recommended." },
+    { "question": "Do Vizslas have epilepsy?", "answer": "Epilepsy occurs more frequently in Vizslas than many breeds. It typically appears between 1-5 years and requires lifelong medication." },
+    { "question": "Are Vizslas prone to cancer?", "answer": "They have higher rates of certain cancers including hemangiosarcoma and mast cell tumors. Unlimited coverage is valuable for potential cancer treatment." },
+    { "question": "Do Vizslas have allergy problems?", "answer": "Yes—skin and food allergies are relatively common. They may need special diets and ongoing medication." },
+    { "question": "How long do Vizslas live?", "answer": "12-14 years typically. Their longevity and active lifestyle make insurance a good long-term investment." }
+  ],
+  "finalCta": "Protect your velcro Vizsla from unexpected health costs. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Weimaraner", "slug": "weimaraner" },
+    { "name": "German Shorthaired Pointer", "slug": "german-shorthaired-pointer" },
+    { "name": "Wirehaired Vizsla", "slug": "wirehaired-vizsla" }
+  ]
+}

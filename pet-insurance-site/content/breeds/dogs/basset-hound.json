@@ -1,0 +1,81 @@
+{
+  "name": "Basset Hound",
+  "slug": "basset-hound",
+  "species": "dog",
+  "metaDescription": "Basset Hounds face ear infections, IVDD, and bloat. Compare the best pet insurance for Basset Hounds—coverage for back and ear issues.",
+  "intro": "Basset Hounds are laid-back, friendly dogs with iconic long ears and short legs. Those features bring health challenges including chronic ear infections, back problems, and bloat. Insurance helps manage these predictable conditions.",
+  "whyInsurance": "Bassets face chronic ear infections, IVDD (back problems), and bloat. Their body structure predisposes them to multiple issues. Insurance helps cover ongoing care and emergencies.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Chronic Ear Infections", "description": "Recurring otitis", "cost": "$200 - $1,000/year" },
+    { "name": "Intervertebral Disc Disease", "description": "Spinal disc problems", "cost": "$3,000 - $8,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twist emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Glaucoma", "description": "Eye pressure buildup", "cost": "$1,500 - $4,000" },
+    { "name": "Obesity", "description": "Weight-related issues", "cost": "$200 - $800/year" },
+    { "name": "Ectropion", "description": "Droopy eyelids", "cost": "$500 - $1,500" }
+  ],
+  "mustHave": [
+    "Ear infection coverage — Chronic issue in Bassets",
+    "IVDD/spinal coverage — Back problems common",
+    "Bloat coverage — Deep-chested breed",
+    "Eye condition coverage — Glaucoma risk"
+  ],
+  "redFlags": [
+    "Ear infection exclusions",
+    "IVDD exclusions",
+    "Bloat exclusions",
+    "Per-condition limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace covers chronic ear infections and ongoing conditions well—essential for Basset Hounds.",
+      "cost": "$35-58/mo",
+      "pros": ["Covers chronic ear infections", "Good spinal coverage", "Prescription coverage", "6-month orthopedic wait"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Basset's ear treatment, back surgery, or bloat emergency is fully covered.",
+      "cost": "$38-62/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month orthopedic wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Basset Hound owners.",
+      "cost": "$32-52/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Basset Hounds have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$28 - $45/month" },
+    { "age": "Adult (1-8 years)", "range": "$35 - $62/month" },
+    { "age": "Senior (9+ years)", "range": "$58 - $95+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Basset Hound?", "answer": "Yes. Bassets face chronic ear infections, back problems, and bloat risk. Insurance helps manage these predictable ongoing costs." },
+    { "question": "Why do Basset Hounds get ear infections?", "answer": "Their long, heavy ears trap moisture and limit airflow. Weekly cleaning helps but many Bassets still need regular veterinary ear treatment." },
+    { "question": "Do Basset Hounds have back problems?", "answer": "Yes—their long backs and short legs predispose them to IVDD. Avoid jumping and stairs. Keep them at healthy weight to reduce risk." },
+    { "question": "Are Bassets prone to bloat?", "answer": "Yes—their deep chest puts them at risk. Feed smaller meals, avoid exercise after eating, and know the symptoms." },
+    { "question": "How long do Basset Hounds live?", "answer": "10-12 years typically. Managing weight is crucial—obese Bassets have more health problems and shorter lives." }
+  ],
+  "finalCta": "Protect your lovable Basset Hound from chronic health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Bloodhound", "slug": "bloodhound" },
+    { "name": "Beagle", "slug": "beagle" },
+    { "name": "Dachshund", "slug": "dachshund" }
+  ]
+}

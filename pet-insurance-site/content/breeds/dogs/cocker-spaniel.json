@@ -1,0 +1,120 @@
+{
+  "name": "Cocker Spaniel",
+  "slug": "cocker-spaniel",
+  "species": "dog",
+  "metaDescription": "Cocker Spaniels face ear infections, eye problems, and hip dysplasia. Compare the best pet insurance for Cockers—coverage for chronic ear and eye issues.",
+  "intro": "Cocker Spaniels are cheerful, gentle dogs with beautiful flowing coats and floppy ears. Those gorgeous ears are prone to chronic infections, and the breed faces multiple eye conditions and hip dysplasia. Insurance helps manage these ongoing health needs.",
+  "whyInsurance": "Cockers face chronic ear infections (recurring vet visits), progressive eye diseases, and hip dysplasia. Their ears and eyes need regular care throughout life. Insurance helps cover both routine treatments and surgeries.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Chronic Ear Infections", "description": "Recurring otitis", "cost": "$200 - $1,000/year" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Cataracts", "description": "Eye lens clouding", "cost": "$2,500 - $5,000" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Cherry Eye", "description": "Third eyelid prolapse", "cost": "$500 - $1,500" },
+    { "name": "Autoimmune Hemolytic Anemia", "description": "Immune attacks red blood cells", "cost": "$1,000 - $5,000" }
+  ],
+  "mustHave": [
+    "Ear infection coverage — Chronic problem in this breed",
+    "Eye condition coverage — Multiple hereditary eye diseases",
+    "Orthopedic coverage — Hip dysplasia occurs",
+    "Chronic condition coverage — Many issues are ongoing"
+  ],
+  "redFlags": [
+    "Ear infection exclusions after first claim",
+    "Eye condition exclusions",
+    "Long orthopedic waiting periods",
+    "Per-condition limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace covers recurring ear infections and chronic eye conditions—both major concerns for Cockers. Their ongoing condition coverage is excellent.",
+      "cost": "$32-52/mo",
+      "pros": [
+        "Covers chronic ear infections",
+        "Good eye condition coverage",
+        "Prescription coverage",
+        "6-month orthopedic wait"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Cocker's ear treatments, eye surgeries, and hip issues are all fully covered. Great for a breed with multiple chronic concerns.",
+      "cost": "$35-55/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "No per-condition caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip dysplasia wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Solid coverage at competitive prices. Good choice for Cocker owners who want comprehensive protection without high premiums.",
+      "cost": "$28-48/mo",
+      "pros": [
+        "Competitive pricing",
+        "Covers hereditary conditions",
+        "Multiple plan options",
+        "Unlimited options available"
+      ],
+      "cons": [
+        "Some claim delays reported",
+        "Customer service varies"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Cocker Spaniels have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$26 - $42/month" },
+    { "age": "Adult (1-8 years)", "range": "$32 - $58/month" },
+    { "age": "Senior (9+ years)", "range": "$52 - $90+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Cocker Spaniel?",
+      "answer": "Yes. Cockers have chronic ear infections, multiple eye conditions, and hip dysplasia. These ongoing issues add up over time. Insurance helps manage both recurring costs and major procedures."
+    },
+    {
+      "question": "Why do Cocker Spaniels get so many ear infections?",
+      "answer": "Their long, floppy ears trap moisture and limit airflow, creating perfect conditions for bacteria and yeast. Regular cleaning helps, but many Cockers need ongoing veterinary treatment."
+    },
+    {
+      "question": "What eye problems do Cockers get?",
+      "answer": "Progressive Retinal Atrophy (gradual blindness), cataracts, cherry eye, and glaucoma all occur in the breed. Regular eye exams can catch issues early. Surgery may be needed for cataracts or cherry eye."
+    },
+    {
+      "question": "Are American and English Cocker Spaniels different?",
+      "answer": "Yes—they're separate breeds with similar health concerns. American Cockers are smaller with rounder heads. Both face ear, eye, and hip issues. Insurance recommendations apply to both."
+    },
+    {
+      "question": "How often should I clean my Cocker's ears?",
+      "answer": "Weekly cleaning is typically recommended. Use a vet-approved ear cleaner and dry thoroughly. Even with good care, some Cockers still develop infections due to ear structure."
+    }
+  ],
+  "finalCta": "Protect your Cocker Spaniel from chronic ear and eye issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "English Springer Spaniel", "slug": "english-springer-spaniel" },
+    { "name": "Cavalier King Charles Spaniel", "slug": "cavalier-king-charles-spaniel" },
+    { "name": "Field Spaniel", "slug": "field-spaniel" }
+  ]
+}
