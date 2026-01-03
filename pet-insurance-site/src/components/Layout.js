@@ -60,14 +60,14 @@ export default function Layout({ children, title, description }) {
         {/* Footer */}
         <footer className="bg-gray-900 text-gray-400 mt-20">
           <div className="container-wide py-12">
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-8">
               {/* Brand */}
-              <div className="md:col-span-1">
+              <div className="col-span-2 md:col-span-1">
                 <h3 className="text-xl font-display font-bold text-white mb-3">
                   🐾 PetInsureCompare
                 </h3>
                 <p className="text-sm leading-relaxed">
-                  We help pet owners find the right insurance coverage for their furry family members.
+                  Breed-specific pet insurance recommendations you can trust.
                 </p>
               </div>
 
@@ -93,23 +93,37 @@ export default function Layout({ children, title, description }) {
                 </ul>
               </div>
 
-              {/* Resources */}
+              {/* Guides */}
               <div>
-                <h4 className="text-white font-semibold mb-4">Resources</h4>
+                <h4 className="text-white font-semibold mb-4">Guides</h4>
                 <ul className="space-y-2 text-sm">
                   <li><Link href="/guides/is-pet-insurance-worth-it" className="hover:text-white">Is Pet Insurance Worth It?</Link></li>
                   <li><Link href="/guides/how-pet-insurance-works" className="hover:text-white">How Pet Insurance Works</Link></li>
                   <li><Link href="/reviews" className="hover:text-white">Provider Reviews</Link></li>
+                </ul>
+              </div>
+
+              {/* Company */}
+              <div>
+                <h4 className="text-white font-semibold mb-4">Company</h4>
+                <ul className="space-y-2 text-sm">
                   <li><Link href="/about" className="hover:text-white">About Us</Link></li>
+                  <li><Link href="/editorial-policy" className="hover:text-white">Editorial Policy</Link></li>
+                  <li><Link href="/contact" className="hover:text-white">Contact</Link></li>
                 </ul>
               </div>
             </div>
 
-            <div className="border-t border-gray-800 mt-10 pt-8 text-sm text-center">
-              <p>© {new Date().getFullYear()} PetInsureCompare. All rights reserved.</p>
-              <p className="mt-2 text-xs text-gray-500">
-                Affiliate Disclosure: We may earn a commission when you purchase through links on our site. This doesn't affect our recommendations.
-              </p>
+            {/* Bottom bar */}
+            <div className="border-t border-gray-800 mt-10 pt-8 text-sm">
+              <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+                <p>© {new Date().getFullYear()} PetInsureCompare. All rights reserved.</p>
+                <div className="flex flex-wrap gap-4 text-xs">
+                  <Link href="/privacy-policy" className="hover:text-white">Privacy Policy</Link>
+                  <Link href="/terms" className="hover:text-white">Terms of Service</Link>
+                  <Link href="/affiliate-disclosure" className="hover:text-white">Affiliate Disclosure</Link>
+                </div>
+              </div>
             </div>
           </div>
         </footer>
