@@ -1,0 +1,81 @@
+{
+  "name": "Great Pyrenees",
+  "slug": "great-pyrenees",
+  "species": "dog",
+  "metaDescription": "Great Pyrenees face bloat, hip dysplasia, and bone cancer. Compare the best pet insurance for Great Pyrenees—coverage for giant breed health issues.",
+  "intro": "Great Pyrenees are majestic, gentle guardians with thick white coats. Their giant size brings significant health challenges including bloat, hip dysplasia, and bone cancer. Insurance is essential for managing giant breed care costs.",
+  "whyInsurance": "Great Pyrenees face bloat (life-threatening emergency), hip/elbow dysplasia, and osteosarcoma. Giant breed treatment is expensive—larger drug doses, bigger equipment. Insurance is critical.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for joint conditions" },
+    { "name": "Spot", "highlight": "Best for giant breeds" }
+  ],
+  "healthIssues": [
+    { "name": "Bloat (GDV)", "description": "Life-threatening stomach twist", "cost": "$3,000 - $7,500" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Osteosarcoma", "description": "Bone cancer", "cost": "$5,000 - $10,000+" },
+    { "name": "Elbow Dysplasia", "description": "Elbow joint issues", "cost": "$2,000 - $4,000" },
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Addison's Disease", "description": "Adrenal insufficiency", "cost": "$500 - $2,000/year" }
+  ],
+  "mustHave": [
+    "Bloat coverage — Deep-chested breed at high risk",
+    "Cancer coverage — Osteosarcoma is common",
+    "Orthopedic coverage — Hip and elbow dysplasia",
+    "Unlimited or high limits — Giant breed care is expensive"
+  ],
+  "redFlags": [
+    "Bloat exclusions",
+    "Cancer exclusions or caps",
+    "Low annual limits (under $15,000)",
+    "Long orthopedic waits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps are essential for giant breeds. Bloat surgery, cancer treatment, hip surgery—all fully covered.",
+      "cost": "$55-95/mo",
+      "pros": ["No annual limits", "No cancer caps", "Covers hereditary conditions", "Fast claims"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Joint Conditions",
+      "description": "Embrace's 6-month orthopedic wait is valuable for dysplasia-prone Great Pyrenees.",
+      "cost": "$50-85/mo",
+      "pros": ["6-month orthopedic wait", "Covers hereditary conditions", "Good prescription coverage", "Diminishing deductible"],
+      "cons": ["Annual limits apply", "Higher premiums"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Spot",
+      "tagline": "Best for Giant Breeds",
+      "description": "Spot offers competitive rates for giant breeds without sacrificing coverage quality.",
+      "cost": "$48-80/mo",
+      "pros": ["Reasonable giant breed rates", "Covers hereditary conditions", "No upper age limit", "Customizable"],
+      "cons": ["14-day illness wait", "Some state variations"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Great Pyrenees have higher insurance costs due to size. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$45 - $75/month" },
+    { "age": "Adult (1-6 years)", "range": "$55 - $98/month" },
+    { "age": "Senior (7+ years)", "range": "$88 - $145+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Great Pyrenees?", "answer": "Absolutely essential. Giant breeds face bloat, cancer, and joint problems. Treatment is expensive. Insurance is non-negotiable." },
+    { "question": "Are Great Pyrenees prone to bloat?", "answer": "Yes—their deep chest puts them at high risk. Know the symptoms, have an emergency plan, and consider preventive gastropexy." },
+    { "question": "Do Great Pyrenees get cancer?", "answer": "Osteosarcoma (bone cancer) is more common in giant breeds. Treatment can exceed $10,000. Unlimited coverage is valuable." },
+    { "question": "How long do Great Pyrenees live?", "answer": "10-12 years typically—good for a giant breed. Managing their health conditions helps maximize lifespan." },
+    { "question": "Why is Great Pyrenees insurance expensive?", "answer": "Giant breeds cost more to treat—larger drug doses, bigger equipment. Combined with serious health risks, premiums reflect reality." }
+  ],
+  "finalCta": "Protect your majestic Great Pyrenees from giant breed health risks. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "St. Bernard", "slug": "st-bernard" },
+    { "name": "Newfoundland", "slug": "newfoundland" },
+    { "name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog" }
+  ]
+}

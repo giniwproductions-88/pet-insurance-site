@@ -1,0 +1,81 @@
+{
+  "name": "West Highland White Terrier",
+  "slug": "west-highland-white-terrier",
+  "species": "dog",
+  "metaDescription": "Westies face skin allergies, luxating patella, and liver disease. Compare the best pet insurance for West Highland White Terriers—coverage for chronic skin issues.",
+  "intro": "West Highland White Terriers (Westies) are confident, friendly dogs with distinctive white coats. They're notorious for skin allergies and also prone to knee problems and liver disease. Insurance helps manage these chronic health conditions.",
+  "whyInsurance": "Westies face severe skin allergies (often lifelong), luxating patella, and liver conditions. Skin issues alone can cost thousands over their lifetime. Insurance covers both chronic conditions and surgeries.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for allergies" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Atopic Dermatitis", "description": "Chronic skin allergies", "cost": "$500 - $3,000/year" },
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Copper Toxicosis", "description": "Liver copper buildup", "cost": "$1,000 - $5,000" },
+    { "name": "Pulmonary Fibrosis", "description": "Westie lung disease", "cost": "$500 - $2,000/year" },
+    { "name": "Legg-Calve-Perthes", "description": "Hip joint deterioration", "cost": "$1,500 - $3,000" },
+    { "name": "Addison's Disease", "description": "Adrenal insufficiency", "cost": "$500 - $2,000/year" }
+  ],
+  "mustHave": [
+    "Allergy/skin coverage — Chronic issue in Westies",
+    "Orthopedic coverage — Knee problems common",
+    "Liver condition coverage — Copper toxicosis occurs",
+    "Prescription coverage — Allergies need ongoing meds"
+  ],
+  "redFlags": [
+    "Skin/allergy exclusions",
+    "Liver condition exclusions",
+    "Low prescription coverage",
+    "Per-condition limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Allergies",
+      "description": "Embrace excels at covering chronic skin allergies—the #1 health issue for Westies. Strong prescription coverage for ongoing medications.",
+      "cost": "$30-52/mo",
+      "pros": ["Excellent allergy coverage", "Good prescription benefits", "Covers liver conditions", "6-month orthopedic wait"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Westie's allergy treatment, knee surgery, or any condition is fully covered.",
+      "cost": "$32-55/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month orthopedic wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Westie owners.",
+      "cost": "$28-48/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "West Highland White Terriers have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$24 - $40/month" },
+    { "age": "Adult (1-9 years)", "range": "$30 - $55/month" },
+    { "age": "Senior (10+ years)", "range": "$50 - $90+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Westie?", "answer": "Yes. Westies are notorious for chronic skin allergies that require lifelong treatment. Add knee problems and liver disease, and insurance becomes valuable." },
+    { "question": "Why do Westies have so many skin problems?", "answer": "Genetic predisposition makes them highly allergy-prone. Symptoms include itching, red skin, and ear infections. Most Westies need ongoing allergy management." },
+    { "question": "What is Westie lung disease?", "answer": "Idiopathic pulmonary fibrosis—a progressive lung disease particularly common in Westies. There's no cure, but treatment can manage symptoms." },
+    { "question": "What is copper toxicosis?", "answer": "A hereditary liver condition where copper accumulates to toxic levels. It can be managed with diet and medication if caught early. Some Westies need lifelong treatment." },
+    { "question": "How long do Westies live?", "answer": "12-16 years typically. Managing their skin and other chronic conditions helps maximize quality of life." }
+  ],
+  "finalCta": "Protect your Westie from chronic skin issues and health problems. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Scottish Terrier", "slug": "scottish-terrier" },
+    { "name": "Cairn Terrier", "slug": "cairn-terrier" },
+    { "name": "Miniature Schnauzer", "slug": "miniature-schnauzer" }
+  ]
+}

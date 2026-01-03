@@ -1,0 +1,81 @@
+{
+  "name": "Pug",
+  "slug": "pug",
+  "species": "dog",
+  "metaDescription": "Pugs face breathing problems, eye injuries, and skin infections. Compare the best pet insurance for Pugs—coverage for brachycephalic breed issues.",
+  "intro": "Pugs are charming, affectionate companions with unmistakable flat faces. That adorable face brings serious health challenges including breathing difficulties, eye problems, and skin fold infections. Insurance is essential for this high-maintenance breed.",
+  "whyInsurance": "Pugs face BOAS (breathing surgery), eye injuries from their prominent eyes, and chronic skin infections. These aren't rare—they're expected. Insurance helps manage the predictable costs of brachycephalic breed ownership.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Lemonade", "highlight": "Best budget option" }
+  ],
+  "healthIssues": [
+    { "name": "Brachycephalic Airway Syndrome", "description": "Breathing difficulties", "cost": "$500 - $3,500" },
+    { "name": "Eye Injuries", "description": "Ulcers, proptosis, dry eye", "cost": "$500 - $3,000" },
+    { "name": "Skin Fold Dermatitis", "description": "Infections in wrinkles", "cost": "$200 - $1,000/year" },
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Pug Dog Encephalitis", "description": "Brain inflammation", "cost": "$2,000 - $5,000" }
+  ],
+  "mustHave": [
+    "Respiratory coverage — BOAS surgery is common",
+    "Eye condition coverage — Prominent eyes get injured",
+    "Chronic condition coverage — Skin issues are ongoing",
+    "No brachycephalic exclusions — Some insurers limit flat-faced breeds"
+  ],
+  "redFlags": [
+    "Brachycephalic breed exclusions",
+    "Eye condition exclusions",
+    "Skin condition exclusions",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace covers chronic skin infections and respiratory issues well. Strong choice for Pugs with their ongoing health needs.",
+      "cost": "$35-58/mo",
+      "pros": ["Good chronic coverage", "Covers BOAS", "Skin condition coverage", "Prescription coverage"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Pug's breathing surgery, eye treatment, or any condition is fully covered.",
+      "cost": "$38-62/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month orthopedic wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Affordable coverage for Pug owners. Covers hereditary conditions at competitive prices.",
+      "cost": "$25-45/mo",
+      "pros": ["Affordable", "Fast claims", "Covers hereditary conditions", "Easy app"],
+      "cons": ["Add-ons increase cost", "Newer company"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Pugs have moderate to high insurance costs due to health risks. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$30 - $48/month" },
+    { "age": "Adult (1-7 years)", "range": "$38 - $65/month" },
+    { "age": "Senior (8+ years)", "range": "$60 - $100+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Pug?", "answer": "Yes. Pugs commonly need breathing surgery, eye treatment, and ongoing skin care. These aren't rare—they're expected. Insurance helps manage predictable costs." },
+    { "question": "Do all Pugs have breathing problems?", "answer": "Most do to some degree. Their flat faces restrict airways. Some need surgery to breathe comfortably. Avoid heat and strenuous exercise." },
+    { "question": "Why do Pugs have eye problems?", "answer": "Their prominent eyes are easily injured and prone to ulcers, dry eye, and proptosis (eye popping out). Protect them from sharp objects and rough play." },
+    { "question": "What is Pug Dog Encephalitis?", "answer": "A fatal brain inflammation unique to Pugs. It's hereditary and not treatable. Genetic testing can identify at-risk dogs." },
+    { "question": "How long do Pugs live?", "answer": "12-15 years typically. Managing their breathing and weight helps maximize lifespan and quality of life." }
+  ],
+  "finalCta": "Protect your Pug from their predictable health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "French Bulldog", "slug": "french-bulldog" },
+    { "name": "Boston Terrier", "slug": "boston-terrier" },
+    { "name": "English Bulldog", "slug": "english-bulldog" }
+  ]
+}

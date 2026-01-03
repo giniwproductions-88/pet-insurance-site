@@ -1,0 +1,81 @@
+{
+  "name": "Alaskan Malamute",
+  "slug": "alaskan-malamute",
+  "species": "dog",
+  "metaDescription": "Alaskan Malamutes face hip dysplasia, eye conditions, and bloat. Compare the best pet insurance for Malamutes—coverage for large breed health issues.",
+  "intro": "Alaskan Malamutes are powerful, affectionate sled dogs built for endurance. They're prone to hip dysplasia, inherited eye conditions, and bloat. Their large size means higher treatment costs. Insurance helps manage these significant health risks.",
+  "whyInsurance": "Malamutes face hip dysplasia, progressive retinal atrophy, and bloat. Their size increases treatment costs. Insurance protects against both hereditary conditions and emergencies.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for hereditary conditions" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Bloat (GDV)", "description": "Stomach twist emergency", "cost": "$3,000 - $7,500" },
+    { "name": "Chondrodysplasia", "description": "Dwarfism/cartilage disorder", "cost": "$500 - $3,000" },
+    { "name": "Hypothyroidism", "description": "Underactive thyroid", "cost": "$200 - $600/year" },
+    { "name": "Cataracts", "description": "Eye lens clouding", "cost": "$2,500 - $5,000" }
+  ],
+  "mustHave": [
+    "Orthopedic coverage — Hip dysplasia is common",
+    "Eye condition coverage — PRA and cataracts occur",
+    "Bloat coverage — Deep-chested breed",
+    "Hereditary condition coverage — Multiple genetic issues"
+  ],
+  "redFlags": [
+    "Eye condition exclusions",
+    "Bloat exclusions",
+    "Long orthopedic waits",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Malamute's hip surgery, eye treatment, or bloat emergency is fully covered.",
+      "cost": "$48-80/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month hip wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Hereditary Conditions",
+      "description": "Embrace offers comprehensive hereditary coverage for Malamutes with multiple genetic health risks.",
+      "cost": "$42-70/mo",
+      "pros": ["Excellent hereditary coverage", "6-month orthopedic wait", "Good eye coverage", "Prescription coverage"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Malamute owners.",
+      "cost": "$38-62/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Alaskan Malamutes have moderate to high insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$38 - $60/month" },
+    { "age": "Adult (1-8 years)", "range": "$45 - $82/month" },
+    { "age": "Senior (9+ years)", "range": "$72 - $120+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for an Alaskan Malamute?", "answer": "Yes. Malamutes face hip dysplasia, hereditary eye conditions, and bloat risk. Their size increases treatment costs. Insurance is recommended." },
+    { "question": "Do Alaskan Malamutes have eye problems?", "answer": "Yes—Progressive Retinal Atrophy (causes gradual blindness) and cataracts both occur. Annual eye exams are recommended. Genetic testing identifies carriers." },
+    { "question": "Are Malamutes prone to bloat?", "answer": "Yes—their deep chest puts them at risk. Feed smaller meals, avoid exercise after eating, and know the symptoms." },
+    { "question": "What is chondrodysplasia in Malamutes?", "answer": "A hereditary condition causing dwarfism and cartilage problems. DNA testing identifies carriers. Reputable breeders screen their dogs." },
+    { "question": "How long do Alaskan Malamutes live?", "answer": "10-14 years typically. Managing their joint and eye health helps maximize quality of life." }
+  ],
+  "finalCta": "Protect your powerful Malamute from hereditary health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Siberian Husky", "slug": "siberian-husky" },
+    { "name": "Akita", "slug": "akita" },
+    { "name": "Samoyed", "slug": "samoyed" }
+  ]
+}

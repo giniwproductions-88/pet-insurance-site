@@ -1,0 +1,81 @@
+{
+  "name": "Shiba Inu",
+  "slug": "shiba-inu",
+  "species": "dog",
+  "metaDescription": "Shiba Inus face allergies, hip dysplasia, and eye conditions. Compare the best pet insurance for Shibas—coverage for this popular Japanese breed.",
+  "intro": "Shiba Inus are spirited, independent Japanese dogs known for their fox-like appearance and bold personalities. They're prone to allergies, hip dysplasia, and eye conditions. Insurance helps manage these hereditary health concerns.",
+  "whyInsurance": "Shibas face skin allergies (lifelong management), hip dysplasia, and multiple eye conditions. Their popularity has led to some poor breeding. Insurance covers both chronic conditions and hereditary issues.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for allergies" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pets Best", "highlight": "Best value option" }
+  ],
+  "healthIssues": [
+    { "name": "Allergies", "description": "Skin and food sensitivities", "cost": "$500 - $2,000/year" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,500 - $7,000" },
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Glaucoma", "description": "Eye pressure buildup", "cost": "$1,500 - $4,000" },
+    { "name": "Cataracts", "description": "Eye lens clouding", "cost": "$2,500 - $5,000" },
+    { "name": "Hypothyroidism", "description": "Underactive thyroid", "cost": "$200 - $600/year" }
+  ],
+  "mustHave": [
+    "Allergy coverage — Chronic issue in Shibas",
+    "Orthopedic coverage — Hip and knee problems",
+    "Eye condition coverage — Glaucoma and cataracts",
+    "Hereditary condition coverage — Multiple genetic issues"
+  ],
+  "redFlags": [
+    "Allergy exclusions",
+    "Eye condition exclusions",
+    "Long orthopedic waits",
+    "Low prescription coverage"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Allergies",
+      "description": "Embrace excels at covering chronic allergies with strong prescription benefits. Good fit for allergy-prone Shibas.",
+      "cost": "$35-55/mo",
+      "pros": ["Excellent allergy coverage", "Good prescription benefits", "6-month orthopedic wait", "Eye conditions covered"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Shiba's allergy treatment, hip surgery, or eye care is fully covered.",
+      "cost": "$38-60/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "No per-condition caps"],
+      "cons": ["No wellness coverage", "12-month orthopedic wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pets Best",
+      "tagline": "Best Value Option",
+      "description": "Good coverage at competitive prices for Shiba Inu owners.",
+      "cost": "$32-52/mo",
+      "pros": ["Competitive pricing", "Covers hereditary conditions", "Multiple plans", "Unlimited available"],
+      "cons": ["Some claim delays", "Service varies"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Shiba Inus have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$28 - $45/month" },
+    { "age": "Adult (1-9 years)", "range": "$35 - $60/month" },
+    { "age": "Senior (10+ years)", "range": "$55 - $95+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Shiba Inu?", "answer": "Yes. Shibas commonly face allergies, joint problems, and eye conditions. Insurance helps manage these hereditary and chronic issues." },
+    { "question": "Do Shiba Inus have allergy problems?", "answer": "Yes—skin and food allergies are common. Symptoms include itching, licking, and skin infections. Treatment often involves lifelong medication or special diets." },
+    { "question": "Are Shiba Inus healthy dogs?", "answer": "Generally healthier than many breeds, but their popularity has led to poor breeding practices. Buy from health-tested breeders to reduce risk." },
+    { "question": "What eye problems do Shibas get?", "answer": "Glaucoma and cataracts both occur in the breed. Regular eye exams help catch issues early. Both may require surgery." },
+    { "question": "How long do Shiba Inus live?", "answer": "13-16 years typically—longer than many breeds. Their longevity makes managing chronic conditions important." }
+  ],
+  "finalCta": "Protect your spirited Shiba Inu from hereditary health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Akita", "slug": "akita" },
+    { "name": "Basenji", "slug": "basenji" },
+    { "name": "Finnish Spitz", "slug": "finnish-spitz" }
+  ]
+}

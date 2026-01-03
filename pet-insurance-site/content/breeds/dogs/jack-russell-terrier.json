@@ -1,0 +1,81 @@
+{
+  "name": "Jack Russell Terrier",
+  "slug": "jack-russell-terrier",
+  "species": "dog",
+  "metaDescription": "Jack Russell Terriers face luxating patella, eye problems, and deafness. Compare the best pet insurance for Jack Russells—coverage for this energetic breed.",
+  "intro": "Jack Russell Terriers are fearless, energetic dogs with huge personalities in small bodies. They're prone to knee problems, eye conditions, and deafness. Their intense activity level also means more injury risk. Insurance covers both hereditary issues and accidents.",
+  "whyInsurance": "Jack Russells face luxating patella, lens luxation (eye emergency), and hereditary deafness. Their fearless nature leads to injuries. Insurance protects against both genetic conditions and accidents.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for eye conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Lemonade", "highlight": "Best budget option" }
+  ],
+  "healthIssues": [
+    { "name": "Luxating Patella", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Lens Luxation", "description": "Eye lens displacement", "cost": "$1,500 - $3,000" },
+    { "name": "Legg-Calve-Perthes", "description": "Hip joint deterioration", "cost": "$1,500 - $3,000" },
+    { "name": "Congenital Deafness", "description": "Hereditary hearing loss", "cost": "$300 - $500 (testing)" },
+    { "name": "Ataxia", "description": "Neurological disorder", "cost": "$500 - $2,000" },
+    { "name": "Sports Injuries", "description": "Sprains, fractures", "cost": "$500 - $4,000" }
+  ],
+  "mustHave": [
+    "Eye condition coverage — Lens luxation is an emergency",
+    "Orthopedic coverage — Knee and hip problems common",
+    "Accident coverage — Fearless breed gets injured",
+    "Hereditary condition coverage — Multiple genetic issues"
+  ],
+  "redFlags": [
+    "Eye condition exclusions",
+    "Luxating patella exclusions",
+    "Long orthopedic waits",
+    "Sports injury exclusions"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Eye Conditions",
+      "description": "Embrace covers lens luxation and other eye emergencies well. Strong choice for this eye-problem-prone breed.",
+      "cost": "$28-48/mo",
+      "pros": ["Good eye coverage", "6-month orthopedic wait", "Covers hereditary conditions", "Strong accident coverage"],
+      "cons": ["Annual limits apply", "Wellness costs extra"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Jack Russell's knee surgery, eye treatment, or injuries are fully covered.",
+      "cost": "$30-50/mo",
+      "pros": ["No annual limits", "Covers hereditary conditions", "Fast claims", "Strong accident coverage"],
+      "cons": ["No wellness coverage", "12-month orthopedic wait"],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Affordable coverage for Jack Russell owners. Good protection at low cost.",
+      "cost": "$20-38/mo",
+      "pros": ["Very affordable", "Fast claims", "Covers hereditary conditions", "Easy app"],
+      "cons": ["Add-ons increase cost", "Newer company"],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Jack Russell Terriers have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Puppy (8 weeks - 1 year)", "range": "$22 - $38/month" },
+    { "age": "Adult (1-10 years)", "range": "$28 - $52/month" },
+    { "age": "Senior (11+ years)", "range": "$48 - $85+/month" }
+  ],
+  "faqs": [
+    { "question": "Is pet insurance worth it for a Jack Russell?", "answer": "Yes. Jack Russells face knee problems, eye emergencies, and frequent injuries from their fearless nature. Insurance helps cover both genetic issues and accidents." },
+    { "question": "What is lens luxation?", "answer": "The eye lens detaches and moves out of position. It's an emergency requiring immediate surgery to save vision. Jack Russells are predisposed." },
+    { "question": "Do Jack Russells get injured often?", "answer": "Their fearless, high-energy nature leads to more injuries than calmer breeds. They'll jump off things, chase anything, and ignore pain. Good accident coverage is valuable." },
+    { "question": "Are Jack Russells healthy dogs?", "answer": "Generally hardy, but prone to specific issues like knee and eye problems. Their 13-16 year lifespan is above average." },
+    { "question": "Is there a difference between Jack Russell and Parson Russell Terriers?", "answer": "They're closely related with similar health concerns. Parsons are slightly taller. Insurance recommendations apply to both." }
+  ],
+  "finalCta": "Protect your fearless Jack Russell from injuries and health issues. Compare quotes today.",
+  "relatedBreeds": [
+    { "name": "Parson Russell Terrier", "slug": "parson-russell-terrier" },
+    { "name": "Rat Terrier", "slug": "rat-terrier" },
+    { "name": "Fox Terrier", "slug": "fox-terrier" }
+  ]
+}
