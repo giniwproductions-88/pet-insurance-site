@@ -27,7 +27,10 @@ export default function Layout({ children, title, description }) {
             
             <nav className="hidden md:flex items-center gap-8">
               <Link href="/breeds" className="text-gray-600 hover:text-gray-900 font-medium">
-                By Breed
+                Dogs
+              </Link>
+              <Link href="/cats" className="text-gray-600 hover:text-gray-900 font-medium">
+                Cats
               </Link>
               <Link href="/reviews" className="text-gray-600 hover:text-gray-900 font-medium">
                 Reviews
@@ -59,18 +62,18 @@ export default function Layout({ children, title, description }) {
           <div className="container-wide py-12">
             <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
               {/* Brand */}
-              <div className="md:col-span-2">
+              <div className="md:col-span-1">
                 <h3 className="text-xl font-display font-bold text-white mb-3">
                   🐾 PetInsureCompare
                 </h3>
-                <p className="text-sm leading-relaxed max-w-md">
-                  We help pet owners find the right insurance coverage. Our breed-specific guides break down what matters most for your furry family member.
+                <p className="text-sm leading-relaxed">
+                  We help pet owners find the right insurance coverage for their furry family members.
                 </p>
               </div>
 
-              {/* Links */}
+              {/* Dog Breeds */}
               <div>
-                <h4 className="text-white font-semibold mb-4">Popular Breeds</h4>
+                <h4 className="text-white font-semibold mb-4">Popular Dogs</h4>
                 <ul className="space-y-2 text-sm">
                   <li><Link href="/breeds/french-bulldog" className="hover:text-white">French Bulldog</Link></li>
                   <li><Link href="/breeds/golden-retriever" className="hover:text-white">Golden Retriever</Link></li>
@@ -79,6 +82,18 @@ export default function Layout({ children, title, description }) {
                 </ul>
               </div>
 
+              {/* Cat Breeds */}
+              <div>
+                <h4 className="text-white font-semibold mb-4">Popular Cats</h4>
+                <ul className="space-y-2 text-sm">
+                  <li><Link href="/cats/persian" className="hover:text-white">Persian</Link></li>
+                  <li><Link href="/cats/maine-coon" className="hover:text-white">Maine Coon</Link></li>
+                  <li><Link href="/cats/bengal" className="hover:text-white">Bengal</Link></li>
+                  <li><Link href="/cats/ragdoll" className="hover:text-white">Ragdoll</Link></li>
+                </ul>
+              </div>
+
+              {/* Resources */}
               <div>
                 <h4 className="text-white font-semibold mb-4">Resources</h4>
                 <ul className="space-y-2 text-sm">
