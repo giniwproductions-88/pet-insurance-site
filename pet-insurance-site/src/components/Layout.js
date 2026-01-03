@@ -26,14 +26,14 @@ export default function Layout({ children, title, description }) {
             </Link>
             
             <nav className="hidden md:flex items-center gap-8">
+              <Link href="/popular-breeds" className="text-gray-600 hover:text-gray-900 font-medium">
+                Top 10 Dogs
+              </Link>
               <Link href="/breeds" className="text-gray-600 hover:text-gray-900 font-medium">
-                Dogs
+                All Dogs
               </Link>
               <Link href="/cats" className="text-gray-600 hover:text-gray-900 font-medium">
                 Cats
-              </Link>
-              <Link href="/reviews" className="text-gray-600 hover:text-gray-900 font-medium">
-                Reviews
               </Link>
               <Link href="/guides" className="text-gray-600 hover:text-gray-900 font-medium">
                 Guides
@@ -75,10 +75,11 @@ export default function Layout({ children, title, description }) {
               <div>
                 <h4 className="text-white font-semibold mb-4">Popular Dogs</h4>
                 <ul className="space-y-2 text-sm">
+                  <li><Link href="/popular-breeds" className="hover:text-white">Top 10 Breeds →</Link></li>
                   <li><Link href="/breeds/french-bulldog" className="hover:text-white">French Bulldog</Link></li>
                   <li><Link href="/breeds/golden-retriever" className="hover:text-white">Golden Retriever</Link></li>
-                  <li><Link href="/breeds/german-shepherd" className="hover:text-white">German Shepherd</Link></li>
                   <li><Link href="/breeds/labrador-retriever" className="hover:text-white">Labrador Retriever</Link></li>
+                  <li><Link href="/breeds" className="hover:text-white">All 51 Breeds →</Link></li>
                 </ul>
               </div>
 
