@@ -97,7 +97,7 @@ export default function Home() {
                   <path d="M32 8c-4.4 0-8 3.6-8 8 0 2.5 1.2 4.8 3 6.3-5.8 2.3-10 7.9-10 14.4v11.3c0 4.4 3.6 8 8 8h14c4.4 0 8-3.6 8-8V36.7c0-6.5-4.2-12.1-10-14.4 1.8-1.5 3-3.8 3-6.3 0-4.4-3.6-8-8-8zm-12 4c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm24 0c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zM12 20c-2.2 0-4 1.8-4 4v8c0 2.2 1.8 4 4 4s4-1.8 4-4v-8c0-2.2-1.8-4-4-4zm40 0c-2.2 0-4 1.8-4 4v8c0 2.2 1.8 4 4 4s4-1.8 4-4v-8c0-2.2-1.8-4-4-4z"/>
                 </svg>
                 <span className="text-lg font-semibold text-gray-900 group-hover:text-brand-600">Dog</span>
-                <span className="text-sm text-gray-500">19 breeds covered</span>
+                <span className="text-sm text-gray-500">50 breeds covered</span>
               </Link>
               
               <Link
