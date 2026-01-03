@@ -1,0 +1,120 @@
+{
+  "name": "Persian",
+  "slug": "persian",
+  "species": "cat",
+  "metaDescription": "Persian cats face PKD, breathing problems, and eye issues. Compare the best pet insurance for Persians—coverage for kidney disease, brachycephalic conditions & more.",
+  "intro": "Persian cats are gentle, affectionate companions with significant health risks due to their flat faces and genetic predispositions. They're prone to polycystic kidney disease (PKD), breathing difficulties, and chronic eye problems. Insurance is essential for managing these ongoing costs.",
+  "whyInsurance": "Persians face PKD (requires lifelong monitoring and treatment), breathing issues from their flat faces, and chronic eye conditions needing regular care. These aren't one-time costs—they're ongoing expenses throughout your cat's life.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions" },
+    { "name": "Lemonade", "highlight": "Best budget option" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" }
+  ],
+  "healthIssues": [
+    { "name": "Polycystic Kidney Disease (PKD)", "description": "Hereditary cysts in kidneys", "cost": "$500 - $1,500/year ongoing" },
+    { "name": "Brachycephalic Airway Syndrome", "description": "Breathing difficulties from flat face", "cost": "$500 - $3,000" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative eye disease", "cost": "$500 - $2,000" },
+    { "name": "Entropion", "description": "Eyelids rolling inward", "cost": "$1,000 - $2,500" },
+    { "name": "Dental Disease", "description": "Overcrowded teeth issues", "cost": "$500 - $2,000" },
+    { "name": "Hypertrophic Cardiomyopathy", "description": "Heart muscle thickening", "cost": "$500 - $1,500/year" }
+  ],
+  "mustHave": [
+    "Hereditary condition coverage — PKD is extremely common in Persians",
+    "Chronic condition coverage — Many issues require lifelong treatment",
+    "Eye condition coverage — Multiple hereditary eye problems",
+    "No per-condition limits — Ongoing costs add up fast"
+  ],
+  "redFlags": [
+    "PKD or kidney disease exclusions",
+    "Brachycephalic breed exclusions",
+    "Eye condition exclusions",
+    "Low annual limits (under $10,000)"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace excels at covering ongoing conditions like PKD and chronic eye issues. Their prescription coverage is particularly valuable for Persians needing long-term medication.",
+      "cost": "$25-45/mo",
+      "pros": [
+        "Excellent chronic condition coverage",
+        "Good prescription drug coverage",
+        "Covers hereditary conditions",
+        "Diminishing deductible feature"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Lemonade offers competitive rates for Persian owners while still covering hereditary conditions. Good option if you want solid coverage without premium prices.",
+      "cost": "$20-38/mo",
+      "pros": [
+        "Affordable premiums",
+        "Fast claims processing",
+        "Covers hereditary conditions",
+        "Easy app-based management"
+      ],
+      "cons": [
+        "Newer company",
+        "Add-ons increase price"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps on claims means your Persian's PKD treatment, eye surgeries, and any other issues are fully covered. Peace of mind for a high-risk breed.",
+      "cost": "$28-48/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "Straightforward policy"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "Can't change deductible later"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Persian cats have moderate to high insurance costs due to their health risks. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$18 - $35/month" },
+    { "age": "Adult (1-7 years)", "range": "$25 - $50/month" },
+    { "age": "Senior (8+ years)", "range": "$45 - $85+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Persian cat?",
+      "answer": "Absolutely. Persians are one of the highest-risk breeds due to PKD, breathing issues, and eye problems. Most Persians will need ongoing veterinary care, making insurance a smart investment."
+    },
+    {
+      "question": "What is PKD in Persian cats?",
+      "answer": "Polycystic Kidney Disease causes cysts to form in the kidneys. It's hereditary and affects up to 40% of Persians. There's no cure, but early detection and management can extend quality of life. Insurance helps cover ongoing monitoring and treatment."
+    },
+    {
+      "question": "Do all insurance companies cover Persian cats?",
+      "answer": "Most do, but some have restrictions on brachycephalic (flat-faced) breeds. Always confirm hereditary conditions and breathing issues are covered before purchasing."
+    },
+    {
+      "question": "Are Persian cats expensive to insure?",
+      "answer": "Slightly higher than average due to their health risks, but not the most expensive. Expect to pay $25-50/month for good coverage. The cost is justified given their likelihood of health issues."
+    },
+    {
+      "question": "Should I get a wellness plan for my Persian?",
+      "answer": "Consider it. Persians benefit from regular dental cleanings (due to overcrowded teeth) and eye exams. A wellness plan can help offset these routine costs."
+    }
+  ],
+  "finalCta": "Protect your Persian from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Himalayan", "slug": "himalayan" },
+    { "name": "Exotic Shorthair", "slug": "exotic-shorthair" },
+    { "name": "British Shorthair", "slug": "british-shorthair" }
+  ]
+}

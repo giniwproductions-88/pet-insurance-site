@@ -1,0 +1,120 @@
+{
+  "name": "British Shorthair",
+  "slug": "british-shorthair",
+  "species": "cat",
+  "metaDescription": "British Shorthairs face HCM, obesity, and hemophilia B. Compare the best pet insurance for British Shorthairs—coverage for heart disease, weight issues & more.",
+  "intro": "British Shorthairs are calm, easygoing cats with a distinctive round face and plush coat. Their laid-back nature makes them prone to obesity, and they face risks for HCM and a genetic bleeding disorder. Insurance helps manage these potential health costs.",
+  "whyInsurance": "British Shorthairs face HCM (heart disease), obesity-related problems, and some carry hemophilia B (a bleeding disorder). Their sedentary lifestyle increases weight-related health risks. Insurance provides protection against major expenses.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for heart conditions" },
+    { "name": "Pumpkin", "highlight": "Best for weight management" }
+  ],
+  "healthIssues": [
+    { "name": "Hypertrophic Cardiomyopathy (HCM)", "description": "Heart muscle thickening", "cost": "$500 - $2,000/year ongoing" },
+    { "name": "Obesity", "description": "Weight-related complications", "cost": "$200 - $800/year" },
+    { "name": "Hemophilia B", "description": "Genetic bleeding disorder", "cost": "$500 - $3,000+" },
+    { "name": "Polycystic Kidney Disease", "description": "Cysts in kidneys", "cost": "$500 - $1,500/year" },
+    { "name": "Diabetes", "description": "Often weight-related", "cost": "$500 - $2,000/year" },
+    { "name": "Dental Disease", "description": "Periodontal problems", "cost": "$500 - $2,000" }
+  ],
+  "mustHave": [
+    "Cardiac coverage — HCM is common in British Shorthairs",
+    "Hereditary condition coverage — Hemophilia B is genetic",
+    "Chronic condition coverage — Diabetes may require lifelong treatment",
+    "No breed-specific exclusions — Verify coverage before purchasing"
+  ],
+  "redFlags": [
+    "Heart condition exclusions",
+    "Blood disorder exclusions",
+    "Diabetes exclusions",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your British Shorthair's heart treatment, diabetes management, or emergency surgery is fully covered. Simple, comprehensive protection.",
+      "cost": "$26-46/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions including HCM",
+        "Fast claims processing",
+        "Straightforward policy"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "Can't change deductible later"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Heart Conditions",
+      "description": "Embrace offers strong cardiac coverage with good prescription benefits—important if your British Shorthair needs heart medication long-term.",
+      "cost": "$24-44/mo",
+      "pros": [
+        "Excellent cardiac coverage",
+        "Strong prescription coverage",
+        "Covers hereditary conditions",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pumpkin",
+      "tagline": "Best for Weight Management",
+      "description": "Pumpkin's preventive care options help manage your British Shorthair's weight through routine care and nutrition support. Solid core coverage too.",
+      "cost": "$22-42/mo",
+      "pros": [
+        "Good preventive care options",
+        "Covers hereditary conditions",
+        "90% reimbursement available",
+        "Nutrition counseling coverage"
+      ],
+      "cons": [
+        "Preventive care costs extra",
+        "14-day illness wait"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "British Shorthairs have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$18 - $32/month" },
+    { "age": "Adult (1-7 years)", "range": "$24 - $48/month" },
+    { "age": "Senior (8+ years)", "range": "$45 - $85+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a British Shorthair?",
+      "answer": "Yes. British Shorthairs are prone to HCM and obesity-related conditions like diabetes. Their calm nature is endearing but increases weight risks. Insurance costs are reasonable for the protection provided."
+    },
+    {
+      "question": "Do British Shorthairs have heart problems?",
+      "answer": "HCM is more common in British Shorthairs than many breeds. Regular cardiac screening is recommended. Reputable breeders test their cats, but the condition can develop later in life."
+    },
+    {
+      "question": "What is hemophilia B in cats?",
+      "answer": "Hemophilia B is a genetic bleeding disorder where blood doesn't clot properly. It's found in British Shorthairs and can cause serious complications during surgery or injury. Genetic testing can identify carriers."
+    },
+    {
+      "question": "Are British Shorthairs prone to obesity?",
+      "answer": "Yes—their laid-back, sedentary nature makes weight gain easy. Obesity leads to diabetes, joint problems, and other issues. Monitor diet carefully and encourage regular play."
+    },
+    {
+      "question": "How long do British Shorthairs live?",
+      "answer": "Typically 12-17 years with proper care. Maintaining healthy weight and regular vet checkups (including heart screenings) help maximize lifespan."
+    }
+  ],
+  "finalCta": "Protect your easygoing British Shorthair from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Scottish Fold", "slug": "scottish-fold" },
+    { "name": "Chartreux", "slug": "chartreux" },
+    { "name": "Russian Blue", "slug": "russian-blue" }
+  ]
+}

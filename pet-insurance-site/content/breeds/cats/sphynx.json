@@ -1,0 +1,120 @@
+{
+  "name": "Sphynx",
+  "slug": "sphynx",
+  "species": "cat",
+  "metaDescription": "Sphynx cats face HCM, skin conditions, and respiratory issues. Compare the best pet insurance for Sphynx cats—coverage for heart disease, skin problems & more.",
+  "intro": "Sphynx cats are affectionate, attention-loving companions known for their hairless appearance. Their unique physiology brings specific health challenges—HCM, chronic skin conditions, and temperature regulation issues. Insurance helps manage these ongoing care needs.",
+  "whyInsurance": "Sphynx cats face HCM (very common in the breed), recurring skin problems requiring regular treatment, dental issues, and respiratory infections. Their lack of fur also means more skin injuries. These add up to significant veterinary costs.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for skin conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Lemonade", "highlight": "Best budget option" }
+  ],
+  "healthIssues": [
+    { "name": "Hypertrophic Cardiomyopathy (HCM)", "description": "Heart muscle thickening", "cost": "$500 - $2,000/year ongoing" },
+    { "name": "Skin Conditions", "description": "Oil buildup, infections, irritation", "cost": "$200 - $800/year" },
+    { "name": "Urticaria Pigmentosa", "description": "Skin lesions and sores", "cost": "$300 - $1,000" },
+    { "name": "Respiratory Infections", "description": "Prone to upper respiratory issues", "cost": "$200 - $600" },
+    { "name": "Dental Disease", "description": "Periodontal problems", "cost": "$500 - $2,000" },
+    { "name": "Sunburn/Skin Injuries", "description": "No fur protection", "cost": "$100 - $500" }
+  ],
+  "mustHave": [
+    "Cardiac coverage — HCM is extremely common in Sphynx",
+    "Skin condition coverage — Ongoing dermatological issues",
+    "Dental coverage — Prone to periodontal disease",
+    "No breed-specific exclusions — Some insurers exclude hairless breeds"
+  ],
+  "redFlags": [
+    "Heart condition exclusions",
+    "Skin condition exclusions or limits",
+    "Dental disease exclusions",
+    "Hairless breed surcharges or exclusions"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Skin Conditions",
+      "description": "Embrace offers strong coverage for chronic skin conditions and dermatological issues—essential for Sphynx cats who need regular skin care and treatment.",
+      "cost": "$28-48/mo",
+      "pros": [
+        "Good skin condition coverage",
+        "Covers hereditary conditions",
+        "Strong prescription coverage",
+        "Dental illness coverage"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps on claims means your Sphynx's heart treatment, skin conditions, and dental work are all fully covered. Peace of mind for a high-maintenance breed.",
+      "cost": "$30-52/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions including HCM",
+        "Fast claims processing",
+        "Straightforward policy"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "No dental coverage for cleanings"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Affordable coverage for Sphynx owners who want protection without premium prices. Covers hereditary conditions including HCM.",
+      "cost": "$22-42/mo",
+      "pros": [
+        "Affordable premiums",
+        "Fast claims via app",
+        "Covers hereditary conditions",
+        "Optional wellness add-on"
+      ],
+      "cons": [
+        "Newer company",
+        "Add-ons increase price quickly"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Sphynx cats have moderate to high insurance costs due to their unique health needs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$22 - $38/month" },
+    { "age": "Adult (1-7 years)", "range": "$28 - $55/month" },
+    { "age": "Senior (8+ years)", "range": "$50 - $95+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Sphynx cat?",
+      "answer": "Yes. Sphynx cats are prone to HCM (very common in the breed), chronic skin issues, and dental disease. Their unique needs mean higher vet bills than average cats. Insurance is a smart investment."
+    },
+    {
+      "question": "Do Sphynx cats have a lot of health problems?",
+      "answer": "They have specific health challenges rather than overall poor health. HCM is the biggest concern, affecting a significant percentage of Sphynx. Skin care is ongoing but manageable. With proper care, they live 12-15 years."
+    },
+    {
+      "question": "Why do Sphynx cats need special skin care?",
+      "answer": "Without fur to absorb oils, Sphynx cats develop oily skin that needs regular cleaning. They're also prone to skin infections, sunburn, and temperature-related issues. Insurance helps when skin problems need veterinary treatment."
+    },
+    {
+      "question": "Are Sphynx cats more expensive to insure?",
+      "answer": "Slightly higher than average due to HCM prevalence and skin issues. Expect $28-55/month for good coverage. Some insurers may have breed restrictions—always verify before purchasing."
+    },
+    {
+      "question": "Should I get wellness coverage for my Sphynx?",
+      "answer": "Consider it. Sphynx cats benefit from regular dental cleanings and skin checks. A wellness plan can help offset routine care costs, though compare prices—sometimes paying out of pocket is cheaper."
+    }
+  ],
+  "finalCta": "Protect your unique Sphynx from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Devon Rex", "slug": "devon-rex" },
+    { "name": "Cornish Rex", "slug": "cornish-rex" },
+    { "name": "Peterbald", "slug": "peterbald" }
+  ]
+}

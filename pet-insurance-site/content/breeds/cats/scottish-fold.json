@@ -1,0 +1,120 @@
+{
+  "name": "Scottish Fold",
+  "slug": "scottish-fold",
+  "species": "cat",
+  "metaDescription": "Scottish Folds face serious joint disease from the fold gene, plus HCM. Compare the best pet insurance for Scottish Folds—coverage for osteochondrodysplasia & more.",
+  "intro": "Scottish Folds are beloved for their owl-like folded ears and sweet personalities. However, the same gene that creates those adorable ears causes serious cartilage and bone problems. All Scottish Folds are affected to some degree by osteochondrodysplasia. Insurance is essential for this breed.",
+  "whyInsurance": "The fold gene causes osteochondrodysplasia in ALL Scottish Folds—it's not a question of if, but when symptoms appear. This means arthritis, stiff joints, and chronic pain requiring lifelong management. Add HCM risk, and insurance becomes critical.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic pain management" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Petplan", "highlight": "Best for ongoing conditions" }
+  ],
+  "healthIssues": [
+    { "name": "Osteochondrodysplasia", "description": "Cartilage and bone disorder (affects ALL folds)", "cost": "$500 - $2,000/year ongoing" },
+    { "name": "Arthritis", "description": "Joint inflammation from OCD", "cost": "$300 - $1,500/year" },
+    { "name": "Hypertrophic Cardiomyopathy (HCM)", "description": "Heart muscle thickening", "cost": "$500 - $2,000/year" },
+    { "name": "Polycystic Kidney Disease", "description": "Cysts in kidneys", "cost": "$500 - $1,500/year" },
+    { "name": "Ear Infections", "description": "Due to folded ear structure", "cost": "$100 - $400" },
+    { "name": "Chronic Pain", "description": "Joint and cartilage pain", "cost": "$200 - $800/year" }
+  ],
+  "mustHave": [
+    "Chronic condition coverage — Osteochondrodysplasia is lifelong",
+    "Prescription coverage — Pain management requires ongoing medication",
+    "No breed-specific exclusions — Some insurers exclude fold-related conditions",
+    "High annual limits — Costs accumulate over your cat's lifetime"
+  ],
+  "redFlags": [
+    "Osteochondrodysplasia or cartilage exclusions",
+    "Scottish Fold breed exclusions",
+    "Arthritis or joint exclusions",
+    "Pre-existing condition definitions that exclude fold-related issues"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Pain Management",
+      "description": "Embrace excels at covering ongoing conditions and has strong prescription benefits—essential for Scottish Folds who need lifelong pain management and joint care.",
+      "cost": "$28-50/mo",
+      "pros": [
+        "Excellent chronic condition coverage",
+        "Strong prescription coverage",
+        "Covers hereditary conditions",
+        "Diminishing deductible helps long-term"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Verify fold coverage before purchase"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Scottish Fold's joint treatments, pain medication, and any complications are fully covered. Critical for a breed with guaranteed health issues.",
+      "cost": "$30-55/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "No per-condition caps"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "Can't change deductible later"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Petplan",
+      "tagline": "Best for Ongoing Conditions",
+      "description": "Petplan's comprehensive coverage for chronic and hereditary conditions makes it suitable for Scottish Folds. Verify coverage specifics before enrolling.",
+      "cost": "$32-58/mo",
+      "pros": [
+        "Good chronic condition coverage",
+        "Covers hereditary conditions",
+        "Dental illness coverage included",
+        "Customizable plans"
+      ],
+      "cons": [
+        "Higher premiums",
+        "Claims can be slower"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Scottish Folds have higher insurance costs due to their guaranteed health issues. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$25 - $42/month" },
+    { "age": "Adult (1-7 years)", "range": "$32 - $60/month" },
+    { "age": "Senior (8+ years)", "range": "$55 - $100+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Scottish Fold?",
+      "answer": "It's essential. ALL Scottish Folds have osteochondrodysplasia to some degree—it's caused by the same gene that folds their ears. This means guaranteed joint problems and chronic pain management. Insurance isn't optional for this breed."
+    },
+    {
+      "question": "What is osteochondrodysplasia?",
+      "answer": "It's a genetic disorder affecting cartilage and bone development throughout the body—not just the ears. It causes arthritis, stiff tail, stiff limbs, and chronic pain. Severity varies, but all folded-ear Scottish Folds are affected."
+    },
+    {
+      "question": "Do insurance companies exclude Scottish Folds?",
+      "answer": "Some do, or exclude fold-related conditions specifically. Always verify that osteochondrodysplasia, arthritis, and joint conditions are covered BEFORE purchasing. Get it in writing."
+    },
+    {
+      "question": "Are straight-eared Scottish Folds healthier?",
+      "answer": "Yes. Scottish Straights (non-folded ears) don't have the cartilage gene defect and avoid osteochondrodysplasia. They still may have HCM risk but are significantly healthier overall."
+    },
+    {
+      "question": "When do Scottish Fold health problems start?",
+      "answer": "Symptoms can appear as early as 7 weeks but often become noticeable between 6 months and 2 years. Early signs include stiff movement, reluctance to jump, and a thick, inflexible tail."
+    }
+  ],
+  "finalCta": "Protect your Scottish Fold from mounting health costs. Compare quotes and find comprehensive coverage today.",
+  "relatedBreeds": [
+    { "name": "British Shorthair", "slug": "british-shorthair" },
+    { "name": "Scottish Straight", "slug": "scottish-straight" },
+    { "name": "American Shorthair", "slug": "american-shorthair" }
+  ]
+}

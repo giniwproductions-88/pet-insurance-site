@@ -1,0 +1,120 @@
+{
+  "name": "Abyssinian",
+  "slug": "abyssinian",
+  "species": "cat",
+  "metaDescription": "Abyssinian cats face gingivitis, PRA, and kidney disease. Compare the best pet insurance for Abyssinians—coverage for dental issues, eye conditions & more.",
+  "intro": "Abyssinians are active, curious, and highly intelligent cats with a striking ticked coat. They're prone to dental disease (especially gingivitis), progressive retinal atrophy (PRA), and kidney issues. Their adventurous nature also means more accident risk.",
+  "whyInsurance": "Abyssinians face chronic gingivitis requiring ongoing dental care, PRA that can cause blindness, and renal amyloidosis (kidney disease). Their active, curious nature also leads to more injuries. Insurance helps cover both hereditary conditions and accidents.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for dental conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Lemonade", "highlight": "Best for active cats" }
+  ],
+  "healthIssues": [
+    { "name": "Gingivitis/Periodontal Disease", "description": "Chronic gum inflammation", "cost": "$500 - $2,500/year" },
+    { "name": "Progressive Retinal Atrophy (PRA)", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Renal Amyloidosis", "description": "Kidney disease from protein deposits", "cost": "$1,000 - $5,000+" },
+    { "name": "Pyruvate Kinase Deficiency", "description": "Red blood cell disorder", "cost": "$500 - $2,000" },
+    { "name": "Patellar Luxation", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Hyperthyroidism", "description": "Overactive thyroid", "cost": "$300 - $1,000/year" }
+  ],
+  "mustHave": [
+    "Dental illness coverage — Gingivitis is extremely common in Abyssinians",
+    "Eye condition coverage — PRA causes progressive blindness",
+    "Hereditary condition coverage — Multiple genetic risks",
+    "Accident coverage — Active breed with higher injury risk"
+  ],
+  "redFlags": [
+    "Dental disease exclusions",
+    "Eye condition exclusions",
+    "Kidney disease exclusions",
+    "Low per-condition limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Dental Conditions",
+      "description": "Embrace covers dental illness (not just accidents)—crucial for Abyssinians prone to chronic gingivitis. Their strong prescription coverage helps with ongoing treatment.",
+      "cost": "$24-42/mo",
+      "pros": [
+        "Dental illness coverage included",
+        "Good prescription coverage",
+        "Covers hereditary conditions",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Abyssinian's dental work, eye treatment, or kidney disease management is fully covered. Great for a breed with multiple health risks.",
+      "cost": "$26-45/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "Strong accident coverage"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "Dental coverage for illness only"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best for Active Cats",
+      "description": "Lemonade's strong accident coverage and quick claims suit adventurous Abyssinians. Affordable premiums with solid hereditary coverage.",
+      "cost": "$20-38/mo",
+      "pros": [
+        "Affordable premiums",
+        "Fast claims via app",
+        "Good accident coverage",
+        "Optional dental add-on"
+      ],
+      "cons": [
+        "Dental requires add-on",
+        "Newer company"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Abyssinian cats have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$18 - $32/month" },
+    { "age": "Adult (1-7 years)", "range": "$24 - $46/month" },
+    { "age": "Senior (8+ years)", "range": "$44 - $85+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for an Abyssinian cat?",
+      "answer": "Yes. Abyssinians are prone to chronic dental disease, PRA (blindness), and kidney problems. Their active nature also increases accident risk. Insurance is a smart investment for this breed."
+    },
+    {
+      "question": "Why do Abyssinians have dental problems?",
+      "answer": "Abyssinians are genetically predisposed to gingivitis and periodontal disease. Many need professional cleanings 1-2 times yearly and may require extractions. Dental costs add up quickly without insurance."
+    },
+    {
+      "question": "What is PRA in Abyssinian cats?",
+      "answer": "Progressive Retinal Atrophy causes gradual vision loss, eventually leading to blindness. There's no cure, but genetic testing can identify carriers. Affected cats adapt well to vision loss."
+    },
+    {
+      "question": "Do Abyssinians get injured more often?",
+      "answer": "Their curious, active nature means more climbing, jumping, and exploring—leading to more accidents. They're also known for getting into things. Good accident coverage is valuable."
+    },
+    {
+      "question": "How long do Abyssinians live?",
+      "answer": "Typically 12-15 years with proper care. Regular dental care, genetic screening, and keeping them safely active helps maximize lifespan."
+    }
+  ],
+  "finalCta": "Protect your adventurous Abyssinian from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Somali", "slug": "somali" },
+    { "name": "Bengal", "slug": "bengal" },
+    { "name": "Egyptian Mau", "slug": "egyptian-mau" }
+  ]
+}

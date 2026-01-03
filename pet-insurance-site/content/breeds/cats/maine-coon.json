@@ -1,0 +1,120 @@
+{
+  "name": "Maine Coon",
+  "slug": "maine-coon",
+  "species": "cat",
+  "metaDescription": "Maine Coons face HCM, hip dysplasia, and spinal issues. Compare the best pet insurance for Maine Coons—coverage for heart disease, joint problems & more.",
+  "intro": "Maine Coons are gentle giants known for their friendly personalities and impressive size. Unfortunately, their large frames come with health risks including hypertrophic cardiomyopathy (HCM), hip dysplasia, and spinal muscular atrophy. Insurance helps manage these potentially costly conditions.",
+  "whyInsurance": "Maine Coons are prone to HCM (the leading cause of death in cats), hip dysplasia (rare in cats but common in this breed), and spinal issues. A single heart diagnosis can mean thousands in ongoing care.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for heart conditions" },
+    { "name": "Spot", "highlight": "Best orthopedic coverage" }
+  ],
+  "healthIssues": [
+    { "name": "Hypertrophic Cardiomyopathy (HCM)", "description": "Heart muscle thickening", "cost": "$500 - $2,000/year ongoing" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,000 - $6,000" },
+    { "name": "Spinal Muscular Atrophy", "description": "Genetic muscle weakness", "cost": "$300 - $1,000" },
+    { "name": "Polycystic Kidney Disease", "description": "Cysts in kidneys", "cost": "$500 - $1,500/year" },
+    { "name": "Patellar Luxation", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Obesity", "description": "Weight-related issues", "cost": "$200 - $500/year" }
+  ],
+  "mustHave": [
+    "Cardiac coverage — HCM is extremely common in Maine Coons",
+    "Orthopedic coverage — Hip dysplasia occurs in this breed",
+    "Hereditary condition coverage — Multiple genetic conditions",
+    "High annual limits — Heart treatment adds up quickly"
+  ],
+  "redFlags": [
+    "Heart condition exclusions",
+    "Hip dysplasia exclusions",
+    "Long orthopedic waiting periods",
+    "Low lifetime limits"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Maine Coon's heart treatment, hip surgery, or any other condition is fully covered. Essential for a breed with expensive health risks.",
+      "cost": "$30-52/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions including HCM",
+        "Fast claims processing",
+        "Straightforward coverage"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip dysplasia wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Heart Conditions",
+      "description": "Embrace offers strong coverage for cardiac conditions with good prescription benefits—important for Maine Coons who may need heart medication long-term.",
+      "cost": "$28-48/mo",
+      "pros": [
+        "Excellent cardiac coverage",
+        "Good prescription coverage",
+        "Covers hereditary conditions",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Spot",
+      "tagline": "Best Orthopedic Coverage",
+      "description": "Spot's coverage for hip dysplasia and joint issues makes it a strong choice for large breeds like Maine Coons. Customizable plans fit different budgets.",
+      "cost": "$25-45/mo",
+      "pros": [
+        "Good orthopedic coverage",
+        "Covers hereditary conditions",
+        "Customizable plans",
+        "Optional wellness add-on"
+      ],
+      "cons": [
+        "14-day illness wait",
+        "Some exclusions vary by state"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Maine Coons have moderate insurance costs. Their size and health risks are balanced by their generally good health otherwise. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$22 - $38/month" },
+    { "age": "Adult (1-7 years)", "range": "$28 - $55/month" },
+    { "age": "Senior (8+ years)", "range": "$50 - $95+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Maine Coon?",
+      "answer": "Yes. Maine Coons are prone to HCM (heart disease) and hip dysplasia—both expensive to treat. HCM alone can cost $1,000-2,000+ annually in medication and monitoring. Insurance provides peace of mind."
+    },
+    {
+      "question": "What is HCM in Maine Coons?",
+      "answer": "Hypertrophic Cardiomyopathy causes the heart muscle to thicken, making it harder to pump blood. It's the most common heart disease in cats and particularly prevalent in Maine Coons. Regular screening and early treatment improve outcomes."
+    },
+    {
+      "question": "Do Maine Coons really get hip dysplasia?",
+      "answer": "Yes—unusual for cats but Maine Coons are an exception due to their large size. Studies show up to 18% of Maine Coons have some degree of hip dysplasia. It's worth getting orthopedic coverage."
+    },
+    {
+      "question": "Should I screen my Maine Coon for genetic conditions?",
+      "answer": "Absolutely. Reputable breeders screen for HCM and other conditions. Even with clear screenings, regular heart checkups are recommended. Insurance helps cover these diagnostics."
+    },
+    {
+      "question": "Are Maine Coons expensive to insure?",
+      "answer": "Slightly higher than average domestic cats but not extreme. Expect $28-55/month for good coverage. Given their predisposition to costly conditions, it's a reasonable investment."
+    }
+  ],
+  "finalCta": "Protect your gentle giant from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Norwegian Forest Cat", "slug": "norwegian-forest-cat" },
+    { "name": "Ragdoll", "slug": "ragdoll" },
+    { "name": "Siberian", "slug": "siberian" }
+  ]
+}

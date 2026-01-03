@@ -1,0 +1,120 @@
+{
+  "name": "Bengal",
+  "slug": "bengal",
+  "species": "cat",
+  "metaDescription": "Bengal cats face HCM, PRA, and joint issues. Compare the best pet insurance for Bengals—coverage for heart disease, eye conditions, patellar luxation & more.",
+  "intro": "Bengal cats are striking, athletic, and highly active—but their exotic heritage comes with health considerations. They're prone to hypertrophic cardiomyopathy (HCM), progressive retinal atrophy (PRA), and patellar luxation. Their high activity level also means more accident risk.",
+  "whyInsurance": "Bengals face HCM (heart disease), PRA (can cause blindness), and knee problems. Their energetic nature also leads to more injuries. Insurance helps cover both hereditary conditions and the accidents active Bengals get into.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for eye conditions" },
+    { "name": "Lemonade", "highlight": "Best for active cats" }
+  ],
+  "healthIssues": [
+    { "name": "Hypertrophic Cardiomyopathy (HCM)", "description": "Heart muscle thickening", "cost": "$500 - $2,000/year ongoing" },
+    { "name": "Progressive Retinal Atrophy (PRA)", "description": "Degenerative blindness", "cost": "$500 - $2,000" },
+    { "name": "Patellar Luxation", "description": "Kneecap dislocation", "cost": "$1,500 - $3,500" },
+    { "name": "Hip Dysplasia", "description": "Joint malformation", "cost": "$3,000 - $6,000" },
+    { "name": "Flat-Chested Kitten Syndrome", "description": "Chest deformity in kittens", "cost": "$500 - $2,000" },
+    { "name": "Chronic Anemia", "description": "Blood cell deficiency", "cost": "$300 - $1,000/year" }
+  ],
+  "mustHave": [
+    "Cardiac coverage — HCM is common in Bengals",
+    "Eye condition coverage — PRA causes progressive blindness",
+    "Orthopedic coverage — Patellar luxation is prevalent",
+    "Accident coverage — Active breed with higher injury risk"
+  ],
+  "redFlags": [
+    "Heart condition exclusions",
+    "Eye disease exclusions",
+    "Knee/joint exclusions",
+    "Exotic breed surcharges or exclusions"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps on claims means your Bengal's heart treatment, eye care, or knee surgery is fully covered. Great for an active breed that may face multiple issues.",
+      "cost": "$28-48/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "Strong accident coverage"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "Can't change deductible later"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Eye Conditions",
+      "description": "Embrace offers comprehensive coverage for hereditary eye conditions like PRA. Their prescription coverage is also valuable if your Bengal needs ongoing medication.",
+      "cost": "$26-45/mo",
+      "pros": [
+        "Excellent eye condition coverage",
+        "Good prescription coverage",
+        "Covers hereditary conditions",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best for Active Cats",
+      "description": "Lemonade's strong accident coverage and quick claims make it ideal for adventurous Bengals. Affordable premiums with solid hereditary coverage.",
+      "cost": "$22-40/mo",
+      "pros": [
+        "Affordable premiums",
+        "Fast claims via app",
+        "Good accident coverage",
+        "Covers hereditary conditions"
+      ],
+      "cons": [
+        "Newer company",
+        "Add-ons increase cost"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Bengal cats have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$20 - $35/month" },
+    { "age": "Adult (1-7 years)", "range": "$26 - $50/month" },
+    { "age": "Senior (8+ years)", "range": "$48 - $90+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Bengal cat?",
+      "answer": "Yes. Bengals are prone to HCM, PRA, and joint problems—all expensive to treat. Their high activity level also means more accident risk. Insurance is a smart investment for this breed."
+    },
+    {
+      "question": "Are Bengals considered exotic for insurance purposes?",
+      "answer": "Most insurers treat Bengals as domestic cats since they're several generations removed from wild ancestors. However, some may have restrictions. Always confirm before purchasing."
+    },
+    {
+      "question": "What is PRA in Bengal cats?",
+      "answer": "Progressive Retinal Atrophy is a genetic condition causing gradual vision loss, eventually leading to blindness. There's no cure, but affected cats adapt well. Genetic testing can identify carriers."
+    },
+    {
+      "question": "Do Bengal cats get injured more often?",
+      "answer": "Their athletic nature means more climbing, jumping, and exploring—which can lead to falls, sprains, or other injuries. Good accident coverage is particularly valuable for Bengals."
+    },
+    {
+      "question": "Should I get my Bengal tested for genetic conditions?",
+      "answer": "Yes. Tests exist for PRA-b (Bengal-specific PRA) and can identify carriers. Reputable breeders screen for this. HCM requires echocardiograms for detection."
+    }
+  ],
+  "finalCta": "Protect your adventurous Bengal from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Savannah", "slug": "savannah" },
+    { "name": "Abyssinian", "slug": "abyssinian" },
+    { "name": "Egyptian Mau", "slug": "egyptian-mau" }
+  ]
+}

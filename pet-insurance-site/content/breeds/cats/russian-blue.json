@@ -1,0 +1,120 @@
+{
+  "name": "Russian Blue",
+  "slug": "russian-blue",
+  "species": "cat",
+  "metaDescription": "Russian Blue cats are generally healthy but face obesity and bladder stone risks. Compare the best pet insurance for Russian Blues—affordable coverage options.",
+  "intro": "Russian Blues are gentle, intelligent cats known for their striking silver-blue coat and vivid green eyes. They're one of the healthier purebred cats but can develop obesity, bladder stones, and occasional eye issues. Insurance provides affordable peace of mind.",
+  "whyInsurance": "While Russian Blues are healthier than many breeds, they're prone to obesity (leading to diabetes and other issues) and bladder stones. Their reserved nature means stress-related conditions can occur. Insurance costs are low for the protection provided.",
+  "topPicks": [
+    { "name": "Lemonade", "highlight": "Best budget option" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Pumpkin", "highlight": "Best for preventive care" }
+  ],
+  "healthIssues": [
+    { "name": "Obesity", "description": "Weight-related complications", "cost": "$200 - $800/year" },
+    { "name": "Bladder Stones", "description": "Urinary crystals/stones", "cost": "$1,500 - $4,000" },
+    { "name": "Diabetes", "description": "Often weight-related", "cost": "$500 - $2,000/year" },
+    { "name": "Progressive Retinal Atrophy", "description": "Rare eye degeneration", "cost": "$500 - $2,000" },
+    { "name": "Stress-Related Issues", "description": "Sensitive to change", "cost": "$200 - $600" },
+    { "name": "Dental Disease", "description": "Standard periodontal issues", "cost": "$500 - $1,500" }
+  ],
+  "mustHave": [
+    "Urinary condition coverage — Bladder stones can require surgery",
+    "Chronic condition coverage — Diabetes needs lifelong management",
+    "Accident coverage — Basic protection for unexpected injuries",
+    "Reasonable deductible — Lower-risk breed doesn't need premium plans"
+  ],
+  "redFlags": [
+    "Urinary condition exclusions",
+    "Diabetes exclusions",
+    "Extremely high premiums (shop around)",
+    "Low annual limits"
+  ],
+  "providers": [
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "For a generally healthy breed like Russian Blues, Lemonade offers excellent value. Low premiums with solid coverage for the conditions that matter.",
+      "cost": "$15-30/mo",
+      "pros": [
+        "Very affordable premiums",
+        "Fast claims via app",
+        "Covers hereditary conditions",
+        "Good value for healthy breeds"
+      ],
+      "cons": [
+        "Newer company",
+        "Add-ons increase price"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "If you want comprehensive protection without caps, Healthy Paws covers bladder surgery, diabetes management, or any unexpected issues fully.",
+      "cost": "$22-40/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "Straightforward policy"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "Higher than budget options"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pumpkin",
+      "tagline": "Best for Preventive Care",
+      "description": "Pumpkin's preventive care options help manage your Russian Blue's weight and catch issues early. Good for proactive pet owners.",
+      "cost": "$18-35/mo",
+      "pros": [
+        "Good preventive care options",
+        "Covers hereditary conditions",
+        "90% reimbursement available",
+        "Nutrition support coverage"
+      ],
+      "cons": [
+        "Preventive care costs extra",
+        "14-day illness wait"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Russian Blue cats have lower insurance costs due to their generally good health. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$14 - $28/month" },
+    { "age": "Adult (1-7 years)", "range": "$18 - $38/month" },
+    { "age": "Senior (8+ years)", "range": "$35 - $70+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Russian Blue?",
+      "answer": "Yes, though Russian Blues are one of the healthier breeds. Insurance is affordable for this breed, and coverage for bladder stones, diabetes, or emergencies provides peace of mind. It's low-cost protection."
+    },
+    {
+      "question": "Are Russian Blue cats healthy?",
+      "answer": "Generally yes—they're one of the healthier purebred cats with few genetic issues. Main concerns are obesity and bladder stones, both manageable with proper care. They typically live 15-20 years."
+    },
+    {
+      "question": "Do Russian Blues have weight problems?",
+      "answer": "They can. Russian Blues love food and their calm nature means less activity. Obesity leads to diabetes, joint issues, and other problems. Monitor portions and encourage play."
+    },
+    {
+      "question": "Why are Russian Blue insurance costs lower?",
+      "answer": "Fewer genetic health issues mean lower risk for insurers. You'll pay less than owners of high-risk breeds like Persians or Scottish Folds. Take advantage of the lower premiums."
+    },
+    {
+      "question": "Should I still get comprehensive coverage for my Russian Blue?",
+      "answer": "Consider it. While they're healthy, bladder stone surgery costs $3,000+ and diabetes requires lifelong management. Comprehensive coverage is affordable for this breed and protects against surprises."
+    }
+  ],
+  "finalCta": "Protect your elegant Russian Blue with affordable coverage. Compare quotes and find the right plan today.",
+  "relatedBreeds": [
+    { "name": "Chartreux", "slug": "chartreux" },
+    { "name": "British Shorthair", "slug": "british-shorthair" },
+    { "name": "Korat", "slug": "korat" }
+  ]
+}

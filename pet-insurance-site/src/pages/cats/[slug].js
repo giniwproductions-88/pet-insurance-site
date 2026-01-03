@@ -5,7 +5,7 @@ import fs from 'fs'
 import path from 'path'
 
 export async function getStaticPaths() {
-  const breedsDirectory = path.join(process.cwd(), 'content/breeds/dogs')
+  const breedsDirectory = path.join(process.cwd(), 'content/breeds/cats')
   const filenames = fs.readdirSync(breedsDirectory)
   
   const paths = filenames.map((filename) => ({
@@ -21,7 +21,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const filePath = path.join(process.cwd(), 'content/breeds/dogs', `${params.slug}.json`)
+  const filePath = path.join(process.cwd(), 'content/breeds/cats', `${params.slug}.json`)
   const fileContents = fs.readFileSync(filePath, 'utf8')
   const breed = JSON.parse(fileContents)
   
@@ -32,12 +32,12 @@ export async function getStaticProps({ params }) {
   }
 }
 
-export default function BreedPage({ breed }) {
+export default function CatBreedPage({ breed }) {
   const currentYear = new Date().getFullYear()
   
   return (
     <Layout
-      title={`Best Pet Insurance for ${breed.name}s (${currentYear})`}
+      title={`Best Pet Insurance for ${breed.name} Cats (${currentYear})`}
       description={breed.metaDescription}
     >
       {/* FAQ Schema */}
@@ -66,10 +66,10 @@ export default function BreedPage({ breed }) {
         <div className="container-wide">
           <div className="max-w-3xl">
             <p className="text-brand-600 font-medium mb-2">
-              <Link href="/breeds" className="hover:underline">Dog Breeds</Link> / {breed.name}
+              <Link href="/cats" className="hover:underline">Cat Breeds</Link> / {breed.name}
             </p>
             <h1 className="text-gray-900 mb-6">
-              Best Pet Insurance for {breed.name}s ({currentYear})
+              Best Pet Insurance for {breed.name} Cats ({currentYear})
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed mb-8">
               {breed.intro}
@@ -85,7 +85,7 @@ export default function BreedPage({ breed }) {
       <section className="py-12 border-b">
         <div className="container-wide">
           <div className="card-highlight">
-            <h2 className="text-xl font-semibold mb-4">🏆 Our Top Picks for {breed.name}s</h2>
+            <h2 className="text-xl font-semibold mb-4">🏆 Our Top Picks for {breed.name} Cats</h2>
             <div className="grid md:grid-cols-3 gap-4">
               {breed.topPicks.map((pick, index) => (
                 <div key={pick.name} className="flex items-start gap-3">
@@ -106,7 +106,7 @@ export default function BreedPage({ breed }) {
       {/* Why Insurance */}
       <section className="py-12">
         <div className="container-wide">
-          <h2 className="mb-4">Why {breed.name}s Need Insurance</h2>
+          <h2 className="mb-4">Why {breed.name} Cats Need Insurance</h2>
           <p className="text-gray-600 mb-8 max-w-3xl">
             {breed.whyInsurance}
           </p>
@@ -175,7 +175,7 @@ export default function BreedPage({ breed }) {
       {/* Provider Reviews */}
       <section id="providers" className="py-12">
         <div className="container-wide">
-          <h2 className="mb-8">Best Insurance Providers for {breed.name}s</h2>
+          <h2 className="mb-8">Best Insurance Providers for {breed.name} Cats</h2>
           
           <div className="space-y-8">
             {breed.providers.map((provider, index) => (
@@ -295,12 +295,12 @@ export default function BreedPage({ breed }) {
       {breed.relatedBreeds && breed.relatedBreeds.length > 0 && (
         <section className="py-12">
           <div className="container-wide">
-            <h2 className="mb-6">Related Dog Breeds</h2>
+            <h2 className="mb-6">Related Cat Breeds</h2>
             <div className="flex flex-wrap gap-4">
               {breed.relatedBreeds.map((related) => (
                 <Link
                   key={related.slug}
-                  href={`/breeds/${related.slug}`}
+                  href={`/cats/${related.slug}`}
                   className="px-4 py-2 bg-gray-100 rounded-lg text-gray-700 hover:bg-gray-200 transition-colors"
                 >
                   {related.name} →

@@ -1,0 +1,120 @@
+{
+  "name": "Siamese",
+  "slug": "siamese",
+  "species": "cat",
+  "metaDescription": "Siamese cats face respiratory issues, dental disease, and amyloidosis. Compare the best pet insurance for Siamese cats—coverage for hereditary conditions & more.",
+  "intro": "Siamese cats are vocal, intelligent, and deeply social companions. While generally healthy, they're prone to respiratory issues, dental disease, and a serious condition called amyloidosis. Insurance helps manage both routine issues and potential major health events.",
+  "whyInsurance": "Siamese cats face amyloidosis (liver/kidney disease), asthma and respiratory problems, and severe dental issues. Amyloidosis can be fatal and treatment is expensive. Insurance provides crucial financial protection.",
+  "topPicks": [
+    { "name": "Embrace", "highlight": "Best for chronic conditions" },
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Lemonade", "highlight": "Best budget option" }
+  ],
+  "healthIssues": [
+    { "name": "Amyloidosis", "description": "Protein deposits in organs", "cost": "$1,000 - $5,000+" },
+    { "name": "Asthma", "description": "Chronic respiratory condition", "cost": "$300 - $1,000/year" },
+    { "name": "Dental Disease", "description": "Periodontal problems", "cost": "$500 - $2,000" },
+    { "name": "Progressive Retinal Atrophy", "description": "Degenerative eye disease", "cost": "$500 - $2,000" },
+    { "name": "Crossed Eyes (Strabismus)", "description": "Eye alignment issue", "cost": "Usually no treatment needed" },
+    { "name": "Vestibular Disease", "description": "Balance/coordination issues", "cost": "$500 - $1,500" }
+  ],
+  "mustHave": [
+    "Hereditary condition coverage — Amyloidosis is breed-specific",
+    "Respiratory coverage — Asthma is common",
+    "Dental illness coverage — Prone to periodontal disease",
+    "Chronic condition coverage — Asthma requires ongoing treatment"
+  ],
+  "redFlags": [
+    "Kidney/liver disease exclusions",
+    "Respiratory condition exclusions",
+    "Dental disease exclusions",
+    "Low per-condition limits"
+  ],
+  "providers": [
+    {
+      "name": "Embrace",
+      "tagline": "Best for Chronic Conditions",
+      "description": "Embrace excels at covering ongoing conditions like asthma. Their prescription coverage is valuable for Siamese cats needing long-term respiratory medication.",
+      "cost": "$22-40/mo",
+      "pros": [
+        "Excellent chronic condition coverage",
+        "Strong prescription coverage",
+        "Dental illness coverage",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps on claims means your Siamese's asthma treatment, dental work, or major illness is fully covered. Simple, straightforward protection.",
+      "cost": "$24-42/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions",
+        "Fast claims processing",
+        "Straightforward policy"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "No dental coverage for cleanings"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Lemonade",
+      "tagline": "Best Budget Option",
+      "description": "Affordable coverage for Siamese owners who want protection without premium prices. Covers hereditary conditions and offers optional add-ons.",
+      "cost": "$18-35/mo",
+      "pros": [
+        "Very affordable premiums",
+        "Fast claims via app",
+        "Covers hereditary conditions",
+        "Optional dental add-on"
+      ],
+      "cons": [
+        "Newer company",
+        "Add-ons increase price"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Siamese cats have lower insurance costs than many purebreds due to their generally good health. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$16 - $30/month" },
+    { "age": "Adult (1-7 years)", "range": "$22 - $42/month" },
+    { "age": "Senior (8+ years)", "range": "$40 - $80+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Siamese cat?",
+      "answer": "Yes. While Siamese are generally healthy, they're at risk for amyloidosis (a serious disease) and chronic asthma. Insurance costs are reasonable for this breed, making it a smart investment."
+    },
+    {
+      "question": "What is amyloidosis in Siamese cats?",
+      "answer": "Amyloidosis occurs when abnormal proteins deposit in organs, usually liver or kidneys. It's more common in Siamese and related breeds. There's no cure, but early detection and management can extend quality of life."
+    },
+    {
+      "question": "Do Siamese cats have respiratory problems?",
+      "answer": "Many Siamese develop asthma or other respiratory sensitivities. Symptoms include coughing, wheezing, and labored breathing. Treatment typically involves inhalers or medication—costs that add up over time."
+    },
+    {
+      "question": "Why do Siamese cats have dental problems?",
+      "answer": "Siamese are prone to periodontal disease and may need more frequent dental cleanings than other breeds. Severe cases require extractions. Good dental coverage is valuable."
+    },
+    {
+      "question": "Are Siamese cats generally healthy?",
+      "answer": "Compared to many purebreds, yes. They typically live 12-20 years. However, breed-specific risks like amyloidosis and asthma mean insurance is still worthwhile."
+    }
+  ],
+  "finalCta": "Protect your vocal Siamese from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Balinese", "slug": "balinese" },
+    { "name": "Oriental Shorthair", "slug": "oriental-shorthair" },
+    { "name": "Tonkinese", "slug": "tonkinese" }
+  ]
+}

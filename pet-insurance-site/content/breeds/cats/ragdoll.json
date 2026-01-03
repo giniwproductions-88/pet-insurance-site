@@ -1,0 +1,120 @@
+{
+  "name": "Ragdoll",
+  "slug": "ragdoll",
+  "species": "cat",
+  "metaDescription": "Ragdoll cats face HCM, bladder stones, and obesity risks. Compare the best pet insurance for Ragdolls—coverage for heart disease, urinary issues & more.",
+  "intro": "Ragdolls are gentle, docile cats known for going limp when held—hence the name. These large, laid-back cats are prone to hypertrophic cardiomyopathy (HCM), bladder stones, and weight issues. Insurance helps manage these potential health costs.",
+  "whyInsurance": "Ragdolls face HCM (common in the breed), urinary tract issues including painful bladder stones, and obesity-related problems. A single bladder surgery can cost $3,000+. Insurance provides financial protection.",
+  "topPicks": [
+    { "name": "Healthy Paws", "highlight": "Best unlimited coverage" },
+    { "name": "Embrace", "highlight": "Best for urinary conditions" },
+    { "name": "Pumpkin", "highlight": "Best preventive care add-on" }
+  ],
+  "healthIssues": [
+    { "name": "Hypertrophic Cardiomyopathy (HCM)", "description": "Heart muscle thickening", "cost": "$500 - $2,000/year ongoing" },
+    { "name": "Bladder Stones", "description": "Calcium oxalate stones", "cost": "$1,500 - $4,000" },
+    { "name": "Feline Infectious Peritonitis (FIP)", "description": "Viral infection", "cost": "$5,000 - $10,000+" },
+    { "name": "Obesity", "description": "Weight-related issues", "cost": "$200 - $500/year" },
+    { "name": "Hairballs/GI Issues", "description": "Long fur complications", "cost": "$200 - $800" },
+    { "name": "Feline Mucopolysaccharidosis", "description": "Rare metabolic disorder", "cost": "$500 - $2,000" }
+  ],
+  "mustHave": [
+    "Cardiac coverage — HCM is common in Ragdolls",
+    "Urinary condition coverage — Bladder stones are prevalent",
+    "High annual limits — FIP treatment is extremely expensive",
+    "Hereditary condition coverage — Multiple genetic risks"
+  ],
+  "redFlags": [
+    "Heart condition exclusions",
+    "Urinary condition exclusions",
+    "Low annual or lifetime limits",
+    "FIP exclusions"
+  ],
+  "providers": [
+    {
+      "name": "Healthy Paws",
+      "tagline": "Best Unlimited Coverage",
+      "description": "No caps mean your Ragdoll's heart treatment, bladder surgery, or even FIP treatment is fully covered. Essential for potential high-cost conditions.",
+      "cost": "$28-50/mo",
+      "pros": [
+        "No annual or lifetime limits",
+        "Covers hereditary conditions including HCM",
+        "Fast claims processing",
+        "FIP treatment covered"
+      ],
+      "cons": [
+        "No wellness coverage",
+        "12-month hip dysplasia wait"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Embrace",
+      "tagline": "Best for Urinary Conditions",
+      "description": "Embrace offers strong coverage for urinary tract conditions including bladder stones. Their prescription coverage helps with ongoing management.",
+      "cost": "$26-46/mo",
+      "pros": [
+        "Good urinary condition coverage",
+        "Strong prescription coverage",
+        "Covers hereditary conditions",
+        "Diminishing deductible"
+      ],
+      "cons": [
+        "Annual limits apply",
+        "Wellness costs extra"
+      ],
+      "affiliateLink": "#"
+    },
+    {
+      "name": "Pumpkin",
+      "tagline": "Best Preventive Care Add-on",
+      "description": "Pumpkin's preventive care options help with weight management and routine care—valuable for Ragdolls prone to obesity. Solid core coverage too.",
+      "cost": "$25-45/mo",
+      "pros": [
+        "Good preventive care options",
+        "Covers hereditary conditions",
+        "90% reimbursement available",
+        "No upper age limits"
+      ],
+      "cons": [
+        "Preventive care costs extra",
+        "14-day illness wait"
+      ],
+      "affiliateLink": "#"
+    }
+  ],
+  "costIntro": "Ragdoll cats have moderate insurance costs. Here's what to expect:",
+  "costByAge": [
+    { "age": "Kitten (8 weeks - 1 year)", "range": "$20 - $35/month" },
+    { "age": "Adult (1-7 years)", "range": "$26 - $52/month" },
+    { "age": "Senior (8+ years)", "range": "$48 - $90+/month" }
+  ],
+  "faqs": [
+    {
+      "question": "Is pet insurance worth it for a Ragdoll cat?",
+      "answer": "Yes. Ragdolls are prone to HCM and bladder stones—both can result in thousands in vet bills. Their gentle nature means they're indoor cats, but health risks remain. Insurance is a smart investment."
+    },
+    {
+      "question": "Are Ragdolls prone to heart disease?",
+      "answer": "Yes. Hypertrophic Cardiomyopathy (HCM) is more common in Ragdolls than many breeds. Regular cardiac screening is recommended, especially from reputable breeders who test their cats."
+    },
+    {
+      "question": "Why do Ragdolls get bladder stones?",
+      "answer": "Ragdolls are predisposed to calcium oxalate bladder stones. Diet, hydration, and genetics all play roles. Stones can require surgical removal costing $1,500-4,000+."
+    },
+    {
+      "question": "Do Ragdolls have weight problems?",
+      "answer": "Their laid-back nature means less activity, making them prone to obesity. Overweight cats face diabetes, joint issues, and other problems. Monitoring diet and encouraging play helps."
+    },
+    {
+      "question": "Are Ragdolls expensive to insure?",
+      "answer": "Moderate—similar to other large breeds. Expect $26-52/month for good coverage. Their health risks justify the investment in comprehensive insurance."
+    }
+  ],
+  "finalCta": "Protect your gentle Ragdoll from unexpected health costs. Compare quotes and find the right coverage today.",
+  "relatedBreeds": [
+    { "name": "Birman", "slug": "birman" },
+    { "name": "Maine Coon", "slug": "maine-coon" },
+    { "name": "Persian", "slug": "persian" }
+  ]
+}

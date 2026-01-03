@@ -4,7 +4,7 @@ import fs from 'fs'
 import path from 'path'
 
 export async function getStaticProps() {
-  const breedsDirectory = path.join(process.cwd(), 'content/breeds/dogs')
+  const breedsDirectory = path.join(process.cwd(), 'content/breeds/cats')
   const filenames = fs.readdirSync(breedsDirectory)
   
   const breeds = filenames.map((filename) => {
@@ -17,7 +17,7 @@ export async function getStaticProps() {
       slug: breed.slug,
       metaDescription: breed.metaDescription,
       healthIssues: breed.healthIssues.slice(0, 3).map(h => h.name),
-      costRange: breed.costByAge[1]?.range || '$40-80/mo',
+      costRange: breed.costByAge[1]?.range || '$25-50/mo',
     }
   })
   
@@ -31,18 +31,18 @@ export async function getStaticProps() {
   }
 }
 
-export default function BreedsIndex({ breeds }) {
+export default function CatBreedsIndex({ breeds }) {
   return (
     <Layout
-      title="Dog Insurance by Breed"
-      description="Find the best pet insurance for your specific dog breed. Compare coverage, costs, and health risks for popular dog breeds."
+      title="Cat Insurance by Breed"
+      description="Find the best pet insurance for your cat breed. Compare coverage, costs, and health risks for popular cat breeds like Persian, Maine Coon, and Bengal."
     >
       {/* Hero */}
       <section className="bg-gradient-to-br from-brand-50 via-white to-forest-50 py-12 md:py-16">
         <div className="container-wide">
-          <h1 className="text-gray-900 mb-4">Dog Insurance by Breed</h1>
+          <h1 className="text-gray-900 mb-4">Cat Insurance by Breed</h1>
           <p className="text-xl text-gray-600 max-w-2xl">
-            Every breed has different health risks. Find coverage recommendations tailored to your dog's specific needs.
+            Every cat breed has different health risks. Find coverage recommendations tailored to your cat's specific needs.
           </p>
         </div>
       </section>
@@ -54,7 +54,7 @@ export default function BreedsIndex({ breeds }) {
             {breeds.map((breed) => (
               <Link
                 key={breed.slug}
-                href={`/breeds/${breed.slug}`}
+                href={`/cats/${breed.slug}`}
                 className="card hover:shadow-md hover:border-brand-200 transition-all group"
               >
                 <h2 className="text-lg font-semibold group-hover:text-brand-600 transition-colors mb-2">
@@ -73,7 +73,7 @@ export default function BreedsIndex({ breeds }) {
           {breeds.length < 10 && (
             <div className="mt-12 text-center p-8 bg-gray-50 rounded-xl">
               <p className="text-gray-600 mb-2">
-                More breeds coming soon! We're adding new guides every week.
+                More cat breeds coming soon! We're adding new guides every week.
               </p>
               <p className="text-sm text-gray-500">
                 Don't see your breed? Check back soon or start with a similar breed above.
@@ -83,12 +83,12 @@ export default function BreedsIndex({ breeds }) {
         </div>
       </section>
 
-      {/* Cross-link to Cats */}
+      {/* Cross-link to Dogs */}
       <section className="py-12 bg-gray-50">
         <div className="container-wide text-center">
-          <p className="text-gray-600 mb-4">Have a cat?</p>
-          <Link href="/cats" className="btn-secondary">
-            View Cat Breed Guides →
+          <p className="text-gray-600 mb-4">Have a dog too?</p>
+          <Link href="/breeds" className="btn-secondary">
+            View Dog Breed Guides →
           </Link>
         </div>
       </section>
@@ -98,7 +98,7 @@ export default function BreedsIndex({ breeds }) {
         <div className="container-narrow text-center">
           <h2 className="text-white mb-4">Not Sure Where to Start?</h2>
           <p className="text-gray-300 mb-6">
-            Our guides break down exactly what to look for based on your breed's health risks.
+            Our guides break down exactly what to look for based on your cat's health risks.
           </p>
           <Link href="/guides/is-pet-insurance-worth-it" className="btn-primary">
             Is Pet Insurance Worth It? →
