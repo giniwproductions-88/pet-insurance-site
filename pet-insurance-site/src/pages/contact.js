@@ -57,10 +57,10 @@ export default function Contact() {
                   For affiliate inquiries, partnership opportunities, or press requests:
                 </p>
                 <a 
-                  href="mailto:partnerships@comparepetinsure.com" 
+                  href="mailto:contact@comparepetinsure.com" 
                   className="text-brand-600 hover:text-brand-700 font-medium"
                 >
-                  partnerships@comparepetinsure.com
+                  contact@comparepetinsure.com
                 </a>
               </div>
             </div>
