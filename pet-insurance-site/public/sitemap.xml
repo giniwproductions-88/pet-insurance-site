@@ -61,7 +61,7 @@
     <priority>0.3</priority>
   </url>
 
-  <!-- Dog breed pages (51) -->
+  <!-- Dog breed pages (50) -->
   <url>
     <loc>https://comparepetinsure.com/breeds/akita</loc>
     <changefreq>monthly</changefreq>
@@ -159,11 +159,6 @@
   </url>
   <url>
     <loc>https://comparepetinsure.com/breeds/doberman-pinscher</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://comparepetinsure.com/breeds/doberman</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
